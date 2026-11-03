@@ -33,21 +33,28 @@ jobs:
       - if: env.SEC_UA != ''
         uses: actions/cache/restore@v5
         with:
-          path: durum.json
+          path: |
+            durum.json
+            durum-13d.json
           key: durum-${{ github.run_id }}
           restore-keys: durum-
       - if: env.SEC_UA != ''
         id: run
         run: node scripts/guncelle.mjs
-      - if: env.SEC_UA != '' && steps.run.outcome == 'success'
+      - if: env.SEC_UA != ''
+        id: run13d
+        run: node scripts/guncelle-13d.mjs
+      - if: env.SEC_UA != '' && steps.run.outcome == 'success' && steps.run13d.outcome == 'success'
         uses: actions/cache/save@v5
         with:
-          path: durum.json
+          path: |
+            durum.json
+            durum-13d.json
           key: durum-${{ github.run_id }}
       - if: env.SEC_UA != ''
         name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add son-islemler.json
+          git add son-islemler.json son-13d.json
           git diff --cached --quiet || (git commit -m "Güncelle: $(date -u +%Y-%m-%dT%H:%MZ)" && git push)
