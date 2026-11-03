@@ -113,17 +113,9 @@ async function main() {
   if (!firstRun && !IGNORE_STATE && !reachedSeen) console.log(`warning: no known filing within ${pages} pages, some may have been missed`);
 
   const now = new Date().toISOString();
-  if (firstRun) {
-    for (const acc of [...entries.keys()].reverse()) seen.add(acc); // newest last
-    console.log(`first run: pages=${pages} marked=${entries.size} filings as seen`);
-    if (!DRY) {
-      writeJson(F_STATE, { ilk_kosu_tamam: true, gorulen: [...seen].slice(-MAX_SEEN) });
-      writeJson(F_REC, { guncellendi: now, kayitlar: store.kayitlar });
-    }
-    return;
-  }
+  if (firstRun) console.log(`first run: processing all ${entries.size} filings on ${pages} pages`);
 
-  // New filings, oldest first (feed is newest first).
+  // New filings, oldest first (feed is newest first). On the first run that is every filing read, so the list starts filled.
   let fresh = [...entries.values()].filter((e) => !seen.has(e.acc)).reverse();
   if (fresh.length > LIMIT) fresh = fresh.slice(0, LIMIT);
   const added = [];
@@ -140,7 +132,9 @@ async function main() {
         if (s.shares > 0) console.log(`${e.acc} ${f.ticker} ${code === 'P' ? 'alim' : 'satim'} ${s.usd.toFixed(2)}`);
       }
       const dom = buy.usd >= sell.usd ? buy : sell;
-      if (dom.shares > 0 && dom.usd >= THRESHOLD) {
+      // Issuers without a listed symbol report "N/A" / "NONE": not a stock a reader can look up, skip.
+      const listed = /^[A-Z0-9.\-]{1,10}$/.test(f.ticker) && f.ticker !== 'NONE';
+      if (listed && dom.shares > 0 && dom.usd >= THRESHOLD) {
         added.push({
           tarih: dom.date, dosyalama: e.updated, ticker: f.ticker, sirket: f.sirket, kisi: f.kisi, unvan: f.unvan,
           tur: dom === buy ? 'alim' : 'satim', adet: dom.shares,
