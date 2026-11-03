@@ -18,9 +18,9 @@ jobs:
       - if: env.SEC_UA == ''
         run: echo "SEC_UA secret is not set, skipping."
       - if: env.SEC_UA != ''
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - if: env.SEC_UA != ''
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 22
       - if: env.SEC_UA != ''
