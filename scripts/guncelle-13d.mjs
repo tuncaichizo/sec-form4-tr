@@ -176,7 +176,10 @@ async function main() {
 
   const byAcc = new Map();
   for (const r of [...added, ...store.kayitlar]) { const k = accOf(r.sec_link); if (!byAcc.has(k)) byAcc.set(k, r); }
-  const kayitlar = [...byAcc.values()].sort((a, b) => new Date(b.dosyalama) - new Date(a.dosyalama)).slice(0, MAX_RECORDS);
+  // Up to MAX_RECORDS per form type (13D incl. /A, 13G incl. /A) so bulk 13G/A batches cannot crowd out 13D; merged, newest first.
+  const newest = (x, y) => new Date(y.dosyalama) - new Date(x.dosyalama);
+  const all = [...byAcc.values()].sort(newest);
+  const kayitlar = [...all.filter((r) => r.tur === '13D').slice(0, MAX_RECORDS), ...all.filter((r) => r.tur === '13G').slice(0, MAX_RECORDS)].sort(newest);
   // Write only when the list changed (no commit noise).
   if (JSON.stringify(kayitlar) !== JSON.stringify(store.kayitlar)) writeJson(F_REC, { guncellendi: new Date().toISOString(), kayitlar });
   writeJson(F_STATE, { ilk_kosu_tamam: true, gorulen: [...seen].slice(-MAX_SEEN) });
