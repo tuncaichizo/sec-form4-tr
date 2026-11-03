@@ -12,6 +12,7 @@ if (!UA) {
 const args = process.argv.slice(2);
 const DRY = args.includes('--dry');
 const IGNORE_STATE = args.includes('--ignore-state');
+const GUNLUK = args.includes('--gunluk') || process.env.GUNLUK === 'true';
 const li = args.indexOf('--limit');
 const LIMIT = li >= 0 ? parseInt(args[li + 1], 10) : Infinity;
 
@@ -20,7 +21,8 @@ const F_REC = path.join(ROOT, 'son-islemler.json');
 const F_STATE = path.join(ROOT, 'durum.json');
 const FEED = 'https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=4&dateb=&owner=include&count=100&output=atom';
 // type=4 is a prefix filter (424B2, 497K… come too): ~10-15 Form 4 per 100 entries, hence up to 10 pages.
-const MAX_PAGES = 10, MAX_RECORDS = 50, MAX_SEEN = 3000, THRESHOLD = 1_000_000;
+const MAX_PAGES = 10, MAX_RECORDS = 50, MAX_SEEN = 20000, THRESHOLD = 1_000_000;
+const MAX_TXT = 1500, GUNLUK_DAYS = 4;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -42,6 +44,30 @@ async function get(url) {
   }
   throw lastErr;
 }
+
+// Filing times are stored as UTC with a trailing Z, no milliseconds.
+const toUtcZ = (x) => { const t = new Date(x); return Number.isNaN(t.getTime()) ? x : t.toISOString().replace(/\.\d{3}Z$/, 'Z'); };
+
+// US Eastern wall time -> UTC ms (DST-aware via Intl, no hard-coded offset).
+const etFmt = new Intl.DateTimeFormat('en-US', {
+  timeZone: 'America/New_York', hourCycle: 'h23',
+  year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit',
+});
+function etParts(ms) {
+  const p = Object.fromEntries(etFmt.formatToParts(new Date(ms)).map((x) => [x.type, x.value]));
+  return [+p.year, +p.month, +p.day, +p.hour, +p.minute, +p.second];
+}
+function etToUtc(y, mo, d, h, mi, sec) {
+  const base = Date.UTC(y, mo - 1, d, h, mi, sec);
+  for (const off of [4, 5]) {
+    const t = base + off * 3600000;
+    if (etParts(t).join() === [y, mo, d, h, mi, sec].join()) return t;
+  }
+  return null;
+}
+
+// Accession (dashed) from an index link; falls back to the full link.
+const accOf = (link) => ((link || '').match(/(\d{10}-\d{2}-\d{6})-index\.htm/) || [])[1] || link;
 
 const readJson = (f, dflt) => { try { return JSON.parse(fs.readFileSync(f, 'utf8')); } catch { return dflt; } };
 const writeJson = (f, o) => fs.writeFileSync(f, JSON.stringify(o, null, 2) + '\n');
@@ -91,11 +117,84 @@ function parseFiling(xml) {
   return { ticker, sirket, kisi, unvan, sides };
 }
 
+// Builds the record for the dominant side of a parsed filing (logs sides), or null.
+function mkRecord(acc, f, dosyalama, link) {
+  const buy = f.sides.P, sell = f.sides.S;
+  for (const [code, s] of [['P', buy], ['S', sell]]) {
+    if (s.shares > 0) console.log(`${acc} ${f.ticker} ${code === 'P' ? 'alim' : 'satim'} ${s.usd.toFixed(2)}`);
+  }
+  const dom = buy.usd >= sell.usd ? buy : sell;
+  // Issuers without a listed symbol report "N/A" / "NONE": not a stock a reader can look up, skip.
+  const listed = /^[A-Z0-9.\-]{1,10}$/.test(f.ticker) && f.ticker !== 'NONE';
+  if (!(listed && dom.shares > 0 && dom.usd >= THRESHOLD)) return null;
+  return {
+    tarih: dom.date, dosyalama: toUtcZ(dosyalama), ticker: f.ticker, sirket: f.sirket, kisi: f.kisi, unvan: f.unvan,
+    tur: dom === buy ? 'alim' : 'satim', adet: dom.shares,
+    fiyat: Math.round((dom.usd / dom.shares) * 1e4) / 1e4, toplam_usd: Math.round(dom.usd * 100) / 100,
+    sec_link: link,
+  };
+}
+
+// Daily completion pass: Form 4 rows of the last days from the EDGAR daily index, full .txt submission per unseen accession.
+async function gunlukPass(seen, added) {
+  const today = new Date(); today.setUTCHours(0, 0, 0, 0);
+  let days = 0, rows = 0;
+  const todo = new Map(); // acc -> file name, oldest date first
+  for (let k = GUNLUK_DAYS; k >= 1; k--) {
+    const d = new Date(today.getTime() - k * 86400000);
+    const y = d.getUTCFullYear(), mo = d.getUTCMonth() + 1;
+    const ymd = d.toISOString().slice(0, 10).replace(/-/g, '');
+    let txt;
+    try {
+      txt = await get(`https://www.sec.gov/Archives/edgar/daily-index/${y}/QTR${Math.ceil(mo / 3)}/form.${ymd}.idx`);
+    } catch (e) {
+      if (/^HTTP (404|403)$/.test(e.message)) continue; // weekend / holiday
+      console.log(`error daily-index ${ymd}: ${e.message}`); continue;
+    }
+    days++;
+    for (const line of txt.split(/\r?\n/)) {
+      if (!line.startsWith('4 ')) continue; // exactly form type 4 (not 4/A)
+      const m = line.match(/(edgar\/data\/\d+\/(\d{10}-\d{2}-\d{6})\.txt)\s*$/);
+      if (!m) continue;
+      rows++;
+      if (!todo.has(m[2])) todo.set(m[2], m[1]);
+    }
+  }
+  let unseen = [...todo].filter(([acc]) => !seen.has(acc));
+  const cap = Math.min(MAX_TXT, LIMIT);
+  if (unseen.length > cap) { console.log(`gunluk: capped at ${cap} of ${unseen.length} unseen`); unseen = unseen.slice(0, cap); }
+  let fetched = 0, recs = 0;
+  for (const [acc, file] of unseen) {
+    try {
+      const sub = await get('https://www.sec.gov/Archives/' + file);
+      fetched++;
+      const own = (sub.match(/<ownershipDocument>[\s\S]*?<\/ownershipDocument>/) || [])[0];
+      if (own) {
+        const am = sub.match(/<ACCEPTANCE-DATETIME>(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/);
+        const ms = am ? etToUtc(+am[1], +am[2], +am[3], +am[4], +am[5], +am[6]) : null;
+        if (ms === null) throw new Error('no acceptance time');
+        const cik = file.split('/')[2];
+        const link = `https://www.sec.gov/Archives/edgar/data/${cik}/${acc.replace(/-/g, '')}/${acc}-index.htm`;
+        const r = mkRecord(acc, parseFiling(own), new Date(ms).toISOString(), link);
+        if (r) { added.push(r); recs++; }
+      }
+      seen.add(acc); // also when there is no ownershipDocument (permanent)
+    } catch (err) {
+      console.log(`error ${acc}: ${err.message}`);
+    }
+  }
+  console.log(`gunluk: days=${days} rows=${rows} unseen=${unseen.length} fetched=${fetched} records_added=${recs}`);
+  return fetched;
+}
+
 async function main() {
   const state = readJson(F_STATE, { ilk_kosu_tamam: false, gorulen: [] });
   const store = readJson(F_REC, { guncellendi: null, kayitlar: [] });
   const firstRun = !state.ilk_kosu_tamam && !IGNORE_STATE;
   const seen = new Set(IGNORE_STATE ? [] : state.gorulen);
+  // One-time, idempotent migration: filing times to UTC Z.
+  let migrated = false;
+  for (const r of store.kayitlar) { const z = toUtcZ(r.dosyalama); if (z !== r.dosyalama) { r.dosyalama = z; migrated = true; } }
 
   // Collect feed entries; stop paging once a page contains an already-seen accession.
   const entries = new Map();
@@ -127,21 +226,8 @@ async function main() {
       if (!hrefs.length) throw new Error('no xml link in index');
       const xmlUrl = hrefs[0].startsWith('http') ? hrefs[0] : 'https://www.sec.gov' + hrefs[0];
       const f = parseFiling(await get(xmlUrl));
-      const buy = f.sides.P, sell = f.sides.S;
-      for (const [code, s] of [['P', buy], ['S', sell]]) {
-        if (s.shares > 0) console.log(`${e.acc} ${f.ticker} ${code === 'P' ? 'alim' : 'satim'} ${s.usd.toFixed(2)}`);
-      }
-      const dom = buy.usd >= sell.usd ? buy : sell;
-      // Issuers without a listed symbol report "N/A" / "NONE": not a stock a reader can look up, skip.
-      const listed = /^[A-Z0-9.\-]{1,10}$/.test(f.ticker) && f.ticker !== 'NONE';
-      if (listed && dom.shares > 0 && dom.usd >= THRESHOLD) {
-        added.push({
-          tarih: dom.date, dosyalama: e.updated, ticker: f.ticker, sirket: f.sirket, kisi: f.kisi, unvan: f.unvan,
-          tur: dom === buy ? 'alim' : 'satim', adet: dom.shares,
-          fiyat: Math.round((dom.usd / dom.shares) * 1e4) / 1e4, toplam_usd: Math.round(dom.usd * 100) / 100,
-          sec_link: e.link,
-        });
-      }
+      const r = mkRecord(e.acc, f, e.updated, e.link);
+      if (r) added.push(r);
       seen.add(e.acc);
       processed++;
     } catch (err) {
@@ -151,14 +237,16 @@ async function main() {
     }
   }
 
+  if (GUNLUK) processed += await gunlukPass(seen, added);
+
   console.log(`summary: pages=${pages} new_filings=${fresh.length} records_added=${added.length}`);
   if (DRY) { for (const r of added) console.log(JSON.stringify(r)); return; }
   // Files (and so commits) change only when new filings were processed: no commit noise on quiet runs.
-  if (!processed) return;
+  if (!processed && !migrated) return;
 
-  const byLink = new Map();
-  for (const r of [...added, ...store.kayitlar]) if (!byLink.has(r.sec_link)) byLink.set(r.sec_link, r);
-  const kayitlar = [...byLink.values()].sort((a, b) => new Date(b.dosyalama) - new Date(a.dosyalama)).slice(0, MAX_RECORDS);
+  const byAcc = new Map();
+  for (const r of [...added, ...store.kayitlar]) { const k = accOf(r.sec_link); if (!byAcc.has(k)) byAcc.set(k, r); }
+  const kayitlar = [...byAcc.values()].sort((a, b) => new Date(b.dosyalama) - new Date(a.dosyalama)).slice(0, MAX_RECORDS);
   writeJson(F_REC, { guncellendi: now, kayitlar });
   writeJson(F_STATE, { ilk_kosu_tamam: true, gorulen: [...seen].slice(-MAX_SEEN) });
 }

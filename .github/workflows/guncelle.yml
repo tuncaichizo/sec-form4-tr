@@ -2,7 +2,13 @@ name: guncelle
 on:
   schedule:
     - cron: '*/10 * * * *'
+    - cron: '7 6 * * *'
   workflow_dispatch:
+    inputs:
+      gunluk:
+        description: 'Run the daily completion pass'
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -13,6 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SEC_UA: ${{ secrets.SEC_UA }}
+      GUNLUK: ${{ (github.event.schedule == '7 6 * * *' || inputs.gunluk == true) && 'true' || 'false' }}
     steps:
       # SEC requires a contact User-Agent; until the SEC_UA secret exists every run is a no-op.
       - if: env.SEC_UA == ''
@@ -24,11 +31,23 @@ jobs:
         with:
           node-version: 22
       - if: env.SEC_UA != ''
+        uses: actions/cache/restore@v5
+        with:
+          path: durum.json
+          key: durum-${{ github.run_id }}
+          restore-keys: durum-
+      - if: env.SEC_UA != ''
+        id: run
         run: node scripts/guncelle.mjs
+      - if: env.SEC_UA != '' && steps.run.outcome == 'success'
+        uses: actions/cache/save@v5
+        with:
+          path: durum.json
+          key: durum-${{ github.run_id }}
       - if: env.SEC_UA != ''
         name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add son-islemler.json durum.json
+          git add son-islemler.json
           git diff --cached --quiet || (git commit -m "Güncelle: $(date -u +%Y-%m-%dT%H:%MZ)" && git push)
