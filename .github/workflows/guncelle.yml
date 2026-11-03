@@ -1,0 +1,34 @@
+name: guncelle
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: guncelle
+  cancel-in-progress: false
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    env:
+      SEC_UA: ${{ secrets.SEC_UA }}
+    steps:
+      # SEC requires a contact User-Agent; until the SEC_UA secret exists every run is a no-op.
+      - if: env.SEC_UA == ''
+        run: echo "SEC_UA secret is not set, skipping."
+      - if: env.SEC_UA != ''
+        uses: actions/checkout@v4
+      - if: env.SEC_UA != ''
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - if: env.SEC_UA != ''
+        run: node scripts/guncelle.mjs
+      - if: env.SEC_UA != ''
+        name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add son-islemler.json durum.json
+          git diff --cached --quiet || (git commit -m "Güncelle: $(date -u +%Y-%m-%dT%H:%MZ)" && git push)
