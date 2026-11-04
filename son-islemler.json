@@ -1,6 +1,71 @@
 {
-  "guncellendi": "2026-11-04T14:08:19.237Z",
+  "guncellendi": "2026-11-04T17:38:30.120Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-04T17:21:15Z",
+      "ticker": "LIN",
+      "sirket": "LINDE PLC",
+      "kisi": "Bichara Guillermo",
+      "unvan": "Exec VP & Chief Legal Officer",
+      "tur": "satim",
+      "adet": 9350,
+      "fiyat": 518.911,
+      "toplam_usd": 4851817.85,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1707925/000162828026069910/0001628280-26-069910-index.htm"
+    },
+    {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-04T17:19:10Z",
+      "ticker": "INTC",
+      "sirket": "INTEL CORP",
+      "kisi": "TAN LIP BU",
+      "unvan": "CEO",
+      "tur": "alim",
+      "adet": 150000,
+      "fiyat": 64.7312,
+      "toplam_usd": 9709680,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1008463/000005086326000195/0000050863-26-000195-index.htm"
+    },
+    {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-04T16:56:57Z",
+      "ticker": "KO",
+      "sirket": "COCA COLA CO",
+      "kisi": "Perez Beatriz R",
+      "unvan": "Executive Vice President",
+      "tur": "satim",
+      "adet": 67548,
+      "fiyat": 94.911,
+      "toplam_usd": 6411051.3,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1434519/000002134426000169/0000021344-26-000169-index.htm"
+    },
+    {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-04T16:22:51Z",
+      "ticker": "KEX",
+      "sirket": "KIRBY CORP",
+      "kisi": "Grzebinski David W",
+      "unvan": "CEO",
+      "tur": "satim",
+      "adet": 18310,
+      "fiyat": 141.32,
+      "toplam_usd": 2587569.2,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1483620/000119312526446564/0001193125-26-446564-index.htm"
+    },
+    {
+      "tarih": "2026-11-03",
+      "dosyalama": "2026-11-04T15:14:36Z",
+      "ticker": "GLBE",
+      "sirket": "Global-E Online Ltd.",
+      "kisi": "Schlachet Amir",
+      "unvan": "CEO",
+      "tur": "satim",
+      "adet": 24999,
+      "fiyat": 41.3867,
+      "toplam_usd": 1034625.16,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1964286/000119312526446452/0001193125-26-446452-index.htm"
+    },
     {
       "tarih": "2026-11-03",
       "dosyalama": "2026-11-04T13:17:05Z",
@@ -585,71 +650,6 @@
       "fiyat": 117.2735,
       "toplam_usd": 1583192.75,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1943896/000120743326000024/0001207433-26-000024-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-03T21:42:31Z",
-      "ticker": "PSMT",
-      "sirket": "PRICESMART INC",
-      "kisi": "HILDEBRANDT JOHN D",
-      "unvan": "President and COO",
-      "tur": "satim",
-      "adet": 11834,
-      "fiyat": 168.232,
-      "toplam_usd": 1990857.52,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1235793/000162828026069609/0001628280-26-069609-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-03T21:40:17Z",
-      "ticker": "FTNT",
-      "sirket": "Fortinet, Inc.",
-      "kisi": "Xie Ken",
-      "unvan": "President & CEO",
-      "tur": "satim",
-      "adet": 161483,
-      "fiyat": 129.3058,
-      "toplam_usd": 20880684.48,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1475587/000147558726000016/0001475587-26-000016-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-03T21:38:46Z",
-      "ticker": "MRVL",
-      "sirket": "Marvell Technology, Inc.",
-      "kisi": "Koopmans Chris",
-      "unvan": "President and COO",
-      "tur": "satim",
-      "adet": 10000,
-      "fiyat": 186.97,
-      "toplam_usd": 1869700,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026069600/0001628280-26-069600-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-03T21:37:43Z",
-      "ticker": "MHK",
-      "sirket": "MOHAWK INDUSTRIES INC",
-      "kisi": "Thiers Bernard",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 15000,
-      "fiyat": 144.05,
-      "toplam_usd": 2160750,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1452859/000145285926000008/0001452859-26-000008-index.htm"
-    },
-    {
-      "tarih": "2026-10-30",
-      "dosyalama": "2026-11-03T21:37:27Z",
-      "ticker": "AER",
-      "sirket": "AerCap Holdings N.V.",
-      "kisi": "Kelly Aengus",
-      "unvan": "Chief Executive Officer",
-      "tur": "satim",
-      "adet": 60000,
-      "fiyat": 157.9753,
-      "toplam_usd": 9478516.94,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1450289/000095015726001163/0000950157-26-001163-index.htm"
     }
   ]
 }

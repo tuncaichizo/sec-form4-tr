@@ -1,6 +1,72 @@
 {
-  "guncellendi": "2026-11-04T14:11:03.696Z",
+  "guncellendi": "2026-11-04T17:38:46.330Z",
   "kayitlar": [
+    {
+      "tarih": "2026-10-31",
+      "dosyalama": "2026-11-04T17:28:56Z",
+      "ticker": "CNL",
+      "sirket": "Collective Mining Ltd.",
+      "bildiren": "Helikon Investments Limited ve diğerleri",
+      "pay_yuzde": 9.71,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1953575/000117266126004852/0001172661-26-004852-index.htm"
+    },
+    {
+      "tarih": "2026-09-18",
+      "dosyalama": "2026-11-04T16:59:24Z",
+      "ticker": "CV",
+      "sirket": "CapsoVision, Inc",
+      "bildiren": "Eliyahou Harari ve diğerleri",
+      "pay_yuzde": 13.2,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1378325/000100916526000011/0001009165-26-000011-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-04T15:37:10Z",
+      "ticker": "TRC",
+      "sirket": "Tejon Ranch Co.",
+      "bildiren": "Nitor Capital Management, LLC ve diğerleri",
+      "pay_yuzde": 7.2,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/96869/000201901726000017/0002019017-26-000017-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-04T15:34:53Z",
+      "ticker": "RDAC",
+      "sirket": "Rising Dragon Acquisition Corp.",
+      "bildiren": "UBS Group AG",
+      "pay_yuzde": 6.6,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2018145/000161052026000119/0001610520-26-000119-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-04T15:10:42Z",
+      "ticker": "OTAI",
+      "sirket": "Starlink AI Acquisition Corp",
+      "bildiren": "UBS Group AG",
+      "pay_yuzde": 0,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2094076/000161052026000118/0001610520-26-000118-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-04T14:49:07Z",
+      "ticker": "MOG-A",
+      "sirket": "MOOG INC.",
+      "bildiren": "Moog Inc. Retirement Savings Plan",
+      "pay_yuzde": 36.7,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/67887/000169818626000004/0001698186-26-000004-index.htm"
+    },
     {
       "tarih": "2026-09-30",
       "dosyalama": "2026-11-04T14:00:31Z",
@@ -805,17 +871,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1815776/000134682426000251/0001346824-26-000251-index.htm"
     },
     {
-      "tarih": "2026-10-27",
-      "dosyalama": "2026-11-02T22:23:48Z",
-      "ticker": "SBMT",
-      "sirket": "Silver Bow Mining Corp.",
-      "bildiren": "Arbiter Partners Capital Management LLC ve diğerleri",
-      "pay_yuzde": 5.2,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2067674/000114036126041617/0001140361-26-041617-index.htm"
-    },
-    {
       "tarih": "2026-09-24",
       "dosyalama": "2026-11-02T22:14:27Z",
       "ticker": "JCTC",
@@ -838,17 +893,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/104889/000095015726001154/0000950157-26-001154-index.htm"
     },
     {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-02T22:08:59Z",
-      "ticker": "RXST",
-      "sirket": "RxSight, Inc.",
-      "bildiren": "Millennium Management LLC ve diğerleri",
-      "pay_yuzde": 5.1,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1111485/000110465926121475/0001104659-26-121475-index.htm"
-    },
-    {
       "tarih": "2026-03-11",
       "dosyalama": "2026-11-02T21:54:29Z",
       "ticker": "VDTA",
@@ -869,50 +913,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1385613/000092963826004184/0000929638-26-004184-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-02T21:33:09Z",
-      "ticker": "DRMA",
-      "sirket": "Dermata Therapeutics, Inc.",
-      "bildiren": "BIGGER CAPITAL FUND L P ve diğerleri",
-      "pay_yuzde": 8.36,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1853816/000092189526002901/0000921895-26-002901-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-02T21:30:34Z",
-      "ticker": "WBI",
-      "sirket": "WaterBridge Infrastructure LLC",
-      "bildiren": "GIC Private Limited ve diğerleri",
-      "pay_yuzde": 0,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2064947/000114036126041589/0001140361-26-041589-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-02T21:22:30Z",
-      "ticker": "RVI",
-      "sirket": "Robinhood Ventures Fund I",
-      "bildiren": "Robinhood Markets, Inc.",
-      "pay_yuzde": 47.7,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2085091/000095010326016632/0000950103-26-016632-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-02T21:22:13Z",
-      "ticker": "RVII",
-      "sirket": "Robinhood Ventures Fund II",
-      "bildiren": "Robinhood Markets, Inc. ve diğerleri",
-      "pay_yuzde": 12,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2131040/000095010326016631/0000950103-26-016631-index.htm"
     },
     {
       "tarih": "2026-10-29",
