@@ -1,6 +1,19 @@
 {
-  "guncellendi": "2026-11-04T02:35:48.418Z",
+  "guncellendi": "2026-11-04T09:49:52.128Z",
   "kayitlar": [
+    {
+      "tarih": "2026-10-30",
+      "dosyalama": "2026-11-04T02:45:15Z",
+      "ticker": "GKOS",
+      "sirket": "GLAUKOS Corp",
+      "kisi": "Navratil Tomas",
+      "unvan": "CHIEF DEVELOPMENT OFFICER",
+      "tur": "satim",
+      "adet": 44436,
+      "fiyat": 238.9724,
+      "toplam_usd": 10618979.74,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1920053/000119312526445949/0001193125-26-445949-index.htm"
+    },
     {
       "tarih": "2026-11-03",
       "dosyalama": "2026-11-04T02:30:04Z",
@@ -637,19 +650,6 @@
       "fiyat": 596.2248,
       "toplam_usd": 5664135.93,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1106578/000110657826000177/0001106578-26-000177-index.htm"
-    },
-    {
-      "tarih": "2026-10-30",
-      "dosyalama": "2026-11-03T16:59:21Z",
-      "ticker": "CROX",
-      "sirket": "Crocs, Inc.",
-      "kisi": "FRASCH RONALD",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 15000,
-      "fiyat": 153.5106,
-      "toplam_usd": 2302659,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1334036/000116054726000007/0001160547-26-000007-index.htm"
     }
   ]
 }

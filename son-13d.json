@@ -1,6 +1,17 @@
 {
-  "guncellendi": "2026-11-04T02:37:31.536Z",
+  "guncellendi": "2026-11-04T09:49:55.000Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-04T02:57:23Z",
+      "ticker": "CVI",
+      "sirket": "CVR Energy, Inc.",
+      "bildiren": "ICAHN ENTERPRISES HOLDINGS L.P. ve diğerleri",
+      "pay_yuzde": 70.8,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1376139/000119312526445965/0001193125-26-445965-index.htm"
+    },
     {
       "tarih": "2026-02-24",
       "dosyalama": "2026-11-04T02:00:19Z",
@@ -1089,17 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1923622/000110465926120620/0001104659-26-120620-index.htm"
-    },
-    {
-      "tarih": "2026-10-29",
-      "dosyalama": "2026-10-30T18:43:07Z",
-      "ticker": "WIA",
-      "sirket": "Western Asset Inflation-Linked Income Fund",
-      "bildiren": "KARPUS MANAGEMENT, INC.",
-      "pay_yuzde": 38.82,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1254370/000107261326000845/0001072613-26-000845-index.htm"
     }
   ]
 }
