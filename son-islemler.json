@@ -1,6 +1,19 @@
 {
-  "guncellendi": "2026-11-04T09:49:52.128Z",
+  "guncellendi": "2026-11-04T14:08:19.237Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-03",
+      "dosyalama": "2026-11-04T13:17:05Z",
+      "ticker": "CHD",
+      "sirket": "CHURCH & DWIGHT CO INC /DE/",
+      "kisi": "Dierker Richard A",
+      "unvan": "President and CEO",
+      "tur": "satim",
+      "adet": 83340,
+      "fiyat": 109.5878,
+      "toplam_usd": 9133047.25,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1661038/000031392726000344/0000313927-26-000344-index.htm"
+    },
     {
       "tarih": "2026-10-30",
       "dosyalama": "2026-11-04T02:45:15Z",
@@ -234,6 +247,32 @@
       "fiyat": 13.5024,
       "toplam_usd": 2398585.31,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1658843/000165884326000010/0001658843-26-000010-index.htm"
+    },
+    {
+      "tarih": "2026-10-30",
+      "dosyalama": "2026-11-03T22:41:48Z",
+      "ticker": "PLBY",
+      "sirket": "Playboy, Inc.",
+      "kisi": "Docler Holding S.a r.l.",
+      "unvan": "Director",
+      "tur": "alim",
+      "adet": 4761905,
+      "fiyat": 1.05,
+      "toplam_usd": 5000000.25,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2044291/000101297526001005/0001012975-26-001005-index.htm"
+    },
+    {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-03T22:39:17Z",
+      "ticker": "WHD",
+      "sirket": "Cactus, Inc.",
+      "kisi": "Bender Scott",
+      "unvan": "Chairman and CEO",
+      "tur": "satim",
+      "adet": 100000,
+      "fiyat": 63.914,
+      "toplam_usd": 6391400,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1701688/000162828026069674/0001628280-26-069674-index.htm"
     },
     {
       "tarih": "2026-11-02",
@@ -611,45 +650,6 @@
       "fiyat": 157.9753,
       "toplam_usd": 9478516.94,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1450289/000095015726001163/0000950157-26-001163-index.htm"
-    },
-    {
-      "tarih": "2026-10-30",
-      "dosyalama": "2026-11-03T21:37:18Z",
-      "ticker": "WMT",
-      "sirket": "Walmart Inc.",
-      "kisi": "Kumar Suresh",
-      "unvan": "Chief Technology Officer",
-      "tur": "satim",
-      "adet": 166342,
-      "fiyat": 123.21,
-      "toplam_usd": 20494997.82,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1781198/000178119826000008/0001781198-26-000008-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-03T21:35:30Z",
-      "ticker": "MGM",
-      "sirket": "MGM Resorts International",
-      "kisi": "Meister Keith A.",
-      "unvan": "Director",
-      "tur": "alim",
-      "adet": 1745592,
-      "fiyat": 29.6408,
-      "toplam_usd": 51740827.48,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1307631/000101143826000643/0001011438-26-000643-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-03T21:30:22Z",
-      "ticker": "UTHR",
-      "sirket": "UNITED THERAPEUTICS Corp",
-      "kisi": "ROTHBLATT MARTINE A",
-      "unvan": "Chairperson & CEO",
-      "tur": "satim",
-      "adet": 9500,
-      "fiyat": 596.2248,
-      "toplam_usd": 5664135.93,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1106578/000110657826000177/0001106578-26-000177-index.htm"
     }
   ]
 }
