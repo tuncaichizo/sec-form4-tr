@@ -1,6 +1,45 @@
 {
-  "guncellendi": "2026-11-05T11:13:09.497Z",
+  "guncellendi": "2026-11-05T14:26:56.441Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-05T14:20:19Z",
+      "ticker": "LBTY",
+      "sirket": "Liberty Global Ltd.",
+      "kisi": "Rodriguez Enrique",
+      "unvan": "EVP, Chief Technology Officer",
+      "tur": "alim",
+      "adet": 211313,
+      "fiyat": 9.4456,
+      "toplam_usd": 1995978.07,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000156/0001570585-26-000156-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-05T14:20:04Z",
+      "ticker": "LBTY",
+      "sirket": "Liberty Global Ltd.",
+      "kisi": "FRIES MICHAEL T",
+      "unvan": "President & CEO",
+      "tur": "alim",
+      "adet": 110000,
+      "fiyat": 9.3652,
+      "toplam_usd": 1030172,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1570585/000105872526000011/0001058725-26-000011-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-05T14:03:41Z",
+      "ticker": "PG",
+      "sirket": "PROCTER & GAMBLE Co",
+      "kisi": "Schulten Andre",
+      "unvan": "Chief Financial Officer",
+      "tur": "satim",
+      "adet": 33624,
+      "fiyat": 165,
+      "toplam_usd": 5547960,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1844763/000008042426000271/0000080424-26-000271-index.htm"
+    },
     {
       "tarih": "2026-11-02",
       "dosyalama": "2026-11-05T02:35:13Z",
@@ -301,6 +340,32 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1798679/000162828026070385/0001628280-26-070385-index.htm"
     },
     {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-04T23:35:08Z",
+      "ticker": "JAZZ",
+      "sirket": "Jazz Pharmaceuticals plc",
+      "kisi": "COZADD BRUCE C",
+      "unvan": "Director",
+      "tur": "satim",
+      "adet": 6000,
+      "fiyat": 215.84,
+      "toplam_usd": 1295040,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1193210/000119321026000030/0001193210-26-000030-index.htm"
+    },
+    {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-04T23:12:36Z",
+      "ticker": "IOT",
+      "sirket": "Samsara Inc.",
+      "kisi": "Phillips Dominic",
+      "unvan": "SEE REMARKS",
+      "tur": "satim",
+      "adet": 29619,
+      "fiyat": 41.4655,
+      "toplam_usd": 1228166.64,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1895148/000189514826000019/0001895148-26-000019-index.htm"
+    },
+    {
       "tarih": "2026-11-04",
       "dosyalama": "2026-11-04T23:01:14Z",
       "ticker": "PACS",
@@ -585,71 +650,6 @@
       "fiyat": 601.9225,
       "toplam_usd": 5718264.03,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1106578/000110657826000178/0001106578-26-000178-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-04T21:34:21Z",
-      "ticker": "BJ",
-      "sirket": "BJ's Wholesale Club Holdings, Inc.",
-      "kisi": "Felice Laura L.",
-      "unvan": "EVP, Chief Financial Officer",
-      "tur": "satim",
-      "adet": 10000,
-      "fiyat": 110.53,
-      "toplam_usd": 1105300,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1743504/000153115226000077/0001531152-26-000077-index.htm"
-    },
-    {
-      "tarih": "2026-11-03",
-      "dosyalama": "2026-11-04T21:32:02Z",
-      "ticker": "IBTA",
-      "sirket": "Ibotta, Inc.",
-      "kisi": "Swanson Luke Roy",
-      "unvan": "CHIEF TECHNOLOGY OFFICER",
-      "tur": "satim",
-      "adet": 53462,
-      "fiyat": 57.3029,
-      "toplam_usd": 3063527.16,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1873513/000162828026070204/0001628280-26-070204-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-04T21:30:11Z",
-      "ticker": "OSW",
-      "sirket": "ONESPAWORLD HOLDINGS Ltd",
-      "kisi": "HEYER ANDREW R",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 64219,
-      "fiyat": 30.0228,
-      "toplam_usd": 1928035.81,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1758488/000119312526447397/0001193125-26-447397-index.htm"
-    },
-    {
-      "tarih": "2026-11-04",
-      "dosyalama": "2026-11-04T21:26:41Z",
-      "ticker": "ACU",
-      "sirket": "ACME UNITED CORP",
-      "kisi": "OLSCHAN BRIAN S",
-      "unvan": "President and COO",
-      "tur": "satim",
-      "adet": 15463,
-      "fiyat": 69.3336,
-      "toplam_usd": 1072105.86,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1213244/000119312526447372/0001193125-26-447372-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-04T21:23:00Z",
-      "ticker": "LGND",
-      "sirket": "LIGAND PHARMACEUTICALS INC",
-      "kisi": "Reardon Andrew",
-      "unvan": "CLO & Secretary",
-      "tur": "satim",
-      "adet": 5000,
-      "fiyat": 313.2189,
-      "toplam_usd": 1566094.41,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1950232/000195023226000006/0001950232-26-000006-index.htm"
     }
   ]
 }
