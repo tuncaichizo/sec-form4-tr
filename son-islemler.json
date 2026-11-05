@@ -1,6 +1,45 @@
 {
-  "guncellendi": "2026-11-05T14:26:56.441Z",
+  "guncellendi": "2026-11-05T18:50:41.511Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-05T18:38:45Z",
+      "ticker": "ISRG",
+      "sirket": "INTUITIVE SURGICAL INC",
+      "kisi": "GUTHART GARY S",
+      "unvan": "Director",
+      "tur": "satim",
+      "adet": 10000,
+      "fiyat": 457.337,
+      "toplam_usd": 4573370,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1280628/000128062826000018/0001280628-26-000018-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-05T18:10:30Z",
+      "ticker": "PAM",
+      "sirket": "Pampa Energy Inc.",
+      "kisi": "Mindlin Damian Miguel",
+      "unvan": "Vicepresident",
+      "tur": "alim",
+      "adet": 38652,
+      "fiyat": 67.6834,
+      "toplam_usd": 2616097.86,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2028916/000202891626000012/0002028916-26-000012-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-05T14:35:48Z",
+      "ticker": "MMYT",
+      "sirket": "MakeMyTrip Ltd",
+      "kisi": "Magow Rajesh",
+      "unvan": "Group Chief Executive Officer",
+      "tur": "satim",
+      "adet": 30000,
+      "fiyat": 46.87,
+      "toplam_usd": 1406100,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1971627/000119312526448845/0001193125-26-448845-index.htm"
+    },
     {
       "tarih": "2026-11-04",
       "dosyalama": "2026-11-05T14:20:19Z",
@@ -611,45 +650,6 @@
       "fiyat": 348.08,
       "toplam_usd": 6709242.21,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026070241/0001628280-26-070241-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-04T21:45:50Z",
-      "ticker": "CROX",
-      "sirket": "Crocs, Inc.",
-      "kisi": "TREFF DOUGLAS J",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 14802,
-      "fiyat": 152.1993,
-      "toplam_usd": 2252854.46,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1334036/000121816326000006/0001218163-26-000006-index.htm"
-    },
-    {
-      "tarih": "2026-11-03",
-      "dosyalama": "2026-11-04T21:42:03Z",
-      "ticker": "IBTA",
-      "sirket": "Ibotta, Inc.",
-      "kisi": "Leach Bryan",
-      "unvan": "CEO AND PRESIDENT",
-      "tur": "satim",
-      "adet": 50174,
-      "fiyat": 49.8469,
-      "toplam_usd": 2501016.59,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1875168/000162828026070233/0001628280-26-070233-index.htm"
-    },
-    {
-      "tarih": "2026-11-03",
-      "dosyalama": "2026-11-04T21:38:58Z",
-      "ticker": "UTHR",
-      "sirket": "UNITED THERAPEUTICS Corp",
-      "kisi": "ROTHBLATT MARTINE A",
-      "unvan": "Chairperson & CEO",
-      "tur": "satim",
-      "adet": 9500,
-      "fiyat": 601.9225,
-      "toplam_usd": 5718264.03,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1106578/000110657826000178/0001106578-26-000178-index.htm"
     }
   ]
 }
