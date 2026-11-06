@@ -1,6 +1,61 @@
 {
-  "guncellendi": "2026-11-06T00:00:24.658Z",
+  "guncellendi": "2026-11-06T06:21:04.252Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-05",
+      "dosyalama": "2026-11-06T02:41:52Z",
+      "ticker": "NBP",
+      "sirket": "NovaBridge Biosciences",
+      "bildiren": "HHLR Advisors, Ltd. ve diğerleri",
+      "pay_yuzde": 4.9,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1778016/000091957426007454/0000919574-26-007454-index.htm"
+    },
+    {
+      "tarih": "2026-11-05",
+      "dosyalama": "2026-11-06T02:37:59Z",
+      "ticker": "MET",
+      "sirket": "MetLife, Inc.",
+      "bildiren": "Board of Directors of MetLife, Inc., as an entity",
+      "pay_yuzde": 16,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1099219/000119312526450474/0001193125-26-450474-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-06T02:09:18Z",
+      "ticker": "MAX",
+      "sirket": "MediaAlpha, Inc.",
+      "bildiren": "White Mountains Insurance Group, Ltd. ve diğerleri",
+      "pay_yuzde": 24.3,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1818383/000095015726001220/0000950157-26-001220-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-06T02:01:52Z",
+      "ticker": "LGVN",
+      "sirket": "Longeveron Inc.",
+      "bildiren": "Integrated Core Strategies (US) LLC ve diğerleri",
+      "pay_yuzde": 0,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1721484/000110465926123523/0001104659-26-123523-index.htm"
+    },
+    {
+      "tarih": "2026-10-29",
+      "dosyalama": "2026-11-06T01:30:25Z",
+      "ticker": "BBTX",
+      "sirket": "Bambusa Therapeutics, Inc.",
+      "bildiren": "ATHOS KG ve diğerleri",
+      "pay_yuzde": 9.2,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2044950/000208592926000014/0002085929-26-000014-index.htm"
+    },
     {
       "tarih": "2026-09-30",
       "dosyalama": "2026-11-05T23:56:28Z",
@@ -607,28 +662,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/105770/000031506626002889/0000315066-26-002889-index.htm"
     },
     {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-05T18:29:31Z",
-      "ticker": "WBI",
-      "sirket": "WATERBRIDGE INFRASTRUCTURE LLC",
-      "bildiren": "FMR LLC ve diğerleri",
-      "pay_yuzde": 6.2,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2064947/000031506626002897/0000315066-26-002897-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-05T18:29:31Z",
-      "ticker": "WAY",
-      "sirket": "WAYSTAR HOLDING CORP",
-      "bildiren": "FMR LLC ve diğerleri",
-      "pay_yuzde": 12.4,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1990354/000031506626002896/0000315066-26-002896-index.htm"
-    },
-    {
       "tarih": "2026-11-04",
       "dosyalama": "2026-11-05T14:02:17Z",
       "ticker": "FWONA",
@@ -1067,39 +1100,6 @@
       "tur": "13D",
       "degisiklik": false,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/49754/000121390026115110/0001213900-26-115110-index.htm"
-    },
-    {
-      "tarih": "2026-10-26",
-      "dosyalama": "2026-11-03T01:46:27Z",
-      "ticker": "DIN",
-      "sirket": "Dine Brands Global, Inc.",
-      "bildiren": "Cobblers Cove Capital LP ve diğerleri",
-      "pay_yuzde": 1.4,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/49754/000110465926121599/0001104659-26-121599-index.htm"
-    },
-    {
-      "tarih": "2026-10-26",
-      "dosyalama": "2026-11-03T01:36:33Z",
-      "ticker": "MSGR",
-      "sirket": "MSG Rangers Corp.",
-      "bildiren": "James L. Dolan ve diğerleri",
-      "pay_yuzde": 13.2,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2132873/000110465926121596/0001104659-26-121596-index.htm"
-    },
-    {
-      "tarih": "2026-10-29",
-      "dosyalama": "2026-11-02T22:52:29Z",
-      "ticker": "ICON",
-      "sirket": "Icon Energy Corp",
-      "bildiren": "Hampton Financial Corp. ve diğerleri",
-      "pay_yuzde": 9,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1995574/000110465926121505/0001104659-26-121505-index.htm"
     }
   ]
 }
