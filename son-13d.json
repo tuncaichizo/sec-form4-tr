@@ -1,6 +1,17 @@
 {
-  "guncellendi": "2026-11-06T14:02:38.972Z",
+  "guncellendi": "2026-11-06T14:30:01.443Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-05",
+      "dosyalama": "2026-11-06T14:15:06Z",
+      "ticker": "CDT",
+      "sirket": "CDT Equity Inc.",
+      "bildiren": "Corvus Capital Ltd. ve diğerleri",
+      "pay_yuzde": 22.1,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1896212/000175392626002067/0001753926-26-002067-index.htm"
+    },
     {
       "tarih": "2026-11-06",
       "dosyalama": "2026-11-06T13:56:20Z",
@@ -1089,17 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1104038/000089183926000475/0000891839-26-000475-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-03T21:01:02Z",
-      "ticker": "PRFX",
-      "sirket": "PRF Technologies Ltd.",
-      "bildiren": "S.H.N. Financial Investments Ltd.",
-      "pay_yuzde": 5.716,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1801834/000107997326001423/0001079973-26-001423-index.htm"
     }
   ]
 }
