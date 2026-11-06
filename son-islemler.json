@@ -1,6 +1,45 @@
 {
-  "guncellendi": "2026-11-06T06:20:47.067Z",
+  "guncellendi": "2026-11-06T14:02:17.173Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-06T13:30:22Z",
+      "ticker": "AMAL",
+      "sirket": "Amalgamated Financial Corp.",
+      "kisi": "Workers United",
+      "unvan": "10% Owner",
+      "tur": "satim",
+      "adet": 92809,
+      "fiyat": 50.8642,
+      "toplam_usd": 4720655.54,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2009717/000090266426004395/0000902664-26-004395-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-06T13:27:38Z",
+      "ticker": "AMAL",
+      "sirket": "Amalgamated Financial Corp.",
+      "kisi": "Western States Regional Joint Board, Workers United",
+      "unvan": "10% Owner",
+      "tur": "satim",
+      "adet": 92809,
+      "fiyat": 50.8642,
+      "toplam_usd": 4720655.54,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2010099/000090266426004394/0000902664-26-004394-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-06T11:00:19Z",
+      "ticker": "SE",
+      "sirket": "Sea Ltd",
+      "kisi": "Zhao Feng",
+      "unvan": "President of Garena",
+      "tur": "satim",
+      "adet": 30000,
+      "fiyat": 80.22,
+      "toplam_usd": 2406600,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2113138/000119312526450612/0001193125-26-450612-index.htm"
+    },
     {
       "tarih": "2026-11-05",
       "dosyalama": "2026-11-06T02:05:18Z",
@@ -611,45 +650,6 @@
       "fiyat": 152.8899,
       "toplam_usd": 6115595.4,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1609901/000160990126000017/0001609901-26-000017-index.htm"
-    },
-    {
-      "tarih": "2026-11-04",
-      "dosyalama": "2026-11-05T21:32:16Z",
-      "ticker": "PI",
-      "sirket": "IMPINJ INC",
-      "kisi": "SYLEBRA CAPITAL LLC",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 90191,
-      "fiyat": 184.7795,
-      "toplam_usd": 16665447.12,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2003074/000200307426000018/0002003074-26-000018-index.htm"
-    },
-    {
-      "tarih": "2026-11-04",
-      "dosyalama": "2026-11-05T21:30:40Z",
-      "ticker": "V",
-      "sirket": "VISA INC.",
-      "kisi": "Taneja Rajat",
-      "unvan": "PRESIDENT, TECHNOLOGY",
-      "tur": "satim",
-      "adet": 34417,
-      "fiyat": 426.7949,
-      "toplam_usd": 14688998.73,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1532601/000140316126000136/0001403161-26-000136-index.htm"
-    },
-    {
-      "tarih": "2026-11-04",
-      "dosyalama": "2026-11-05T21:30:14Z",
-      "ticker": "PANW",
-      "sirket": "Palo Alto Networks Inc",
-      "kisi": "Jenkins William D Jr",
-      "unvan": "President",
-      "tur": "satim",
-      "adet": 37992,
-      "fiyat": 352.2059,
-      "toplam_usd": 13381005.78,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1590423/000149315226050251/0001493152-26-050251-index.htm"
     }
   ]
 }
