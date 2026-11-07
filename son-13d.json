@@ -1,6 +1,105 @@
 {
-  "guncellendi": "2026-11-07T00:21:26.316Z",
+  "guncellendi": "2026-11-07T06:16:43.709Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-07T02:48:25Z",
+      "ticker": "GUER",
+      "sirket": "Guerrilla RF, Inc.",
+      "bildiren": "SALEM INVESTMENT PARTNERS V, LIMITED PARTNERSHIP ve diğerleri",
+      "pay_yuzde": 9.3,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1832487/000143774926035657/0001437749-26-035657-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-07T02:46:42Z",
+      "ticker": "GUER",
+      "sirket": "Guerrilla RF, Inc.",
+      "bildiren": "Bodford Alvin M. ve diğerleri",
+      "pay_yuzde": 18.7,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1832487/000143774926035656/0001437749-26-035656-index.htm"
+    },
+    {
+      "tarih": "2026-10-14",
+      "dosyalama": "2026-11-07T02:26:18Z",
+      "ticker": "LNZA",
+      "sirket": "LanzaTech Global, Inc.",
+      "bildiren": "Khosla Ventures III, L.P. ve diğerleri",
+      "pay_yuzde": 58.4,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1843724/000119312526452279/0001193125-26-452279-index.htm"
+    },
+    {
+      "tarih": "2026-11-05",
+      "dosyalama": "2026-11-07T02:00:58Z",
+      "ticker": "RHLD",
+      "sirket": "Resolute Holdings Management, Inc.",
+      "bildiren": "Tungsten ManCo Holder LLC ve diğerleri",
+      "pay_yuzde": 55.1,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2039497/000095014226002977/0000950142-26-002977-index.htm"
+    },
+    {
+      "tarih": "2026-11-05",
+      "dosyalama": "2026-11-07T02:00:33Z",
+      "ticker": "GPGI",
+      "sirket": "GPGI, Inc.",
+      "bildiren": "Tungsten OpCo Holder LLC ve diğerleri",
+      "pay_yuzde": 17.8,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1823144/000095014226002976/0000950142-26-002976-index.htm"
+    },
+    {
+      "tarih": "2026-11-05",
+      "dosyalama": "2026-11-07T01:09:22Z",
+      "ticker": "SVIA",
+      "sirket": "Silvia, Inc.",
+      "bildiren": "Anthony Pompliano ve diğerleri",
+      "pay_yuzde": 20,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2076163/000149315226050567/0001493152-26-050567-index.htm"
+    },
+    {
+      "tarih": "2026-10-30",
+      "dosyalama": "2026-11-07T00:58:00Z",
+      "ticker": "BAK",
+      "sirket": "BRASKEM SA",
+      "bildiren": "Carlos Slim Helu ve diğerleri",
+      "pay_yuzde": 4,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1071438/000092189526002956/0000921895-26-002956-index.htm"
+    },
+    {
+      "tarih": "2026-10-31",
+      "dosyalama": "2026-11-07T00:28:26Z",
+      "ticker": "MDA",
+      "sirket": "MDA Space Ltd.",
+      "bildiren": "Morgan Stanley ve diğerleri",
+      "pay_yuzde": 0.3,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1857047/000089542126000305/0000895421-26-000305-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-07T00:25:01Z",
+      "ticker": "MCB",
+      "sirket": "METROPOLITAN BANK HOLDING CORP.",
+      "bildiren": "Patriot Financial Partners III, L.P. ve diğerleri",
+      "pay_yuzde": 4.76,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1476034/000110465926124019/0001104659-26-124019-index.htm"
+    },
     {
       "tarih": "2026-09-30",
       "dosyalama": "2026-11-07T00:19:17Z",
@@ -684,17 +783,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1850351/000119312526451920/0001193125-26-451920-index.htm"
     },
     {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:30:03Z",
-      "ticker": "FA",
-      "sirket": "First Advantage Corporation",
-      "bildiren": "SLP Fastball Aggregator, L.P. ve diğerleri",
-      "pay_yuzde": 42.8,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1210677/000119312526451914/0001193125-26-451914-index.htm"
-    },
-    {
       "tarih": "2026-10-19",
       "dosyalama": "2026-11-06T21:29:39Z",
       "ticker": "SVIA",
@@ -1012,94 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1560385/000110465926123102/0001104659-26-123102-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-05T02:38:44Z",
-      "ticker": "CCXI",
-      "sirket": "Churchill Capital Corp XI",
-      "bildiren": "Churchill Sponsor XI LLC ve diğerleri",
-      "pay_yuzde": 6.02,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026116089/0001213900-26-116089-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-05T01:44:59Z",
-      "ticker": "SCAT",
-      "sirket": "Southern Cross Acquisition II Corp.",
-      "bildiren": "Southern Cross Acquisition II Sponsor Corp. ve diğerleri",
-      "pay_yuzde": 25.53,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2133239/000192998026000576/0001929980-26-000576-index.htm"
-    },
-    {
-      "tarih": "2026-10-28",
-      "dosyalama": "2026-11-05T00:45:37Z",
-      "ticker": "PRSO",
-      "sirket": "Peraso Inc.",
-      "bildiren": "Nant Capital, LLC ve diğerleri",
-      "pay_yuzde": 19.99,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/890394/000119312526447929/0001193125-26-447929-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-05T00:34:08Z",
-      "ticker": "GRND",
-      "sirket": "Grindr Inc.",
-      "bildiren": "Tiga Investments Eighty-Eight Pte Ltd ve diğerleri",
-      "pay_yuzde": 53.8,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1820144/000114036126041991/0001140361-26-041991-index.htm"
-    },
-    {
-      "tarih": "2026-10-30",
-      "dosyalama": "2026-11-05T00:16:08Z",
-      "ticker": "YCBD",
-      "sirket": "cbdMD, Inc.",
-      "bildiren": "Akretive Holdings LLC",
-      "pay_yuzde": 15.9,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1644903/000143774926035032/0001437749-26-035032-index.htm"
-    },
-    {
-      "tarih": "2026-10-28",
-      "dosyalama": "2026-11-05T00:00:39Z",
-      "ticker": "BHAI",
-      "sirket": "BHAV Acquisition Corp II",
-      "bildiren": "BHAV Partners II LLC ve diğerleri",
-      "pay_yuzde": 28.17,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2142627/000121390026116047/0001213900-26-116047-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-04T23:11:58Z",
-      "ticker": "MTA",
-      "sirket": "Metalla Royalty & Streaming Ltd.",
-      "bildiren": "Tether Global Investments Fund, S.I.C.A.F., S.A. ve diğerleri",
-      "pay_yuzde": 14.6,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1722606/000110465926122850/0001104659-26-122850-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-04T21:38:46Z",
-      "ticker": "TVGN",
-      "sirket": "Tevogen Inc.",
-      "bildiren": "Saadi Ryan H.",
-      "pay_yuzde": 91.1,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1860871/000149315226049973/0001493152-26-049973-index.htm"
     }
   ]
 }

@@ -1,6 +1,19 @@
 {
-  "guncellendi": "2026-11-07T00:19:15.881Z",
+  "guncellendi": "2026-11-07T06:16:22.085Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-06",
+      "dosyalama": "2026-11-07T02:54:24Z",
+      "ticker": "SN",
+      "sirket": "SharkNinja, Inc.",
+      "kisi": "Barrocas Mark",
+      "unvan": "Chief Executive Officer",
+      "tur": "satim",
+      "adet": 113156,
+      "fiyat": 220.9335,
+      "toplam_usd": 24999951.71,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1987144/000090883426000509/0000908834-26-000509-index.htm"
+    },
     {
       "tarih": "2026-11-06",
       "dosyalama": "2026-11-06T23:43:53Z",
@@ -637,19 +650,6 @@
       "fiyat": 10.77,
       "toplam_usd": 24999991.74,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1806952/000101297526001014/0001012975-26-001014-index.htm"
-    },
-    {
-      "tarih": "2026-11-04",
-      "dosyalama": "2026-11-05T22:34:18Z",
-      "ticker": "LYEL",
-      "sirket": "Lyell Immunopharma, Inc.",
-      "kisi": "ARCH Venture Fund XIII, L.P.",
-      "unvan": "10% Owner",
-      "tur": "alim",
-      "adet": 2321262,
-      "fiyat": 10.77,
-      "toplam_usd": 24999991.74,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2016083/000101297526001013/0001012975-26-001013-index.htm"
     }
   ]
 }
