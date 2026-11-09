@@ -1,6 +1,160 @@
 {
-  "guncellendi": "2026-11-07T06:16:43.709Z",
+  "guncellendi": "2026-11-09T15:48:17.421Z",
   "kayitlar": [
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-09T15:43:30Z",
+      "ticker": "SYBT",
+      "sirket": "Stock Yards Bancorp, Inc.",
+      "bildiren": "STOCK YARDS BANK & TRUST CO",
+      "pay_yuzde": 8,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/835324/000089230326000012/0000892303-26-000012-index.htm"
+    },
+    {
+      "tarih": "2026-10-15",
+      "dosyalama": "2026-11-09T15:14:15Z",
+      "ticker": "IAM",
+      "sirket": "Iambic Therapeutics, Inc.",
+      "bildiren": "Qatar Investment Authority",
+      "pay_yuzde": 5.8,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1997038/000144144926000012/0001441449-26-000012-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-09T14:30:26Z",
+      "ticker": "HIHO",
+      "sirket": "HIGHWAY HOLDINGS LTD",
+      "bildiren": "Lazar David E.",
+      "pay_yuzde": 16.7,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1026785/000092189526002960/0000921895-26-002960-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-09T13:45:18Z",
+      "ticker": "HODL",
+      "sirket": "VanEck Bitcoin ETF",
+      "bildiren": "NEOS Investment Management LLC",
+      "pay_yuzde": 1.94,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1838028/000117266126004904/0001172661-26-004904-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-09T13:44:56Z",
+      "ticker": "ITG",
+      "sirket": "ITG, Inc.",
+      "bildiren": "W. H. Reaves & Co., Inc.",
+      "pay_yuzde": 6.49,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2110117/000199937126024876/0001999371-26-024876-index.htm"
+    },
+    {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-09T13:40:38Z",
+      "ticker": "GLNG",
+      "sirket": "GOLAR LNG LTD",
+      "bildiren": "Thebes Offshore Master Fund, LP ve diğerleri",
+      "pay_yuzde": 7,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1207179/000101359426001149/0001013594-26-001149-index.htm"
+    },
+    {
+      "tarih": "2026-11-04",
+      "dosyalama": "2026-11-09T13:36:08Z",
+      "ticker": "NTWO",
+      "sirket": "Newbury Street II Acquisition Corp",
+      "bildiren": "The K2 Principal Fund, L.P. ve diğerleri",
+      "pay_yuzde": 7.74,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2028027/000146179026000038/0001461790-26-000038-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-09T11:55:18Z",
+      "ticker": "WSE",
+      "sirket": "Wise Group plc",
+      "bildiren": "BAILLIE GIFFORD & CO",
+      "pay_yuzde": 9.1,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2099039/000108887526000075/0001088875-26-000075-index.htm"
+    },
+    {
+      "tarih": "2026-11-05",
+      "dosyalama": "2026-11-09T11:41:25Z",
+      "ticker": "WILCF",
+      "sirket": "G Willi Food International Ltd",
+      "bildiren": "MEITAV INVESTMENT HOUSE LTD ve diğerleri",
+      "pay_yuzde": 18.38,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1030997/000117891326005081/0001178913-26-005081-index.htm"
+    },
+    {
+      "tarih": "2026-04-10",
+      "dosyalama": "2026-11-09T11:20:13Z",
+      "ticker": "ENGS",
+      "sirket": "Energys Group Ltd",
+      "bildiren": "LAU Michael Kwok Yan ve diğerleri",
+      "pay_yuzde": 98.9,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1971828/000149315226050601/0001493152-26-050601-index.htm"
+    },
+    {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-09T11:04:18Z",
+      "ticker": "GMHS",
+      "sirket": "Gamehaus Holdings Inc.",
+      "bildiren": "Xie Feng ve diğerleri",
+      "pay_yuzde": 31.5,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2000530/000149315226050586/0001493152-26-050586-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-09T11:03:12Z",
+      "ticker": "BLLN",
+      "sirket": "BillionToOne, Inc.",
+      "bildiren": "Hummingbird Ventures Management NV ve diğerleri",
+      "pay_yuzde": 18.57,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2070849/000110465926124070/0001104659-26-124070-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-09T11:02:30Z",
+      "ticker": "BRVE",
+      "sirket": "Braveheart Bio, Inc.",
+      "bildiren": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "pay_yuzde": 8.2,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2131524/000110465926124063/0001104659-26-124063-index.htm"
+    },
+    {
+      "tarih": "2026-11-02",
+      "dosyalama": "2026-11-09T11:01:23Z",
+      "ticker": "TSEM",
+      "sirket": "TOWER SEMICONDUCTOR LTD",
+      "bildiren": "Clal Insurance Enterprises Holdings Ltd",
+      "pay_yuzde": 5.6,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/928876/000117891326005059/0001178913-26-005059-index.htm"
+    },
     {
       "tarih": "2026-11-04",
       "dosyalama": "2026-11-07T02:48:25Z",
@@ -651,39 +805,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1412486/000094480926000003/0000944809-26-000003-index.htm"
     },
     {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:43:12Z",
-      "ticker": "CISS",
-      "sirket": "C3is Inc.",
-      "bildiren": "JANE STREET GROUP, LLC ve diğerleri",
-      "pay_yuzde": 0.5,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1951067/000159588826000140/0001595888-26-000140-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:40:58Z",
-      "ticker": "SNDK",
-      "sirket": "Sandisk Corp",
-      "bildiren": "JANE STREET GROUP, LLC ve diğerleri",
-      "pay_yuzde": 3.7,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2023554/000159588826000139/0001595888-26-000139-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:37:09Z",
-      "ticker": "CDTG",
-      "sirket": "CDT Environmental Technology Investment Holdings Ltd",
-      "bildiren": "JANE STREET GROUP, LLC ve diğerleri",
-      "pay_yuzde": 4.5,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1793895/000159588826000138/0001595888-26-000138-index.htm"
-    },
-    {
       "tarih": "2026-11-06",
       "dosyalama": "2026-11-06T21:35:32Z",
       "ticker": "XYF",
@@ -695,50 +816,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1725033/000110465926123916/0001104659-26-123916-index.htm"
     },
     {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:35:32Z",
-      "ticker": "CHYM",
-      "sirket": "CHIME FINANCIAL, INC.",
-      "bildiren": "Menlo Ventures XIV, L.P. ve diğerleri",
-      "pay_yuzde": 1.4,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1795586/000170578526000009/0001705785-26-000009-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:35:11Z",
-      "ticker": "SOBR",
-      "sirket": "SOBR Safe, Inc.",
-      "bildiren": "JANE STREET GROUP, LLC ve diğerleri",
-      "pay_yuzde": 0.2,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1425627/000159588826000137/0001595888-26-000137-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:31:42Z",
-      "ticker": "CBRS",
-      "sirket": "Cerebras Systems Inc.",
-      "bildiren": "JANE STREET GROUP, LLC ve diğerleri",
-      "pay_yuzde": 2.5,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2021728/000159588826000136/0001595888-26-000136-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:30:53Z",
-      "ticker": "RNXT",
-      "sirket": "RenovoRx, Inc.",
-      "bildiren": "BOSTON SCIENTIFIC CORP",
-      "pay_yuzde": 0,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1574094/000110465926123910/0001104659-26-123910-index.htm"
-    },
-    {
       "tarih": "2026-11-05",
       "dosyalama": "2026-11-06T21:30:03Z",
       "ticker": "MYPS",
@@ -748,39 +825,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1823878/000119312526451919/0001193125-26-451919-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:30:03Z",
-      "ticker": "CRBG",
-      "sirket": "Corebridge Financial, Inc.",
-      "bildiren": "Argon Holdco LLC ve diğerleri",
-      "pay_yuzde": 10.6,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1889539/000119312526451925/0001193125-26-451925-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:30:03Z",
-      "ticker": "SUNC",
-      "sirket": "SunocoCorp LLC",
-      "bildiren": "Harvest Fund Advisors LLC ve diğerleri",
-      "pay_yuzde": 3.6,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2089661/000119312526451924/0001193125-26-451924-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-06T21:30:03Z",
-      "ticker": "LFTO",
-      "sirket": "Liftoff Mobile, Inc.",
-      "bildiren": "Redbird ML Holdco LP ve diğerleri",
-      "pay_yuzde": 49.5,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1850351/000119312526451920/0001193125-26-451920-index.htm"
     },
     {
       "tarih": "2026-10-19",
@@ -1056,50 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1965473/000149315226050232/0001493152-26-050232-index.htm"
-    },
-    {
-      "tarih": "2026-06-25",
-      "dosyalama": "2026-11-05T19:25:10Z",
-      "ticker": "SKFG",
-      "sirket": "Stark Focus Group, Inc.",
-      "bildiren": "MJG Polo LLC ve diğerleri",
-      "pay_yuzde": 45.23,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1794942/000164033426001756/0001640334-26-001756-index.htm"
-    },
-    {
-      "tarih": "2026-11-03",
-      "dosyalama": "2026-11-05T19:03:15Z",
-      "ticker": "DOLE",
-      "sirket": "Dole plc",
-      "bildiren": "Pale Fire Capital SICAV a.s. ve diğerleri",
-      "pay_yuzde": 11.9,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1857475/000092189526002935/0000921895-26-002935-index.htm"
-    },
-    {
-      "tarih": "2026-11-04",
-      "dosyalama": "2026-11-05T14:02:17Z",
-      "ticker": "FWONA",
-      "sirket": "Liberty Media Corp",
-      "bildiren": "John C. Malone",
-      "pay_yuzde": 0,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1560385/000110465926123105/0001104659-26-123105-index.htm"
-    },
-    {
-      "tarih": "2026-11-04",
-      "dosyalama": "2026-11-05T13:58:00Z",
-      "ticker": "FWONA",
-      "sirket": "Liberty Media Corp",
-      "bildiren": "John C. Malone",
-      "pay_yuzde": 3.5,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1560385/000110465926123102/0001104659-26-123102-index.htm"
     }
   ]
 }
