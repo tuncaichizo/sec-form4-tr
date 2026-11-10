@@ -1,6 +1,28 @@
 {
-  "guncellendi": "2026-11-10T02:51:15.866Z",
+  "guncellendi": "2026-11-10T10:31:27.958Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-09",
+      "dosyalama": "2026-11-10T02:59:46Z",
+      "ticker": "MYI",
+      "sirket": "BLACKROCK MUNIYIELD QUALITY FUND III, INC.",
+      "bildiren": "TORONTO DOMINION INVESTMENTS LLC ve diğerleri",
+      "pay_yuzde": 100,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/883412/000205259526000113/0002052595-26-000113-index.htm"
+    },
+    {
+      "tarih": "2026-11-09",
+      "dosyalama": "2026-11-10T02:51:46Z",
+      "ticker": "MIY",
+      "sirket": "BLACKROCK MUNIYIELD MICHIGAN QUALITY FUND, INC.",
+      "bildiren": "Toronto Dominion Investments, Inc. ve diğerleri",
+      "pay_yuzde": 100,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/890393/000205259526000111/0002052595-26-000111-index.htm"
+    },
     {
       "tarih": "2026-11-09",
       "dosyalama": "2026-11-10T02:49:50Z",
@@ -1078,28 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/70487/000100888626000231/0001008886-26-000231-index.htm"
-    },
-    {
-      "tarih": "2026-11-06",
-      "dosyalama": "2026-11-06T23:01:58Z",
-      "ticker": "HCA",
-      "sirket": "HCA Healthcare, Inc.",
-      "bildiren": "Frisco Holding II ve diğerleri",
-      "pay_yuzde": 33.8,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/860730/000114036126042524/0001140361-26-042524-index.htm"
-    },
-    {
-      "tarih": "2026-11-04",
-      "dosyalama": "2026-11-06T22:30:03Z",
-      "ticker": "H",
-      "sirket": "Hyatt Hotels Corporation",
-      "bildiren": "Andrew D. Wingate, Lucinda Falk and Zena Tamler, not individually, but solely as co-trustees of DJPS P.G. Trust. ve diğerleri",
-      "pay_yuzde": 3.6,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1468174/000119312526452128/0001193125-26-452128-index.htm"
     }
   ]
 }

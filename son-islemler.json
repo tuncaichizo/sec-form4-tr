@@ -1,6 +1,32 @@
 {
-  "guncellendi": "2026-11-10T02:48:08.606Z",
+  "guncellendi": "2026-11-10T10:31:24.616Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-09",
+      "dosyalama": "2026-11-10T02:57:19Z",
+      "ticker": "PGNY",
+      "sirket": "Progyny, Inc.",
+      "kisi": "Anevski Peter",
+      "unvan": "CHIEF EXECUTIVE OFFICER",
+      "tur": "satim",
+      "adet": 173247,
+      "fiyat": 35.6846,
+      "toplam_usd": 6182253.69,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1576147/000155130626000176/0001551306-26-000176-index.htm"
+    },
+    {
+      "tarih": "2026-11-09",
+      "dosyalama": "2026-11-10T02:55:24Z",
+      "ticker": "PGNY",
+      "sirket": "Progyny, Inc.",
+      "kisi": "Schlanger David J",
+      "unvan": "Executive Chairman",
+      "tur": "satim",
+      "adet": 164608,
+      "fiyat": 35.7159,
+      "toplam_usd": 5879116.43,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1576145/000155130626000174/0001551306-26-000174-index.htm"
+    },
     {
       "tarih": "2026-11-06",
       "dosyalama": "2026-11-10T02:43:42Z",
@@ -624,32 +650,6 @@
       "fiyat": 110.6178,
       "toplam_usd": 10063122.38,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1070938/000107093826000024/0001070938-26-000024-index.htm"
-    },
-    {
-      "tarih": "2026-11-06",
-      "dosyalama": "2026-11-09T16:27:32Z",
-      "ticker": "OPLN",
-      "sirket": "OPENLANE, Inc.",
-      "kisi": "Coleman Charles S.",
-      "unvan": "EVP, CLO & Secretary",
-      "tur": "satim",
-      "adet": 38496,
-      "fiyat": 35.6543,
-      "toplam_usd": 1372546.26,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1791222/000179122226000004/0001791222-26-000004-index.htm"
-    },
-    {
-      "tarih": "2026-11-05",
-      "dosyalama": "2026-11-09T16:27:08Z",
-      "ticker": "OPLN",
-      "sirket": "OPENLANE, Inc.",
-      "kisi": "Coyle James P",
-      "unvan": "EVP & President, Marketplace",
-      "tur": "satim",
-      "adet": 80755,
-      "fiyat": 35.2127,
-      "toplam_usd": 2843601.13,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1891323/000189132326000004/0001891323-26-000004-index.htm"
     }
   ]
 }
