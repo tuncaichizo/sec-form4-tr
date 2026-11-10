@@ -1,6 +1,19 @@
 {
-  "guncellendi": "2026-11-10T14:39:25.462Z",
+  "guncellendi": "2026-11-10T18:14:32.053Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-05",
+      "dosyalama": "2026-11-10T16:44:25Z",
+      "ticker": "MXF",
+      "sirket": "MEXICO FUND INC",
+      "kisi": "Saba Capital Management, L.P.",
+      "unvan": "10% Owner",
+      "tur": "alim",
+      "adet": 124121,
+      "fiyat": 20.4118,
+      "toplam_usd": 2533527.55,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1510281/000151028126000425/0001510281-26-000425-index.htm"
+    },
     {
       "tarih": "2026-11-09",
       "dosyalama": "2026-11-10T12:45:14Z",
@@ -637,19 +650,6 @@
       "fiyat": 26.4,
       "toplam_usd": 45199994.4,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000010/0001687898-26-000010-index.htm"
-    },
-    {
-      "tarih": "2026-11-05",
-      "dosyalama": "2026-11-09T20:01:56Z",
-      "ticker": "PAM",
-      "sirket": "Pampa Energy Inc.",
-      "kisi": "Mindlin Damian Miguel",
-      "unvan": "Vicepresident",
-      "tur": "alim",
-      "adet": 20000,
-      "fiyat": 64.37,
-      "toplam_usd": 1287400,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2028916/000202891626000013/0002028916-26-000013-index.htm"
     }
   ]
 }
