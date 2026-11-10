@@ -1,6 +1,32 @@
 {
-  "guncellendi": "2026-11-10T10:31:24.616Z",
+  "guncellendi": "2026-11-10T14:39:25.462Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-09",
+      "dosyalama": "2026-11-10T12:45:14Z",
+      "ticker": "AGCO",
+      "sirket": "AGCO CORP /DE",
+      "kisi": "Dehner Torsten Rudolf Willi",
+      "unvan": "SVP GM Fendt/Valtra",
+      "tur": "satim",
+      "adet": 27393,
+      "fiyat": 111.369,
+      "toplam_usd": 3050730,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1797545/000088026626000079/0000880266-26-000079-index.htm"
+    },
+    {
+      "tarih": "2026-11-09",
+      "dosyalama": "2026-11-10T11:01:26Z",
+      "ticker": "LBTY",
+      "sirket": "Liberty Global Ltd.",
+      "kisi": "MALONE JOHN C",
+      "unvan": "10% Owner",
+      "tur": "alim",
+      "adet": 150000,
+      "fiyat": 9.7343,
+      "toplam_usd": 1460150.08,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1570585/000093779726000037/0000937797-26-000037-index.htm"
+    },
     {
       "tarih": "2026-11-09",
       "dosyalama": "2026-11-10T02:57:19Z",
@@ -601,6 +627,19 @@
     },
     {
       "tarih": "2026-11-05",
+      "dosyalama": "2026-11-09T20:17:20Z",
+      "ticker": "NFRX",
+      "sirket": "2023 ETF Series Trust",
+      "kisi": "Harrison Street Real Assets Fund LLC",
+      "unvan": "10% Owner",
+      "tur": "alim",
+      "adet": 1712121,
+      "fiyat": 26.4,
+      "toplam_usd": 45199994.4,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000010/0001687898-26-000010-index.htm"
+    },
+    {
+      "tarih": "2026-11-05",
       "dosyalama": "2026-11-09T20:01:56Z",
       "ticker": "PAM",
       "sirket": "Pampa Energy Inc.",
@@ -611,45 +650,6 @@
       "fiyat": 64.37,
       "toplam_usd": 1287400,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/2028916/000202891626000013/0002028916-26-000013-index.htm"
-    },
-    {
-      "tarih": "2026-11-06",
-      "dosyalama": "2026-11-09T18:00:57Z",
-      "ticker": "EBAY",
-      "sirket": "EBAY INC",
-      "kisi": "IANNONE JAMIE",
-      "unvan": "President and CEO",
-      "tur": "satim",
-      "adet": 22220,
-      "fiyat": 122.6481,
-      "toplam_usd": 2725239.97,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1495849/000106508826000223/0001065088-26-000223-index.htm"
-    },
-    {
-      "tarih": "2026-11-05",
-      "dosyalama": "2026-11-09T17:08:24Z",
-      "ticker": "KO",
-      "sirket": "COCA COLA CO",
-      "kisi": "QUAN NANCY",
-      "unvan": "Executive Vice President",
-      "tur": "satim",
-      "adet": 20585,
-      "fiyat": 95.6233,
-      "toplam_usd": 1968405.63,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1760346/000002134426000171/0000021344-26-000171-index.htm"
-    },
-    {
-      "tarih": "2026-11-06",
-      "dosyalama": "2026-11-09T16:56:05Z",
-      "ticker": "EL",
-      "sirket": "ESTEE LAUDER COMPANIES INC",
-      "kisi": "FRIBOURG PAUL J",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 90972,
-      "fiyat": 110.6178,
-      "toplam_usd": 10063122.38,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1070938/000107093826000024/0001070938-26-000024-index.htm"
     }
   ]
 }
