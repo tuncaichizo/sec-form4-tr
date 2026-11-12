@@ -1,6 +1,32 @@
 {
-  "guncellendi": "2026-11-12T14:55:57.594Z",
+  "guncellendi": "2026-11-12T16:21:58.016Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-11",
+      "dosyalama": "2026-11-12T15:56:42Z",
+      "ticker": "TDY",
+      "sirket": "TELEDYNE TECHNOLOGIES INC",
+      "kisi": "Belak Cynthia Y",
+      "unvan": "Senior VP and Controller",
+      "tur": "satim",
+      "adet": 4528,
+      "fiyat": 657.4542,
+      "toplam_usd": 2976952.58,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1641318/000164131826000009/0001641318-26-000009-index.htm"
+    },
+    {
+      "tarih": "2026-11-10",
+      "dosyalama": "2026-11-12T15:42:44Z",
+      "ticker": "CNA",
+      "sirket": "CNA FINANCIAL CORP",
+      "kisi": "Worman Douglas",
+      "unvan": "Chairman and CEO",
+      "tur": "satim",
+      "adet": 40000,
+      "fiyat": 48.07,
+      "toplam_usd": 1922800,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1513745/000151374526000004/0001513745-26-000004-index.htm"
+    },
     {
       "tarih": "2026-11-10",
       "dosyalama": "2026-11-12T14:45:58Z",
@@ -624,32 +650,6 @@
       "fiyat": 28.7475,
       "toplam_usd": 2371668.75,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1998256/000199825626000017/0001998256-26-000017-index.htm"
-    },
-    {
-      "tarih": "2026-11-10",
-      "dosyalama": "2026-11-10T22:09:24Z",
-      "ticker": "HCA",
-      "sirket": "HCA Healthcare, Inc.",
-      "kisi": "Rossitto Erica",
-      "unvan": "SVP & Chief Nurse Executive",
-      "tur": "satim",
-      "adet": 3500,
-      "fiyat": 505.8101,
-      "toplam_usd": 1770335.35,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2108748/000119312526455721/0001193125-26-455721-index.htm"
-    },
-    {
-      "tarih": "2026-11-09",
-      "dosyalama": "2026-11-10T22:00:22Z",
-      "ticker": "DHR",
-      "sirket": "DANAHER CORP /DE/",
-      "kisi": "McGrew Matthew",
-      "unvan": "Executive Vice President",
-      "tur": "satim",
-      "adet": 17385,
-      "fiyat": 235.6889,
-      "toplam_usd": 4097451.53,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1754423/000031361626000223/0000313616-26-000223-index.htm"
     }
   ]
 }
