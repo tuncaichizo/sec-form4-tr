@@ -1,6 +1,32 @@
 {
-  "guncellendi": "2026-11-13T14:21:56.870Z",
+  "guncellendi": "2026-11-13T17:43:03.587Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-11",
+      "dosyalama": "2026-11-13T16:57:34Z",
+      "ticker": "EBAY",
+      "sirket": "EBAY INC",
+      "kisi": "Boone Cornelius",
+      "unvan": "SVP, Chief People Officer",
+      "tur": "satim",
+      "adet": 31000,
+      "fiyat": 123.37,
+      "toplam_usd": 3824470,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1845827/000106508826000227/0001065088-26-000227-index.htm"
+    },
+    {
+      "tarih": "2026-11-11",
+      "dosyalama": "2026-11-13T14:39:43Z",
+      "ticker": "MAX",
+      "sirket": "MediaAlpha, Inc.",
+      "kisi": "WHITE MOUNTAINS INSURANCE GROUP LTD",
+      "unvan": "10% Owner",
+      "tur": "satim",
+      "adet": 1130000,
+      "fiyat": 14.15,
+      "toplam_usd": 15989500,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1979065/000095015726001244/0000950157-26-001244-index.htm"
+    },
     {
       "tarih": "2026-11-12",
       "dosyalama": "2026-11-13T14:06:48Z",
@@ -624,32 +650,6 @@
       "fiyat": 218.1185,
       "toplam_usd": 61093040.5,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1307631/000101143826000683/0001011438-26-000683-index.htm"
-    },
-    {
-      "tarih": "2026-11-11",
-      "dosyalama": "2026-11-12T22:16:47Z",
-      "ticker": "TEAM",
-      "sirket": "Atlassian Corp",
-      "kisi": "Cannon-Brookes Michael",
-      "unvan": "CEO, Co-Founder",
-      "tur": "alim",
-      "adet": 13400,
-      "fiyat": 150.2978,
-      "toplam_usd": 2013990.18,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1666120/000166612026000033/0001666120-26-000033-index.htm"
-    },
-    {
-      "tarih": "2026-11-12",
-      "dosyalama": "2026-11-12T22:14:15Z",
-      "ticker": "MORN",
-      "sirket": "Morningstar, Inc.",
-      "kisi": "Mansueto Joseph D",
-      "unvan": "Executive Chairman",
-      "tur": "satim",
-      "adet": 21885,
-      "fiyat": 246.4219,
-      "toplam_usd": 5392942.58,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1324069/000132406926000051/0001324069-26-000051-index.htm"
     }
   ]
 }
