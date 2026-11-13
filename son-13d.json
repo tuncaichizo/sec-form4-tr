@@ -1,6 +1,17 @@
 {
-  "guncellendi": "2026-11-13T02:50:48.972Z",
+  "guncellendi": "2026-11-13T10:07:39.415Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-12",
+      "dosyalama": "2026-11-13T02:53:16Z",
+      "ticker": "DDI",
+      "sirket": "DoubleDown Interactive Co., Ltd.",
+      "bildiren": "DoubleU Games Co., Ltd.",
+      "pay_yuzde": 67.05,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1799567/000119312526459013/0001193125-26-459013-index.htm"
+    },
     {
       "tarih": "2026-09-30",
       "dosyalama": "2026-11-13T02:37:10Z",
@@ -1089,17 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1771706/000121390026118011/0001213900-26-118011-index.htm"
-    },
-    {
-      "tarih": "2026-11-09",
-      "dosyalama": "2026-11-10T20:47:55Z",
-      "ticker": "TACT",
-      "sirket": "TRANSACT TECHNOLOGIES INC",
-      "bildiren": "Charles M. Gillman",
-      "pay_yuzde": 5.1,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1017303/000121465926013914/0001214659-26-013914-index.htm"
     }
   ]
 }
