@@ -1,6 +1,204 @@
 {
-  "guncellendi": "2026-11-12T22:29:09.848Z",
+  "guncellendi": "2026-11-13T02:50:48.972Z",
   "kayitlar": [
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-13T02:37:10Z",
+      "ticker": "REI",
+      "sirket": "RING ENERGY, INC.",
+      "bildiren": "PEAK6 Capital Management LLC ve diğerleri",
+      "pay_yuzde": 4,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1384195/000138995626000020/0001389956-26-000020-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-13T02:07:12Z",
+      "ticker": "ARBE",
+      "sirket": "Arbe Robotics Ltd.",
+      "bildiren": "PEAK6 Capital Management LLC ve diğerleri",
+      "pay_yuzde": 4,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1861841/000138995626000019/0001389956-26-000019-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-13T02:00:04Z",
+      "ticker": "ZONE",
+      "sirket": "Zone Frontier Inc.",
+      "bildiren": "PEAK6 Capital Management LLC ve diğerleri",
+      "pay_yuzde": 5.8,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1956741/000138995626000018/0001389956-26-000018-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-13T01:27:31Z",
+      "ticker": "NHIV",
+      "sirket": "NewHold Investment Corp IV",
+      "bildiren": "PEAK6 Capital Management LLC ve diğerleri",
+      "pay_yuzde": 6,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2099767/000138995626000017/0001389956-26-000017-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-13T00:57:26Z",
+      "ticker": "FOXO",
+      "sirket": "FOXO TECHNOLOGIES INC.",
+      "bildiren": "PEAK6 Capital Management LLC ve diğerleri",
+      "pay_yuzde": 5.6,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1812360/000138995626000016/0001389956-26-000016-index.htm"
+    },
+    {
+      "tarih": "2026-11-09",
+      "dosyalama": "2026-11-13T00:44:23Z",
+      "ticker": "COHN",
+      "sirket": "Cohen & Co Inc.",
+      "bildiren": "Brafman Lester Raymond",
+      "pay_yuzde": 9.38,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1270436/000110465926126384/0001104659-26-126384-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-13T00:31:51Z",
+      "ticker": "ETOR",
+      "sirket": "eToro Group Ltd.",
+      "bildiren": "PEAK6 Capital Management LLC ve diğerleri",
+      "pay_yuzde": 6.1,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1493318/000138995626000015/0001389956-26-000015-index.htm"
+    },
+    {
+      "tarih": "2026-10-30",
+      "dosyalama": "2026-11-13T00:26:47Z",
+      "ticker": "FNKO",
+      "sirket": "Funko, Inc.",
+      "bildiren": "Fund 1 Investments, LLC",
+      "pay_yuzde": 9.4,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1704711/000092189526003046/0000921895-26-003046-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-12T23:53:06Z",
+      "ticker": "BSP",
+      "sirket": "Bending Spoons S.p.A.",
+      "bildiren": "Ferrari Luca",
+      "pay_yuzde": 20.1,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2004711/000214104126000002/0002141041-26-000002-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-12T23:39:36Z",
+      "ticker": "BSP",
+      "sirket": "Bending Spoons S.p.A.",
+      "bildiren": "Patarnello Francesco",
+      "pay_yuzde": 18.5,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2004711/000214106126000002/0002141061-26-000002-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-12T23:10:38Z",
+      "ticker": "BSP",
+      "sirket": "Bending Spoons S.p.A.",
+      "bildiren": "Querella Luca",
+      "pay_yuzde": 18.7,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2004711/000214545726000001/0002145457-26-000001-index.htm"
+    },
+    {
+      "tarih": "2026-11-11",
+      "dosyalama": "2026-11-12T23:09:02Z",
+      "ticker": "HGTY",
+      "sirket": "Hagerty, Inc.",
+      "bildiren": "HAGERTY HOLDING CORP.",
+      "pay_yuzde": 51.4,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1840776/000110465926126363/0001104659-26-126363-index.htm"
+    },
+    {
+      "tarih": "2026-11-09",
+      "dosyalama": "2026-11-12T23:08:59Z",
+      "ticker": "OFIX",
+      "sirket": "Orthofix Medical Inc.",
+      "bildiren": "Juniper Targeted Opportunity Fund, L.P. ve diğerleri",
+      "pay_yuzde": 13.4,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/884624/000121465926014040/0001214659-26-014040-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-12T23:07:37Z",
+      "ticker": "LYFT",
+      "sirket": "Lyft, Inc.",
+      "bildiren": "Integrated Core Strategies (US) LLC ve diğerleri",
+      "pay_yuzde": 2.8,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1759509/000110465926126362/0001104659-26-126362-index.htm"
+    },
+    {
+      "tarih": "2026-11-09",
+      "dosyalama": "2026-11-12T22:45:58Z",
+      "ticker": "NEXN",
+      "sirket": "Nexxen International Ltd.",
+      "bildiren": "Mithaq Capital SPC ve diğerleri",
+      "pay_yuzde": 29,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1849396/000183460026000035/0001834600-26-000035-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-12T22:45:13Z",
+      "ticker": "BSP",
+      "sirket": "Bending Spoons S.p.A.",
+      "bildiren": "Danieli Matteo",
+      "pay_yuzde": 19,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2004711/000214104326000005/0002141043-26-000005-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-12T22:40:02Z",
+      "ticker": "MYO",
+      "sirket": "MYOMO, INC.",
+      "bildiren": "Rosalind Advisors, Inc. ve diğerleri",
+      "pay_yuzde": 9.9,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1369290/000162262726000028/0001622627-26-000028-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-12T22:29:14Z",
+      "ticker": "HELP",
+      "sirket": "Helus Pharma Inc.",
+      "bildiren": "Integrated Core Strategies (US) LLC ve diğerleri",
+      "pay_yuzde": 1.4,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1833141/000110465926126356/0001104659-26-126356-index.htm"
+    },
     {
       "tarih": "2026-11-04",
       "dosyalama": "2026-11-12T22:17:04Z",
@@ -541,149 +739,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/887151/000110465926126221/0001104659-26-126221-index.htm"
     },
     {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:39Z",
-      "ticker": "VBIO",
-      "sirket": "Valion Bio, Inc.",
-      "bildiren": "3i, LP ve diğerleri",
-      "pay_yuzde": 9.9,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1787740/000110465926126218/0001104659-26-126218-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:30Z",
-      "ticker": "POET",
-      "sirket": "POET TECHNOLOGIES INC.",
-      "bildiren": "JANE STREET GROUP, LLC ve diğerleri",
-      "pay_yuzde": 7.7,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1437424/000159588826000163/0001595888-26-000163-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:29Z",
-      "ticker": "APAM",
-      "sirket": "ARTISAN PARTNERS ASSET MGMT",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC",
-      "pay_yuzde": 6.9,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1517302/000139834426019975/0001398344-26-019975-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:29Z",
-      "ticker": "TTC",
-      "sirket": "TORO CO",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC",
-      "pay_yuzde": 7.1,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/737758/000139834426019974/0001398344-26-019974-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:28Z",
-      "ticker": "ANDG",
-      "sirket": "ANDERSEN GROUP INC",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC",
-      "pay_yuzde": 7.8,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2065708/000139834426019958/0001398344-26-019958-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:28Z",
-      "ticker": "SDHC",
-      "sirket": "SMITH DOUGLAS HOMES CORP",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC ve diğerleri",
-      "pay_yuzde": 10.6,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1982518/000139834426019966/0001398344-26-019966-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:28Z",
-      "ticker": "ULS",
-      "sirket": "UL SOLUTIONS INC",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC",
-      "pay_yuzde": 4.7,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1901440/000139834426019961/0001398344-26-019961-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:28Z",
-      "ticker": "GCT",
-      "sirket": "GIGACLOUD TECHNOLOGY INC",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC",
-      "pay_yuzde": 5.7,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1857816/000139834426019968/0001398344-26-019968-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:28Z",
-      "ticker": "HLMN",
-      "sirket": "HILLMAN SOLUTIONS CORP",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC",
-      "pay_yuzde": 4.9,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1822492/000139834426019977/0001398344-26-019977-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:28Z",
-      "ticker": "GSHD",
-      "sirket": "GOOSEHEAD INS INC",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC",
-      "pay_yuzde": 7.6,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1726978/000139834426019959/0001398344-26-019959-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:28Z",
-      "ticker": "IBP",
-      "sirket": "INSTALLED BLDG PRODS INC",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC",
-      "pay_yuzde": 7.8,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1580905/000139834426019970/0001398344-26-019970-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:28Z",
-      "ticker": "ZWS",
-      "sirket": "ZURN ELKAY WATER SOLNS CORP",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC",
-      "pay_yuzde": 4,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1439288/000139834426019963/0001398344-26-019963-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-12T21:05:28Z",
-      "ticker": "BFAM",
-      "sirket": "BRIGHT HORIZONS FAM SOL INC",
-      "bildiren": "Kayne Anderson Rudnick Investment Management, LLC",
-      "pay_yuzde": 4.3,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1437578/000139834426019971/0001398344-26-019971-index.htm"
-    },
-    {
       "tarih": "2026-11-12",
       "dosyalama": "2026-11-12T17:39:58Z",
       "ticker": "INTZ",
@@ -1045,61 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1017303/000121465926013914/0001214659-26-013914-index.htm"
-    },
-    {
-      "tarih": "2026-11-06",
-      "dosyalama": "2026-11-10T20:09:51Z",
-      "ticker": "NMCO",
-      "sirket": "Nuveen Municipal Credit Opportunities Fund",
-      "bildiren": "BANK OF AMERICA CORP /DE/ ve diğerleri",
-      "pay_yuzde": 50.7,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1774342/000007085826000575/0000070858-26-000575-index.htm"
-    },
-    {
-      "tarih": "2026-10-30",
-      "dosyalama": "2026-11-10T17:12:34Z",
-      "ticker": "AEON",
-      "sirket": "AEON Biopharma, Inc.",
-      "bildiren": "Daewoong Co., Ltd. ve diğerleri",
-      "pay_yuzde": 30.6,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1837607/000121390026117881/0001213900-26-117881-index.htm"
-    },
-    {
-      "tarih": "2026-11-04",
-      "dosyalama": "2026-11-10T13:38:29Z",
-      "ticker": "ENHA",
-      "sirket": "Enhanced Group Inc.",
-      "bildiren": "Apeiron Investment Group Ltd. ve diğerleri",
-      "pay_yuzde": 34.3,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1956439/000119312526454519/0001193125-26-454519-index.htm"
-    },
-    {
-      "tarih": "2026-11-09",
-      "dosyalama": "2026-11-10T13:00:28Z",
-      "ticker": "YFOR",
-      "sirket": "YYForce Inc.",
-      "bildiren": "Yinan Ren",
-      "pay_yuzde": 50.24,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1985337/000121390026117776/0001213900-26-117776-index.htm"
-    },
-    {
-      "tarih": "2026-11-09",
-      "dosyalama": "2026-11-10T02:59:46Z",
-      "ticker": "MYI",
-      "sirket": "BLACKROCK MUNIYIELD QUALITY FUND III, INC.",
-      "bildiren": "TORONTO DOMINION INVESTMENTS LLC ve diğerleri",
-      "pay_yuzde": 100,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/883412/000205259526000113/0002052595-26-000113-index.htm"
     }
   ]
 }
