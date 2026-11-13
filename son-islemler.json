@@ -1,6 +1,58 @@
 {
-  "guncellendi": "2026-11-13T10:07:37.188Z",
+  "guncellendi": "2026-11-13T14:21:56.870Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-12",
+      "dosyalama": "2026-11-13T14:06:48Z",
+      "ticker": "BH",
+      "sirket": "Biglari Holdings Inc.",
+      "kisi": "BIGLARI, SARDAR",
+      "unvan": "Chairman and CEO",
+      "tur": "alim",
+      "adet": 3657,
+      "fiyat": 1514.1166,
+      "toplam_usd": 5537124.53,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1726173/000092189526003050/0000921895-26-003050-index.htm"
+    },
+    {
+      "tarih": "2026-11-10",
+      "dosyalama": "2026-11-13T13:38:10Z",
+      "ticker": "RGA",
+      "sirket": "REINSURANCE GROUP OF AMERICA INC",
+      "kisi": "PORTER JONATHAN",
+      "unvan": "EVP, Global Chief Risk Officer",
+      "tur": "satim",
+      "adet": 3852,
+      "fiyat": 271.5306,
+      "toplam_usd": 1045935.87,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1684118/000168411826000001/0001684118-26-000001-index.htm"
+    },
+    {
+      "tarih": "2026-11-10",
+      "dosyalama": "2026-11-13T13:26:44Z",
+      "ticker": "PSEC",
+      "sirket": "PROSPECT CAPITAL CORP",
+      "kisi": "Barry John F",
+      "unvan": "CHIEF EXECUTIVE OFFICER",
+      "tur": "alim",
+      "adet": 4014895,
+      "fiyat": 1.508,
+      "toplam_usd": 6054559.32,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1294357/000129435726000020/0001294357-26-000020-index.htm"
+    },
+    {
+      "tarih": "2026-11-12",
+      "dosyalama": "2026-11-13T12:04:55Z",
+      "ticker": "THG",
+      "sirket": "HANOVER INSURANCE GROUP, INC.",
+      "kisi": "Roche John C",
+      "unvan": "President and CEO",
+      "tur": "satim",
+      "adet": 14422,
+      "fiyat": 249.3858,
+      "toplam_usd": 3596641.82,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1428157/000119312526459263/0001193125-26-459263-index.htm"
+    },
     {
       "tarih": "2026-11-12",
       "dosyalama": "2026-11-13T02:30:10Z",
@@ -598,58 +650,6 @@
       "fiyat": 246.4219,
       "toplam_usd": 5392942.58,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1324069/000132406926000051/0001324069-26-000051-index.htm"
-    },
-    {
-      "tarih": "2026-11-10",
-      "dosyalama": "2026-11-12T22:12:52Z",
-      "ticker": "NFRX",
-      "sirket": "2023 ETF Series Trust",
-      "kisi": "Harrison Street Real Assets Fund LLC",
-      "unvan": "10% Owner",
-      "tur": "alim",
-      "adet": 1670420,
-      "fiyat": 26.64,
-      "toplam_usd": 44499988.8,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000012/0001687898-26-000012-index.htm"
-    },
-    {
-      "tarih": "2026-11-09",
-      "dosyalama": "2026-11-12T22:09:47Z",
-      "ticker": "BLK",
-      "sirket": "BlackRock, Inc.",
-      "kisi": "Lord Rachel",
-      "unvan": "Senior Managing Director",
-      "tur": "satim",
-      "adet": 7000,
-      "fiyat": 1219.5533,
-      "toplam_usd": 8536873.32,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003982/0002012383-26-003982-index.htm"
-    },
-    {
-      "tarih": "2026-11-10",
-      "dosyalama": "2026-11-12T22:08:26Z",
-      "ticker": "V",
-      "sirket": "VISA INC.",
-      "kisi": "Fabara Paul D",
-      "unvan": "CHIEF RISK & CLIENT SVCS OFC",
-      "tur": "satim",
-      "adet": 3401,
-      "fiyat": 423.09,
-      "toplam_usd": 1438929.09,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1646987/000140316126000140/0001403161-26-000140-index.htm"
-    },
-    {
-      "tarih": "2026-11-11",
-      "dosyalama": "2026-11-12T22:07:00Z",
-      "ticker": "SNA",
-      "sirket": "Snap-on Inc",
-      "kisi": "PINCHUK NICHOLAS T",
-      "unvan": "Chairman, President and CEO",
-      "tur": "satim",
-      "adet": 23447,
-      "fiyat": 373.4737,
-      "toplam_usd": 8756838.28,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1246136/000009144026000176/0000091440-26-000176-index.htm"
     }
   ]
 }
