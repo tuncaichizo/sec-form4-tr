@@ -1,6 +1,28 @@
 {
-  "guncellendi": "2026-11-14T02:58:36.351Z",
+  "guncellendi": "2026-11-14T10:02:39.331Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-13",
+      "dosyalama": "2026-11-14T02:59:30Z",
+      "ticker": "STLN",
+      "sirket": "STARLING ONCOLOGY, INC.",
+      "bildiren": "Chernett Jorey",
+      "pay_yuzde": 5.6,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1799191/000119380526001476/0001193805-26-001476-index.htm"
+    },
+    {
+      "tarih": "2026-11-13",
+      "dosyalama": "2026-11-14T02:58:28Z",
+      "ticker": "XGN",
+      "sirket": "EXAGEN INC.",
+      "bildiren": "Chernett Jorey",
+      "pay_yuzde": 3.47,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1274737/000119380526001475/0001193805-26-001475-index.htm"
+    },
     {
       "tarih": "2026-09-16",
       "dosyalama": "2026-11-14T02:51:12Z",
@@ -572,28 +594,6 @@
       "tur": "13G",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1880438/000119312526461157/0001193125-26-461157-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-13T23:10:01Z",
-      "ticker": "UIS",
-      "sirket": "Unisys Corporation",
-      "bildiren": "Needham Investment Management L.L.C. ve diğerleri",
-      "pay_yuzde": 5.7,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/746838/000091957426007853/0000919574-26-007853-index.htm"
-    },
-    {
-      "tarih": "2026-11-10",
-      "dosyalama": "2026-11-13T23:06:06Z",
-      "ticker": "JANX",
-      "sirket": "Janux Therapeutics, Inc.",
-      "bildiren": "W. Lawrence Hawkins ve diğerleri",
-      "pay_yuzde": 5.15,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1817713/000161720126000008/0001617201-26-000008-index.htm"
     },
     {
       "tarih": "2026-11-11",
