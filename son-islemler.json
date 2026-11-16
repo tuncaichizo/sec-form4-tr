@@ -1,6 +1,71 @@
 {
-  "guncellendi": "2026-11-14T13:16:56.262Z",
+  "guncellendi": "2026-11-16T15:25:10.811Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-13",
+      "dosyalama": "2026-11-16T14:09:47Z",
+      "ticker": "SONO",
+      "sirket": "Sonos Inc",
+      "kisi": "Kennedy Joseph Jude",
+      "unvan": "Director",
+      "tur": "alim",
+      "adet": 100000,
+      "fiyat": 18.715,
+      "toplam_usd": 1871497.4,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1806159/000131472726000106/0001314727-26-000106-index.htm"
+    },
+    {
+      "tarih": "2026-11-12",
+      "dosyalama": "2026-11-16T14:00:10Z",
+      "ticker": "SCISX",
+      "sirket": "MA Specialty Credit Income Fund",
+      "kisi": "MA Eagle II Holdings Fund",
+      "unvan": "10% Owner",
+      "tur": "satim",
+      "adet": 202429.15,
+      "fiyat": 24.7,
+      "toplam_usd": 5000000.01,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2049114/000094562126001411/0000945621-26-001411-index.htm"
+    },
+    {
+      "tarih": "2026-11-13",
+      "dosyalama": "2026-11-16T13:00:06Z",
+      "ticker": "HUBS",
+      "sirket": "HUBSPOT INC",
+      "kisi": "Halligan Brian",
+      "unvan": "Chief Executive Officer",
+      "tur": "alim",
+      "adet": 22985,
+      "fiyat": 217.44,
+      "toplam_usd": 4997858.4,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1603527/000119312526462154/0001193125-26-462154-index.htm"
+    },
+    {
+      "tarih": "2026-11-12",
+      "dosyalama": "2026-11-16T12:07:04Z",
+      "ticker": "EXLS",
+      "sirket": "ExlService Holdings, Inc.",
+      "kisi": "Kapoor Rohit",
+      "unvan": "Chairman & CEO",
+      "tur": "satim",
+      "adet": 100000,
+      "fiyat": 43.24,
+      "toplam_usd": 4324000,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1373630/000162828026073993/0001628280-26-073993-index.htm"
+    },
+    {
+      "tarih": "2026-11-13",
+      "dosyalama": "2026-11-16T11:16:29Z",
+      "ticker": "ZYME",
+      "sirket": "Zymeworks Inc.",
+      "kisi": "Moore Paul Andrew",
+      "unvan": "Chief Scientific Officer",
+      "tur": "satim",
+      "adet": 39741,
+      "fiyat": 26.0678,
+      "toplam_usd": 1035961.04,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1938192/000193819226000007/0001938192-26-000007-index.htm"
+    },
     {
       "tarih": "2026-11-13",
       "dosyalama": "2026-11-14T02:43:51Z",
@@ -585,71 +650,6 @@
       "fiyat": 4.421,
       "toplam_usd": 2012408.03,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/2077837/000110465926127135/0001104659-26-127135-index.htm"
-    },
-    {
-      "tarih": "2026-11-12",
-      "dosyalama": "2026-11-13T21:35:37Z",
-      "ticker": "MAR",
-      "sirket": "MARRIOTT INTERNATIONAL INC /MD/",
-      "kisi": "Breland Benjamin T.",
-      "unvan": "CHRO & EVP, Global Ops. Serv.",
-      "tur": "satim",
-      "adet": 2408,
-      "fiyat": 424.5201,
-      "toplam_usd": 1022244.4,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1891273/000122520826008983/0001225208-26-008983-index.htm"
-    },
-    {
-      "tarih": "2026-11-12",
-      "dosyalama": "2026-11-13T21:32:49Z",
-      "ticker": "UTHR",
-      "sirket": "UNITED THERAPEUTICS Corp",
-      "kisi": "ROTHBLATT MARTINE A",
-      "unvan": "Chairperson & CEO",
-      "tur": "satim",
-      "adet": 9500,
-      "fiyat": 593.5206,
-      "toplam_usd": 5638445.38,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1106578/000110657826000188/0001106578-26-000188-index.htm"
-    },
-    {
-      "tarih": "2026-11-11",
-      "dosyalama": "2026-11-13T21:32:25Z",
-      "ticker": "CHD",
-      "sirket": "CHURCH & DWIGHT CO INC /DE/",
-      "kisi": "Vergis Janet S.",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 11590,
-      "fiyat": 112,
-      "toplam_usd": 1298080,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1590794/000101297526001053/0001012975-26-001053-index.htm"
-    },
-    {
-      "tarih": "2026-11-10",
-      "dosyalama": "2026-11-13T21:31:34Z",
-      "ticker": "LKNCY",
-      "sirket": "Luckin Coffee Inc.",
-      "kisi": "Cao Wenbao",
-      "unvan": "Senior Vice President",
-      "tur": "satim",
-      "adet": 150000,
-      "fiyat": 35.89,
-      "toplam_usd": 5383500,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1975383/000110465926127117/0001104659-26-127117-index.htm"
-    },
-    {
-      "tarih": "2026-11-11",
-      "dosyalama": "2026-11-13T21:30:25Z",
-      "ticker": "SPOT",
-      "sirket": "Spotify Technology S.A.",
-      "kisi": "Soderstrom Gustav",
-      "unvan": "Co-Chief Executive Officer",
-      "tur": "satim",
-      "adet": 20910,
-      "fiyat": 599.3742,
-      "toplam_usd": 12532913.87,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1848565/000114036126043772/0001140361-26-043772-index.htm"
     }
   ]
 }
