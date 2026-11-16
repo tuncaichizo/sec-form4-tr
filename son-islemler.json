@@ -1,6 +1,19 @@
 {
-  "guncellendi": "2026-11-16T15:25:10.811Z",
+  "guncellendi": "2026-11-16T16:08:56.254Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-13",
+      "dosyalama": "2026-11-16T15:41:34Z",
+      "ticker": "WEC",
+      "sirket": "WEC ENERGY GROUP, INC.",
+      "kisi": "Lauber Scott J",
+      "unvan": "President and CEO",
+      "tur": "satim",
+      "adet": 26465,
+      "fiyat": 117.2878,
+      "toplam_usd": 3104021.58,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1646760/000164676026000008/0001646760-26-000008-index.htm"
+    },
     {
       "tarih": "2026-11-13",
       "dosyalama": "2026-11-16T14:09:47Z",
@@ -637,19 +650,6 @@
       "fiyat": 11.2073,
       "toplam_usd": 9246000,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1999001/000199900126000119/0001999001-26-000119-index.htm"
-    },
-    {
-      "tarih": "2026-11-12",
-      "dosyalama": "2026-11-13T21:37:31Z",
-      "ticker": "SJT",
-      "sirket": "SAN JUAN BASIN ROYALTY TRUST",
-      "kisi": "OLIVER ERIC L",
-      "unvan": "10% Owner",
-      "tur": "alim",
-      "adet": 455189,
-      "fiyat": 4.421,
-      "toplam_usd": 2012408.03,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2077837/000110465926127135/0001104659-26-127135-index.htm"
     }
   ]
 }
