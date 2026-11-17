@@ -1,6 +1,39 @@
 {
-  "guncellendi": "2026-11-17T15:47:39.099Z",
+  "guncellendi": "2026-11-17T17:37:06.055Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-16",
+      "dosyalama": "2026-11-17T17:30:31Z",
+      "ticker": "CVKD",
+      "sirket": "Cadrenal Therapeutics, Inc.",
+      "bildiren": "Baggett Benjamin Matthew Wall",
+      "pay_yuzde": 7.3,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1937993/000216377126000002/0002163771-26-000002-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-17T17:30:10Z",
+      "ticker": "HCIC",
+      "sirket": "Hennessy Capital Investment Corp VIII",
+      "bildiren": "Glazer Capital, LLC ve diğerleri",
+      "pay_yuzde": 5.4,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2099093/000107680926000176/0001076809-26-000176-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-17T17:26:02Z",
+      "ticker": "ONEN",
+      "sirket": "ONE Nuclear Energy Inc. (f/k/a Hennessy Capital Investment Corp. VII)",
+      "bildiren": "Glazer Capital, LLC ve diğerleri",
+      "pay_yuzde": 0,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1846416/000107680926000175/0001076809-26-000175-index.htm"
+    },
     {
       "tarih": "2026-09-30",
       "dosyalama": "2026-11-17T14:07:18Z",
@@ -583,39 +616,6 @@
       "tur": "13G",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1867102/000106299326006125/0001062993-26-006125-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T01:23:37Z",
-      "ticker": "ONMD",
-      "sirket": "OneMedNet Corporation",
-      "bildiren": "Off the Chain LP ve diğerleri",
-      "pay_yuzde": 0.5,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1849380/000110465926128694/0001104659-26-128694-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T01:19:40Z",
-      "ticker": "DAL",
-      "sirket": "DELTA AIR LINES, INC.",
-      "bildiren": "Warren E. Buffett ve diğerleri",
-      "pay_yuzde": 9.8,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/27904/000119312526464189/0001193125-26-464189-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T01:15:33Z",
-      "ticker": "BNBX",
-      "sirket": "BNB Plus Corp.",
-      "bildiren": "Off the Chain LP ve diğerleri",
-      "pay_yuzde": 9.9,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/744452/000110465926128689/0001104659-26-128689-index.htm"
     },
     {
       "tarih": "2026-11-08",
