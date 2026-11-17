@@ -1,6 +1,72 @@
 {
-  "guncellendi": "2026-11-17T08:07:43.090Z",
+  "guncellendi": "2026-11-17T15:47:39.099Z",
   "kayitlar": [
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-17T14:07:18Z",
+      "ticker": "STKH",
+      "sirket": "Steakholder Foods Ltd.",
+      "bildiren": "Armistice Capital, LLC ve diğerleri",
+      "pay_yuzde": 3.69,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1828098/000117266126005470/0001172661-26-005470-index.htm"
+    },
+    {
+      "tarih": "2026-11-16",
+      "dosyalama": "2026-11-17T12:51:00Z",
+      "ticker": "LUCK",
+      "sirket": "Lucky Strike Entertainment Corporation",
+      "bildiren": "Thomas F. Shannon",
+      "pay_yuzde": 52.3,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1840572/000110465926128837/0001104659-26-128837-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-17T12:46:25Z",
+      "ticker": "HSDT",
+      "sirket": "Solana Co",
+      "bildiren": "Solana Rocket Holdings Limited ve diğerleri",
+      "pay_yuzde": 9.99,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1610853/000110465926128836/0001104659-26-128836-index.htm"
+    },
+    {
+      "tarih": "2026-11-16",
+      "dosyalama": "2026-11-17T11:22:17Z",
+      "ticker": "BW",
+      "sirket": "Babcock & Wilcox Enterprises, Inc.",
+      "bildiren": "BRC Group Holdings, Inc ve diğerleri",
+      "pay_yuzde": 19.1,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1630805/000121390026121071/0001213900-26-121071-index.htm"
+    },
+    {
+      "tarih": "2026-11-06",
+      "dosyalama": "2026-11-17T11:06:15Z",
+      "ticker": "TDTH",
+      "sirket": "Trident Digital Tech Holdings Ltd.",
+      "bildiren": "Lim Soon Huat ve diğerleri",
+      "pay_yuzde": 15.56,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1983550/000121390026121050/0001213900-26-121050-index.htm"
+    },
+    {
+      "tarih": "2026-11-03",
+      "dosyalama": "2026-11-17T11:02:32Z",
+      "ticker": "FFTT",
+      "sirket": "Masonglory Ltd",
+      "bildiren": "Fung & Tun Limited",
+      "pay_yuzde": 25.4,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2020228/000118518526005496/0001185185-26-005496-index.htm"
+    },
     {
       "tarih": "2025-09-30",
       "dosyalama": "2026-11-17T02:56:34Z",
@@ -552,28 +618,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/744452/000110465926128689/0001104659-26-128689-index.htm"
     },
     {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T01:14:09Z",
-      "ticker": "SAFE",
-      "sirket": "Safehold Inc.",
-      "bildiren": "MSD Partners, L.P. ve diğerleri",
-      "pay_yuzde": 4.6,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1095651/000119312526464185/0001193125-26-464185-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T01:12:31Z",
-      "ticker": "HCMA",
-      "sirket": "HCM III Acquisition Corp.",
-      "bildiren": "Saba Capital Management, L.P. ve diğerleri",
-      "pay_yuzde": 10.21,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2069856/000106299326006120/0001062993-26-006120-index.htm"
-    },
-    {
       "tarih": "2026-11-08",
       "dosyalama": "2026-11-17T00:45:23Z",
       "ticker": "CKX",
@@ -1056,50 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1726173/000092189526003048/0000921895-26-003048-index.htm"
-    },
-    {
-      "tarih": "2026-11-12",
-      "dosyalama": "2026-11-13T02:53:16Z",
-      "ticker": "DDI",
-      "sirket": "DoubleDown Interactive Co., Ltd.",
-      "bildiren": "DoubleU Games Co., Ltd.",
-      "pay_yuzde": 67.05,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1799567/000119312526459013/0001193125-26-459013-index.htm"
-    },
-    {
-      "tarih": "2026-11-09",
-      "dosyalama": "2026-11-13T00:44:23Z",
-      "ticker": "COHN",
-      "sirket": "Cohen & Co Inc.",
-      "bildiren": "Brafman Lester Raymond",
-      "pay_yuzde": 9.38,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1270436/000110465926126384/0001104659-26-126384-index.htm"
-    },
-    {
-      "tarih": "2026-10-30",
-      "dosyalama": "2026-11-13T00:26:47Z",
-      "ticker": "FNKO",
-      "sirket": "Funko, Inc.",
-      "bildiren": "Fund 1 Investments, LLC",
-      "pay_yuzde": 9.4,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1704711/000092189526003046/0000921895-26-003046-index.htm"
-    },
-    {
-      "tarih": "2026-11-11",
-      "dosyalama": "2026-11-12T23:09:02Z",
-      "ticker": "HGTY",
-      "sirket": "Hagerty, Inc.",
-      "bildiren": "HAGERTY HOLDING CORP.",
-      "pay_yuzde": 51.4,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1840776/000110465926126363/0001104659-26-126363-index.htm"
     }
   ]
 }
