@@ -1,6 +1,28 @@
 {
-  "guncellendi": "2026-11-18T07:07:14.885Z",
+  "guncellendi": "2026-11-18T15:28:44.541Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-18T15:01:53Z",
+      "ticker": "RILY",
+      "sirket": "BRC Group Holdings, Inc.",
+      "bildiren": "Bryant R. Riley",
+      "pay_yuzde": 16.9,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1464790/000121390026121661/0001213900-26-121661-index.htm"
+    },
+    {
+      "tarih": "2026-11-16",
+      "dosyalama": "2026-11-18T14:28:52Z",
+      "ticker": "CISS",
+      "sirket": "C3is Inc.",
+      "bildiren": "Imperial Petroleum Inc.",
+      "pay_yuzde": 88.9,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1951067/000119312526466320/0001193125-26-466320-index.htm"
+    },
     {
       "tarih": "2026-11-13",
       "dosyalama": "2026-11-18T02:49:12Z",
@@ -1078,28 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/893847/000163658726000101/0001636587-26-000101-index.htm"
-    },
-    {
-      "tarih": "2026-11-06",
-      "dosyalama": "2026-11-16T14:20:59Z",
-      "ticker": "BANL",
-      "sirket": "CBL International Ltd",
-      "bildiren": "Teck Lim Chia",
-      "pay_yuzde": 41.5,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1914805/000149315226052084/0001493152-26-052084-index.htm"
-    },
-    {
-      "tarih": "2026-11-12",
-      "dosyalama": "2026-11-16T13:05:17Z",
-      "ticker": "SHMD",
-      "sirket": "SCHMID Group N.V.",
-      "bildiren": "Anette Schmid ve diğerleri",
-      "pay_yuzde": 38.84,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1987240/000121390026120162/0001213900-26-120162-index.htm"
     }
   ]
 }
