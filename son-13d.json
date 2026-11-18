@@ -1,6 +1,28 @@
 {
-  "guncellendi": "2026-11-18T15:28:44.541Z",
+  "guncellendi": "2026-11-18T16:25:40.123Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-10",
+      "dosyalama": "2026-11-18T16:00:02Z",
+      "ticker": "FVR",
+      "sirket": "FrontView REIT, Inc.",
+      "bildiren": "Petrus Trust Company, LTA ve diğerleri",
+      "pay_yuzde": 5.2,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1988494/000119312526466553/0001193125-26-466553-index.htm"
+    },
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-18T15:45:19Z",
+      "ticker": "VIVO",
+      "sirket": "VivoPower PLC",
+      "bildiren": "Kevin Chin",
+      "pay_yuzde": 16.6,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1681348/000149315226053024/0001493152-26-053024-index.htm"
+    },
     {
       "tarih": "2026-11-17",
       "dosyalama": "2026-11-18T15:01:53Z",
@@ -827,17 +849,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1846416/000107680926000175/0001076809-26-000175-index.htm"
     },
     {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T14:07:18Z",
-      "ticker": "STKH",
-      "sirket": "Steakholder Foods Ltd.",
-      "bildiren": "Armistice Capital, LLC ve diğerleri",
-      "pay_yuzde": 3.69,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1828098/000117266126005470/0001172661-26-005470-index.htm"
-    },
-    {
       "tarih": "2026-11-16",
       "dosyalama": "2026-11-17T12:51:00Z",
       "ticker": "LUCK",
@@ -1089,17 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1933567/000162262726000033/0001622627-26-000033-index.htm"
-    },
-    {
-      "tarih": "2026-10-30",
-      "dosyalama": "2026-11-16T14:52:57Z",
-      "ticker": "HWBK",
-      "sirket": "HAWTHORN BANCSHARES, INC.",
-      "bildiren": "Ategra Community Financial Institution Fund, LP ve diğerleri",
-      "pay_yuzde": 4.6,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/893847/000163658726000101/0001636587-26-000101-index.htm"
     }
   ]
 }
