@@ -1,6 +1,50 @@
 {
-  "guncellendi": "2026-11-19T04:09:16.845Z",
+  "guncellendi": "2026-11-19T15:33:04.600Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-19T13:45:22Z",
+      "ticker": "EVTL",
+      "sirket": "Vertical Aerospace Ltd.",
+      "bildiren": "Mudrick Capital Management, L.P. ve diğerleri",
+      "pay_yuzde": 64.2,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1867102/000110465926129953/0001104659-26-129953-index.htm"
+    },
+    {
+      "tarih": "2026-11-13",
+      "dosyalama": "2026-11-19T13:30:19Z",
+      "ticker": "BKD",
+      "sirket": "Brookdale Senior Living Inc.",
+      "bildiren": "CARRONADE CAPITAL MANAGEMENT, LP ve diğerleri",
+      "pay_yuzde": 5.8,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1332349/000090266426004629/0000902664-26-004629-index.htm"
+    },
+    {
+      "tarih": "2024-08-04",
+      "dosyalama": "2026-11-19T12:52:10Z",
+      "ticker": "MTR",
+      "sirket": "MESA ROYALTY TRUST/TX",
+      "bildiren": "A. Gile & Co. LLC",
+      "pay_yuzde": null,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/313364/000203053326000004/0002030533-26-000004-index.htm"
+    },
+    {
+      "tarih": "2026-11-11",
+      "dosyalama": "2026-11-19T12:26:53Z",
+      "ticker": "KOS",
+      "sirket": "Kosmos Energy Ltd.",
+      "bildiren": "cobas asset management, sgiic, s.a.",
+      "pay_yuzde": 5.1,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1509991/000170593126000003/0001705931-26-000003-index.htm"
+    },
     {
       "tarih": "2026-11-16",
       "dosyalama": "2026-11-19T02:58:00Z",
@@ -1036,17 +1080,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/2097986/000107680926000184/0001076809-26-000184-index.htm"
     },
     {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T20:06:24Z",
-      "ticker": "HVMC",
-      "sirket": "Highview Merger Corp",
-      "bildiren": "Glazer Capital, LLC ve diğerleri",
-      "pay_yuzde": 6.8,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2070602/000107680926000183/0001076809-26-000183-index.htm"
-    },
-    {
       "tarih": "2026-11-13",
       "dosyalama": "2026-11-17T20:01:44Z",
       "ticker": "ARAY",
@@ -1067,39 +1100,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1532619/000143774926037359/0001437749-26-037359-index.htm"
-    },
-    {
-      "tarih": "2026-11-17",
-      "dosyalama": "2026-11-17T18:57:15Z",
-      "ticker": "PW",
-      "sirket": "Power REIT",
-      "bildiren": "Bradley & Daytona Railway & Land Co. LLC ve diğerleri",
-      "pay_yuzde": 5.2,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1532619/000200513826000012/0002005138-26-000012-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-17T12:51:00Z",
-      "ticker": "LUCK",
-      "sirket": "Lucky Strike Entertainment Corporation",
-      "bildiren": "Thomas F. Shannon",
-      "pay_yuzde": 52.3,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1840572/000110465926128837/0001104659-26-128837-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-17T11:22:17Z",
-      "ticker": "BW",
-      "sirket": "Babcock & Wilcox Enterprises, Inc.",
-      "bildiren": "BRC Group Holdings, Inc ve diğerleri",
-      "pay_yuzde": 19.1,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1630805/000121390026121071/0001213900-26-121071-index.htm"
     }
   ]
 }

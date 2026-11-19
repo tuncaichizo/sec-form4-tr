@@ -1,6 +1,32 @@
 {
-  "guncellendi": "2026-11-19T04:08:10.279Z",
+  "guncellendi": "2026-11-19T15:32:00.281Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-19T14:25:41Z",
+      "ticker": "EFC",
+      "sirket": "Ellington Financial Inc.",
+      "kisi": "Vranos Michael W",
+      "unvan": "Co-Chief Investment Officer",
+      "tur": "alim",
+      "adet": 192000,
+      "fiyat": 10.8091,
+      "toplam_usd": 2075344,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1474808/000162828026074987/0001628280-26-074987-index.htm"
+    },
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-19T14:22:21Z",
+      "ticker": "AFL",
+      "sirket": "AFLAC INC",
+      "kisi": "Japan Post Holdings Co., Ltd.",
+      "unvan": "10% Owner",
+      "tur": "satim",
+      "adet": 19500,
+      "fiyat": 127.9456,
+      "toplam_usd": 2494940,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926129961/0001104659-26-129961-index.htm"
+    },
     {
       "tarih": "2026-11-16",
       "dosyalama": "2026-11-19T02:01:06Z",
@@ -624,32 +650,6 @@
       "fiyat": 180.4,
       "toplam_usd": 1039464.8,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/2112445/000197323926000144/0001973239-26-000144-index.htm"
-    },
-    {
-      "tarih": "2026-11-17",
-      "dosyalama": "2026-11-18T21:50:02Z",
-      "ticker": "LOAR",
-      "sirket": "Loar Holdings Inc.",
-      "kisi": "Abrams David C",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 2661613,
-      "fiyat": 68.6994,
-      "toplam_usd": 182851202.6,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2000178/000119312526467230/0001193125-26-467230-index.htm"
-    },
-    {
-      "tarih": "2026-11-17",
-      "dosyalama": "2026-11-18T21:47:11Z",
-      "ticker": "LOAR",
-      "sirket": "Loar Holdings Inc.",
-      "kisi": "Bomberg Alison",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 2661613,
-      "fiyat": 68.6994,
-      "toplam_usd": 182851202.6,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2021288/000119312526467225/0001193125-26-467225-index.htm"
     }
   ]
 }
