@@ -1,6 +1,83 @@
 {
-  "guncellendi": "2026-11-20T15:12:07.460Z",
+  "guncellendi": "2026-11-20T18:45:37.936Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-20T18:27:51Z",
+      "ticker": "MIST",
+      "sirket": "Milestone Pharmaceuticals Inc.",
+      "bildiren": "Propel Bio Management, LLC ve diğerleri",
+      "pay_yuzde": 10.1,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1408443/000196976426000002/0001969764-26-000002-index.htm"
+    },
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-20T18:25:50Z",
+      "ticker": "NEXN",
+      "sirket": "Nexxen International Ltd.",
+      "bildiren": "Mithaq Capital SPC ve diğerleri",
+      "pay_yuzde": 26.6,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1849396/000183460026000043/0001834600-26-000043-index.htm"
+    },
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-20T18:05:03Z",
+      "ticker": "TWI",
+      "sirket": "TITAN INTERNATIONAL INC",
+      "bildiren": "ConsilEng s.r.o.",
+      "pay_yuzde": 5.1,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/899751/000216478426000001/0002164784-26-000001-index.htm"
+    },
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-20T17:44:06Z",
+      "ticker": "RAYA",
+      "sirket": "Erayak Power Solution Group Inc.",
+      "bildiren": "Anderson Zachary Arlen",
+      "pay_yuzde": 0,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1825875/000216562726000002/0002165627-26-000002-index.htm"
+    },
+    {
+      "tarih": "2026-11-13",
+      "dosyalama": "2026-11-20T17:41:15Z",
+      "ticker": "NIPG",
+      "sirket": "NIP Group Inc.",
+      "bildiren": "Noveau Jumpstar Limited ve diğerleri",
+      "pay_yuzde": 15.2,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1966233/000149315226053398/0001493152-26-053398-index.htm"
+    },
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-20T17:22:49Z",
+      "ticker": "SSTI",
+      "sirket": "SoundThinking, Inc.",
+      "bildiren": "Transom Capital Public Fund, LP ve diğerleri",
+      "pay_yuzde": 0,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1351636/000114036126045045/0001140361-26-045045-index.htm"
+    },
+    {
+      "tarih": "2026-11-13",
+      "dosyalama": "2026-11-20T16:57:13Z",
+      "ticker": "VRSA",
+      "sirket": "Versa Bancorp",
+      "bildiren": "GBH Inc. ve diğerleri",
+      "pay_yuzde": 29.9,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2100848/000110465926130508/0001104659-26-130508-index.htm"
+    },
     {
       "tarih": "2026-11-18",
       "dosyalama": "2026-11-20T14:30:37Z",
@@ -838,17 +915,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1370755/000106299326006164/0001062993-26-006164-index.htm"
     },
     {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-18T00:52:47Z",
-      "ticker": "PMNT",
-      "sirket": "Perfect Moment Ltd.",
-      "bildiren": "X3 Higher Moment Fund LLC",
-      "pay_yuzde": 9.9,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1849221/000110465926129222/0001104659-26-129222-index.htm"
-    },
-    {
       "tarih": "2026-11-17",
       "dosyalama": "2026-11-18T00:44:06Z",
       "ticker": "TOMZ",
@@ -860,28 +926,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/314227/000184192626000002/0001841926-26-000002-index.htm"
     },
     {
-      "tarih": "2026-11-13",
-      "dosyalama": "2026-11-18T00:28:33Z",
-      "ticker": "DVLT",
-      "sirket": "Datavault AI Inc.",
-      "bildiren": "Nathaniel Bradley ve diğerleri",
-      "pay_yuzde": 2.9,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926129216/0001104659-26-129216-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-18T00:23:48Z",
-      "ticker": "BRK-B",
-      "sirket": "Berkshire Hathaway Inc.",
-      "bildiren": "Warren E. Buffett",
-      "pay_yuzde": 38.4,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526465884/0001193125-26-465884-index.htm"
-    },
-    {
       "tarih": "2026-11-12",
       "dosyalama": "2026-11-17T23:52:25Z",
       "ticker": "RAYA",
@@ -891,17 +935,6 @@
       "tur": "13G",
       "degisiklik": false,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1825875/000216562726000001/0002165627-26-000001-index.htm"
-    },
-    {
-      "tarih": "2026-11-15",
-      "dosyalama": "2026-11-17T23:19:36Z",
-      "ticker": "DMRC",
-      "sirket": "Digimarc Corporation",
-      "bildiren": "Ocho Investments LLC ve diğerleri",
-      "pay_yuzde": 18.1,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2119322/000119312526465817/0001193125-26-465817-index.htm"
     },
     {
       "tarih": "2026-11-09",
@@ -1067,39 +1100,6 @@
       "tur": "13G",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/2018145/000107680926000202/0001076809-26-000202-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T20:30:44Z",
-      "ticker": "PLCI",
-      "sirket": "Pelican Acquisition II Corp",
-      "bildiren": "Glazer Capital, LLC ve diğerleri",
-      "pay_yuzde": 6.4,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2122392/000107680926000201/0001076809-26-000201-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T20:30:35Z",
-      "ticker": "PACH",
-      "sirket": "Pioneer Acquisition I Corp",
-      "bildiren": "Glazer Capital, LLC ve diğerleri",
-      "pay_yuzde": 6.8,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2040381/000107680926000200/0001076809-26-000200-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T20:27:58Z",
-      "ticker": "MCGA",
-      "sirket": "Yorkville Acquisition Corp",
-      "bildiren": "Glazer Capital, LLC ve diğerleri",
-      "pay_yuzde": 5.8,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2064658/000107680926000198/0001076809-26-000198-index.htm"
     }
   ]
 }

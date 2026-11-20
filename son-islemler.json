@@ -1,6 +1,19 @@
 {
-  "guncellendi": "2026-11-20T15:11:34.074Z",
+  "guncellendi": "2026-11-20T18:45:20.454Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-20T15:16:17Z",
+      "ticker": "CLH",
+      "sirket": "CLEAN HARBORS INC",
+      "kisi": "Weber Brian P",
+      "unvan": "EVP (CHESI)",
+      "tur": "satim",
+      "adet": 3685,
+      "fiyat": 284.78,
+      "toplam_usd": 1049414.3,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1322710/000132271026000008/0001322710-26-000008-index.htm"
+    },
     {
       "tarih": "2026-11-18",
       "dosyalama": "2026-11-20T13:11:08Z",
@@ -637,19 +650,6 @@
       "fiyat": 20.35,
       "toplam_usd": 1017500,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1904142/000110465926129857/0001104659-26-129857-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-19T00:42:07Z",
-      "ticker": "STZ",
-      "sirket": "CONSTELLATION BRANDS, INC.",
-      "kisi": "WildStar Partners LLC",
-      "unvan": "10% Owner",
-      "tur": "satim",
-      "adet": 450000,
-      "fiyat": 145,
-      "toplam_usd": 65250000,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1690697/000119312526467447/0001193125-26-467447-index.htm"
     }
   ]
 }
