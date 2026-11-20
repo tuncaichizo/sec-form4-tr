@@ -1,6 +1,32 @@
 {
-  "guncellendi": "2026-11-20T10:27:31.005Z",
+  "guncellendi": "2026-11-20T15:11:34.074Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-20T13:11:08Z",
+      "ticker": "AFL",
+      "sirket": "AFLAC INC",
+      "kisi": "Japan Post Holdings Co., Ltd.",
+      "unvan": "10% Owner",
+      "tur": "satim",
+      "adet": 15000,
+      "fiyat": 125.6156,
+      "toplam_usd": 1884234,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926130427/0001104659-26-130427-index.htm"
+    },
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-20T11:24:20Z",
+      "ticker": "BEKE",
+      "sirket": "KE Holdings Inc.",
+      "kisi": "Xu Wangang",
+      "unvan": "Executive Director",
+      "tur": "satim",
+      "adet": 750000,
+      "fiyat": 6.1289,
+      "toplam_usd": 4596675,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2110619/000119312526469246/0001193125-26-469246-index.htm"
+    },
     {
       "tarih": "2026-11-17",
       "dosyalama": "2026-11-20T01:13:18Z",
@@ -624,32 +650,6 @@
       "fiyat": 145,
       "toplam_usd": 65250000,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1690697/000119312526467447/0001193125-26-467447-index.htm"
-    },
-    {
-      "tarih": "2026-11-18",
-      "dosyalama": "2026-11-19T00:32:38Z",
-      "ticker": "ANRO",
-      "sirket": "Alto Neuroscience, Inc.",
-      "kisi": "Hanley Jr. Michael Conick",
-      "unvan": "CHIEF OPERATING OFFICER",
-      "tur": "satim",
-      "adet": 75000,
-      "fiyat": 27.6052,
-      "toplam_usd": 2070389.07,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1999480/000179141326000002/0001791413-26-000002-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-19T00:31:19Z",
-      "ticker": "REPL",
-      "sirket": "Replimune Group, Inc.",
-      "kisi": "Patel Sushil",
-      "unvan": "Chief Executive Officer",
-      "tur": "satim",
-      "adet": 49026,
-      "fiyat": 21.6,
-      "toplam_usd": 1058961.6,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1860609/000110465926129853/0001104659-26-129853-index.htm"
     }
   ]
 }
