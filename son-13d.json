@@ -1,6 +1,17 @@
 {
-  "guncellendi": "2026-11-20T02:34:48.176Z",
+  "guncellendi": "2026-11-20T10:27:34.523Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-12",
+      "dosyalama": "2026-11-20T02:50:13Z",
+      "ticker": "REPX",
+      "sirket": "RILEY EXPLORATION PERMIAN, INC.",
+      "bildiren": "The Estate of Alvin Libin ve diğerleri",
+      "pay_yuzde": 10.11,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1001614/000121390026122366/0001213900-26-122366-index.htm"
+    },
     {
       "tarih": "2026-11-17",
       "dosyalama": "2026-11-20T00:45:23Z",
@@ -913,17 +924,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1114483/000114036126044507/0001140361-26-044507-index.htm"
-    },
-    {
-      "tarih": "2026-11-13",
-      "dosyalama": "2026-11-17T21:30:06Z",
-      "ticker": "FF",
-      "sirket": "FutureFuel Corp.",
-      "bildiren": "222 Capital, U/I dated March 25, 2003 ve diğerleri",
-      "pay_yuzde": 9.7,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1337298/000149315226052855/0001493152-26-052855-index.htm"
     },
     {
       "tarih": "2026-11-10",
