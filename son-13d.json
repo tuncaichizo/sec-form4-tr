@@ -1,6 +1,116 @@
 {
-  "guncellendi": "2026-11-19T21:29:24.331Z",
+  "guncellendi": "2026-11-20T02:34:48.176Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-20T00:45:23Z",
+      "ticker": "HSDT",
+      "sirket": "Solana Co",
+      "bildiren": "Daniel W. Morehead ve diğerleri",
+      "pay_yuzde": 9.54,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1610853/000121390026122339/0001213900-26-122339-index.htm"
+    },
+    {
+      "tarih": "2026-11-12",
+      "dosyalama": "2026-11-19T23:49:56Z",
+      "ticker": "ALXO",
+      "sirket": "ALX Oncology Holdings Inc.",
+      "bildiren": "Coastlands Capital LP ve diğerleri",
+      "pay_yuzde": 5.34,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1810182/000110465926130295/0001104659-26-130295-index.htm"
+    },
+    {
+      "tarih": "2026-11-11",
+      "dosyalama": "2026-11-19T23:08:30Z",
+      "ticker": "SMHI",
+      "sirket": "SEACOR Marine Holdings Inc.",
+      "bildiren": "Chernett Jorey",
+      "pay_yuzde": 1.43,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1690334/000092189526003225/0000921895-26-003225-index.htm"
+    },
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-19T22:33:09Z",
+      "ticker": "SKYA",
+      "sirket": "SkyAI, Inc.",
+      "bildiren": "Bastion Trading Limited ve diğerleri",
+      "pay_yuzde": 0,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1737995/000092189526003224/0000921895-26-003224-index.htm"
+    },
+    {
+      "tarih": "2026-11-12",
+      "dosyalama": "2026-11-19T22:20:00Z",
+      "ticker": "IREN",
+      "sirket": "IREN Limited",
+      "bildiren": "Citadel Securities GP LLC ve diğerleri",
+      "pay_yuzde": 5.9,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1878848/000110465926130230/0001104659-26-130230-index.htm"
+    },
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-19T22:15:47Z",
+      "ticker": "SDEV",
+      "sirket": "Stablecoin Development Corp",
+      "bildiren": "R01 Fund LP ve diğerleri",
+      "pay_yuzde": 30.7,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1389545/000143774926037761/0001437749-26-037761-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-19T21:38:11Z",
+      "ticker": "BIAF",
+      "sirket": "bioAffinity Technologies, Inc.",
+      "bildiren": "HRT FINANCIAL LP",
+      "pay_yuzde": 10.9,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1712762/000147559726000255/0001475597-26-000255-index.htm"
+    },
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-19T21:36:38Z",
+      "ticker": "SDEV",
+      "sirket": "Stablecoin Development Corp",
+      "bildiren": "Framework Ventures IV L.P. ve diğerleri",
+      "pay_yuzde": 30.7,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1389545/000143774926037739/0001437749-26-037739-index.htm"
+    },
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-19T21:30:45Z",
+      "ticker": "DLO",
+      "sirket": "dLocal Ltd",
+      "bildiren": "GENERAL ATLANTIC, L.P. ve diğerleri",
+      "pay_yuzde": 13.4,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1846832/000095014226003131/0000950142-26-003131-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-19T21:29:28Z",
+      "ticker": "JMIA",
+      "sirket": "Jumia Technologies AG",
+      "bildiren": "Sustainable Capital Ltd",
+      "pay_yuzde": 7.15,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1756708/000092963826004381/0000929638-26-004381-index.htm"
+    },
     {
       "tarih": "2026-10-30",
       "dosyalama": "2026-11-19T21:12:19Z",
@@ -849,61 +959,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1829802/000149315226052839/0001493152-26-052839-index.htm"
     },
     {
-      "tarih": "2026-11-13",
-      "dosyalama": "2026-11-17T21:10:20Z",
-      "ticker": "PEPG",
-      "sirket": "PEPGEN INC.",
-      "bildiren": "RA Capital Management, L.P. ve diğerleri",
-      "pay_yuzde": 30.5,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1835597/000134682426000301/0001346824-26-000301-index.htm"
-    },
-    {
-      "tarih": "2026-11-02",
-      "dosyalama": "2026-11-17T21:05:25Z",
-      "ticker": "BRCB",
-      "sirket": "Black Rock Coffee Bar, Inc.",
-      "bildiren": "Demi I. Winters",
-      "pay_yuzde": 0,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2068577/000149315226052824/0001493152-26-052824-index.htm"
-    },
-    {
-      "tarih": "2026-10-23",
-      "dosyalama": "2026-11-17T21:00:15Z",
-      "ticker": "KMRK",
-      "sirket": "K-TECH SOLUTIONS CO LTD",
-      "bildiren": "Kwok Yiu Fai",
-      "pay_yuzde": 88.42,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2049187/000121390026121385/0001213900-26-121385-index.htm"
-    },
-    {
-      "tarih": "2026-10-23",
-      "dosyalama": "2026-11-17T21:00:15Z",
-      "ticker": "KMRK",
-      "sirket": "K-TECH SOLUTIONS CO LTD",
-      "bildiren": "Kwok Yiu Keung",
-      "pay_yuzde": 88.42,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2049187/000121390026121384/0001213900-26-121384-index.htm"
-    },
-    {
-      "tarih": "2026-10-23",
-      "dosyalama": "2026-11-17T21:00:15Z",
-      "ticker": "KMRK",
-      "sirket": "K-TECH SOLUTIONS CO LTD",
-      "bildiren": "Kwok Yiu Wah",
-      "pay_yuzde": 88.42,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2049187/000121390026121382/0001213900-26-121382-index.htm"
-    },
-    {
       "tarih": "2026-09-30",
       "dosyalama": "2026-11-17T20:42:51Z",
       "ticker": "NPAC",
@@ -1045,61 +1100,6 @@
       "tur": "13G",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/2079013/000107680926000197/0001076809-26-000197-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T20:27:46Z",
-      "ticker": "GPAC",
-      "sirket": "General Purpose Acquisition Corp",
-      "bildiren": "Glazer Capital, LLC ve diğerleri",
-      "pay_yuzde": 7.6,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2085408/000107680926000196/0001076809-26-000196-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T20:27:40Z",
-      "ticker": "BID",
-      "sirket": "Tribeca Strategic Acquisition Corp",
-      "bildiren": "Glazer Capital, LLC ve diğerleri",
-      "pay_yuzde": 5.1,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2094919/000107680926000195/0001076809-26-000195-index.htm"
-    },
-    {
-      "tarih": "2026-10-22",
-      "dosyalama": "2026-11-17T20:16:40Z",
-      "ticker": "IMCC",
-      "sirket": "IM Cannabis Corp.",
-      "bildiren": "Pipitone Edmund Demeo",
-      "pay_yuzde": 10,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1792030/000216551226000001/0002165512-26-000001-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-17T20:08:43Z",
-      "ticker": "AACI",
-      "sirket": "Armada Acquisition Corp III",
-      "bildiren": "Glazer Capital, LLC ve diğerleri",
-      "pay_yuzde": 5,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2092897/000107680926000193/0001076809-26-000193-index.htm"
-    },
-    {
-      "tarih": "2026-11-13",
-      "dosyalama": "2026-11-17T20:01:44Z",
-      "ticker": "ARAY",
-      "sirket": "ACCURAY INC",
-      "bildiren": "The TCW Group, Inc., on behalf of the TCW Business Unit",
-      "pay_yuzde": 34,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1138723/000110465926128970/0001104659-26-128970-index.htm"
     }
   ]
 }
