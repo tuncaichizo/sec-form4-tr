@@ -1,6 +1,83 @@
 {
-  "guncellendi": "2026-11-21T00:23:23.865Z",
+  "guncellendi": "2026-11-21T07:29:27.313Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-21T02:53:40Z",
+      "ticker": "MRLN",
+      "sirket": "Merlin, Inc.",
+      "bildiren": "George Matthew Spencer",
+      "pay_yuzde": 14.5,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2028707/000211760426000001/0002117604-26-000001-index.htm"
+    },
+    {
+      "tarih": "2026-10-30",
+      "dosyalama": "2026-11-21T02:44:38Z",
+      "ticker": "NAMI",
+      "sirket": "Jinxin Technology Holding Co",
+      "bildiren": "Namibox Technology Limited ve diğerleri",
+      "pay_yuzde": 26.5,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1967631/000121390026122856/0001213900-26-122856-index.htm"
+    },
+    {
+      "tarih": "2026-11-13",
+      "dosyalama": "2026-11-21T02:41:15Z",
+      "ticker": "YARW",
+      "sirket": "Yarrow Bioscience, Inc.",
+      "bildiren": "AI Biotechnology LLC ve diğerleri",
+      "pay_yuzde": 1.16,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1566044/000119312526470747/0001193125-26-470747-index.htm"
+    },
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-21T02:21:29Z",
+      "ticker": "GUER",
+      "sirket": "Guerrilla RF, Inc.",
+      "bildiren": "NR-PRL Partners, LP ve diğerleri",
+      "pay_yuzde": 48.2,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1832487/000143774926037944/0001437749-26-037944-index.htm"
+    },
+    {
+      "tarih": "2026-11-15",
+      "dosyalama": "2026-11-21T01:31:44Z",
+      "ticker": "QCLS",
+      "sirket": "Q/C TECHNOLOGIES, INC.",
+      "bildiren": "PharmaCyte Biotech, Inc.",
+      "pay_yuzde": 49.99,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1321834/000168316826009020/0001683168-26-009020-index.htm"
+    },
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-21T01:06:36Z",
+      "ticker": "DIN",
+      "sirket": "Dine Brands Global, Inc.",
+      "bildiren": "Cobblers Cove Capital LP ve diğerleri",
+      "pay_yuzde": 1.1,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/49754/000110465926130728/0001104659-26-130728-index.htm"
+    },
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-21T01:00:03Z",
+      "ticker": "CHRN",
+      "sirket": "ChronoScale Holdings Corp",
+      "bildiren": "Applied Digital Corporation",
+      "pay_yuzde": 85.6,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1549084/000149315226053589/0001493152-26-053589-index.htm"
+    },
     {
       "tarih": "2026-11-13",
       "dosyalama": "2026-11-21T00:07:45Z",
@@ -861,17 +938,6 @@
     },
     {
       "tarih": "2026-11-16",
-      "dosyalama": "2026-11-18T22:54:21Z",
-      "ticker": "SNTI",
-      "sirket": "Senti Biosciences Holdings, Inc.",
-      "bildiren": "New Enterprise Associates 15, L.P. ve diğerleri",
-      "pay_yuzde": 9.7,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1854270/000107261326000911/0001072613-26-000911-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
       "dosyalama": "2026-11-18T22:44:08Z",
       "ticker": "ARCT",
       "sirket": "Arcturus Therapeutics Holdings Inc.",
@@ -883,28 +949,6 @@
     },
     {
       "tarih": "2026-11-16",
-      "dosyalama": "2026-11-18T22:42:45Z",
-      "ticker": "IMXI",
-      "sirket": "International Money Express Inc.",
-      "bildiren": "Magnetar Financial LLC ve diğerleri",
-      "pay_yuzde": 4.73,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1683695/000110465926129822/0001104659-26-129822-index.htm"
-    },
-    {
-      "tarih": "2026-11-11",
-      "dosyalama": "2026-11-18T22:23:00Z",
-      "ticker": "TRIP",
-      "sirket": "TripAdvisor, Inc.",
-      "bildiren": "Pale Fire Capital SICAV a.s. ve diğerleri",
-      "pay_yuzde": 7.4,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1526520/000092189526003216/0000921895-26-003216-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
       "dosyalama": "2026-11-18T22:22:50Z",
       "ticker": "XBIT",
       "sirket": "XBIOTECH INC.",
@@ -913,50 +957,6 @@
       "tur": "13G",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1626878/000117184326007567/0001171843-26-007567-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-18T22:18:35Z",
-      "ticker": "UEIC",
-      "sirket": "UNIVERSAL ELECTRONICS INC",
-      "bildiren": "TORO 18 HOLDINGS LLC ve diğerleri",
-      "pay_yuzde": 6.9,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/101984/000092189526003215/0000921895-26-003215-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-18T21:49:59Z",
-      "ticker": "SNTI",
-      "sirket": "Senti Biosciences Holdings, Inc.",
-      "bildiren": "Bayer HealthCare LLC ve diğerleri",
-      "pay_yuzde": 6.9,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1854270/000110465926129785/0001104659-26-129785-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-18T21:47:53Z",
-      "ticker": "SGP",
-      "sirket": "SpyGlass Pharma, Inc.",
-      "bildiren": "Vensana Capital I GP, LLC ve diğerleri",
-      "pay_yuzde": 8.9,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1778922/000119312526467227/0001193125-26-467227-index.htm"
-    },
-    {
-      "tarih": "2026-11-17",
-      "dosyalama": "2026-11-18T21:42:05Z",
-      "ticker": "RYOJ",
-      "sirket": "RYOJBABA CO., LTD.",
-      "bildiren": "Ryoji Baba ve diğerleri",
-      "pay_yuzde": 75.01,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2012600/000149315226053082/0001493152-26-053082-index.htm"
     },
     {
       "tarih": "2026-11-16",

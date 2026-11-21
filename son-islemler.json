@@ -1,6 +1,45 @@
 {
-  "guncellendi": "2026-11-21T00:20:36.818Z",
+  "guncellendi": "2026-11-21T07:29:05.651Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-21T00:24:10Z",
+      "ticker": "LIFE",
+      "sirket": "Ethos Technologies Inc.",
+      "kisi": "Wang Lingke",
+      "unvan": "President",
+      "tur": "satim",
+      "adet": 118333,
+      "fiyat": 32.189,
+      "toplam_usd": 3809025.01,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2089263/000208926326000022/0002089263-26-000022-index.htm"
+    },
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-21T00:23:54Z",
+      "ticker": "GKOS",
+      "sirket": "GLAUKOS Corp",
+      "kisi": "Burns Thomas William",
+      "unvan": "CHAIRMAN & CEO",
+      "tur": "satim",
+      "adet": 180000,
+      "fiyat": 236.8889,
+      "toplam_usd": 42639999.89,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1644557/000119312526470661/0001193125-26-470661-index.htm"
+    },
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-21T00:21:14Z",
+      "ticker": "LIFE",
+      "sirket": "Ethos Technologies Inc.",
+      "kisi": "Colis Peter George",
+      "unvan": "CEO and Secretary",
+      "tur": "satim",
+      "adet": 90715,
+      "fiyat": 32.2018,
+      "toplam_usd": 2921182.22,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2089362/000208936226000025/0002089362-26-000025-index.htm"
+    },
     {
       "tarih": "2026-11-18",
       "dosyalama": "2026-11-21T00:09:03Z",
@@ -611,45 +650,6 @@
       "fiyat": 565.0878,
       "toplam_usd": 4690228.79,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1231589/000123158926000024/0001231589-26-000024-index.htm"
-    },
-    {
-      "tarih": "2026-11-17",
-      "dosyalama": "2026-11-19T23:36:18Z",
-      "ticker": "KNTK",
-      "sirket": "Kinetik Holdings Inc.",
-      "kisi": "ISQ Global Fund II GP LLC",
-      "unvan": "10% Owner",
-      "tur": "satim",
-      "adet": 32099,
-      "fiyat": 55.3396,
-      "toplam_usd": 1776345.82,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2020905/000090514826005064/0000905148-26-005064-index.htm"
-    },
-    {
-      "tarih": "2026-11-17",
-      "dosyalama": "2026-11-19T23:35:28Z",
-      "ticker": "TEM",
-      "sirket": "Tempus AI, Inc.",
-      "kisi": "LEFKOFSKY ERIC P",
-      "unvan": "CEO and Chairman",
-      "tur": "satim",
-      "adet": 17074,
-      "fiyat": 63.0157,
-      "toplam_usd": 1075929.5,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1717115/000111435726000046/0001114357-26-000046-index.htm"
-    },
-    {
-      "tarih": "2026-11-17",
-      "dosyalama": "2026-11-19T23:05:06Z",
-      "ticker": "CRAI",
-      "sirket": "CRA INTERNATIONAL, INC.",
-      "kisi": "Maleh Paul A",
-      "unvan": "PRESIDENT AND CEO",
-      "tur": "satim",
-      "adet": 7500,
-      "fiyat": 205.9028,
-      "toplam_usd": 1544271.27,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1379160/000137916026000052/0001379160-26-000052-index.htm"
     }
   ]
 }
