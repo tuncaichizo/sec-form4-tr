@@ -1,5 +1,5 @@
 {
-  "guncellendi": "2026-11-21T07:29:05.651Z",
+  "guncellendi": "2026-11-21T14:27:59.593Z",
   "kayitlar": [
     {
       "tarih": "2026-11-19",
@@ -509,6 +509,32 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1666120/000166612026000039/0001666120-26-000039-index.htm"
     },
     {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-20T21:01:30Z",
+      "ticker": "GLXY",
+      "sirket": "Galaxy Digital Inc.",
+      "kisi": "Novogratz Michael",
+      "unvan": "Chief Executive Officer",
+      "tur": "alim",
+      "adet": 415000,
+      "fiyat": 11.7337,
+      "toplam_usd": 4869468.47,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1859392/000138061526000016/0001380615-26-000016-index.htm"
+    },
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-20T19:44:08Z",
+      "ticker": "MED",
+      "sirket": "MEDIFAST INC",
+      "kisi": "Kiai Parsa",
+      "unvan": "Director",
+      "tur": "alim",
+      "adet": 94036,
+      "fiyat": 12.0573,
+      "toplam_usd": 1133816.27,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1766850/000121390026122629/0001213900-26-122629-index.htm"
+    },
+    {
       "tarih": "2026-11-18",
       "dosyalama": "2026-11-20T15:16:17Z",
       "ticker": "CLH",
@@ -624,32 +650,6 @@
       "fiyat": 37.8554,
       "toplam_usd": 4217540.78,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1585724/000146452126000175/0001464521-26-000175-index.htm"
-    },
-    {
-      "tarih": "2026-11-18",
-      "dosyalama": "2026-11-19T23:45:57Z",
-      "ticker": "VIK",
-      "sirket": "Viking Holdings Ltd",
-      "kisi": "Dash Jeffrey",
-      "unvan": "EVP, Business Development",
-      "tur": "satim",
-      "adet": 75000,
-      "fiyat": 98.8046,
-      "toplam_usd": 7410348,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1745201/000119312526468905/0001193125-26-468905-index.htm"
-    },
-    {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-19T23:41:59Z",
-      "ticker": "UTHR",
-      "sirket": "UNITED THERAPEUTICS Corp",
-      "kisi": "MAHON PAUL A",
-      "unvan": "EVP & GENERAL COUNSEL",
-      "tur": "satim",
-      "adet": 8300,
-      "fiyat": 565.0878,
-      "toplam_usd": 4690228.79,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1231589/000123158926000024/0001231589-26-000024-index.htm"
     }
   ]
 }
