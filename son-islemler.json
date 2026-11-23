@@ -1,6 +1,71 @@
 {
-  "guncellendi": "2026-11-23T11:04:07.627Z",
+  "guncellendi": "2026-11-23T17:48:12.032Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-23T16:50:48Z",
+      "ticker": "BG",
+      "sirket": "Bunge Global SA",
+      "kisi": "Mahoney Christopher",
+      "unvan": "Director",
+      "tur": "alim",
+      "adet": 12500,
+      "fiyat": 92.932,
+      "toplam_usd": 1161650,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2074676/000162828026075421/0001628280-26-075421-index.htm"
+    },
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-23T14:14:34Z",
+      "ticker": "BORR",
+      "sirket": "Borr Drilling Ltd",
+      "kisi": "Troim Tor Olav",
+      "unvan": "Director",
+      "tur": "alim",
+      "adet": 9000000,
+      "fiyat": 3.3835,
+      "toplam_usd": 30451500,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026075382/0001628280-26-075382-index.htm"
+    },
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-23T13:00:10Z",
+      "ticker": "AFL",
+      "sirket": "AFLAC INC",
+      "kisi": "Japan Post Holdings Co., Ltd.",
+      "unvan": "10% Owner",
+      "tur": "satim",
+      "adet": 15600,
+      "fiyat": 124.7355,
+      "toplam_usd": 1945873.72,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926130860/0001104659-26-130860-index.htm"
+    },
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-23T12:05:05Z",
+      "ticker": "HOS",
+      "sirket": "HORNBECK OFFSHORE SERVICES, INC.",
+      "kisi": "HORNBECK TODD M",
+      "unvan": "PRESIDENT & CEO",
+      "tur": "alim",
+      "adet": 202300,
+      "fiyat": 5.024,
+      "toplam_usd": 1016355.2,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1284591/000128459126000004/0001284591-26-000004-index.htm"
+    },
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-23T11:11:59Z",
+      "ticker": "TRON",
+      "sirket": "Tron Inc.",
+      "kisi": "SUN Weike",
+      "unvan": "Director",
+      "tur": "satim",
+      "adet": 69741000,
+      "fiyat": 1.65,
+      "toplam_usd": 115072650,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2075159/000149315226053616/0001493152-26-053616-index.htm"
+    },
     {
       "tarih": "2026-11-19",
       "dosyalama": "2026-11-21T00:24:10Z",
@@ -585,71 +650,6 @@
       "fiyat": 13.105,
       "toplam_usd": 1310500,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/2119324/000162828026075160/0001628280-26-075160-index.htm"
-    },
-    {
-      "tarih": "2026-11-18",
-      "dosyalama": "2026-11-20T01:07:14Z",
-      "ticker": "SCHW",
-      "sirket": "SCHWAB CHARLES CORP",
-      "kisi": "Schwab Charles R.",
-      "unvan": "Co-Chairman",
-      "tur": "satim",
-      "adet": 71400,
-      "fiyat": 92.2554,
-      "toplam_usd": 6587035.56,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/923738/000092373826000054/0000923738-26-000054-index.htm"
-    },
-    {
-      "tarih": "2026-11-17",
-      "dosyalama": "2026-11-20T00:43:00Z",
-      "ticker": "META",
-      "sirket": "Meta Platforms, Inc.",
-      "kisi": "LI SUSAN J",
-      "unvan": "Chief Financial Officer",
-      "tur": "satim",
-      "adet": 9196,
-      "fiyat": 622.0529,
-      "toplam_usd": 5720398.28,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1739092/000095010326017904/0000950103-26-017904-index.htm"
-    },
-    {
-      "tarih": "2026-11-17",
-      "dosyalama": "2026-11-20T00:39:35Z",
-      "ticker": "META",
-      "sirket": "Meta Platforms, Inc.",
-      "kisi": "Bosworth Andrew",
-      "unvan": "Chief Technology Officer",
-      "tur": "satim",
-      "adet": 7847,
-      "fiyat": 625,
-      "toplam_usd": 4904375,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1917373/000095010326017900/0000950103-26-017900-index.htm"
-    },
-    {
-      "tarih": "2026-11-18",
-      "dosyalama": "2026-11-20T00:31:53Z",
-      "ticker": "ENPH",
-      "sirket": "Enphase Energy, Inc.",
-      "kisi": "Rodgers Thurman J",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 1000000,
-      "fiyat": 23.1548,
-      "toplam_usd": 23154807.74,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1463101/000118396726000006/0001183967-26-000006-index.htm"
-    },
-    {
-      "tarih": "2026-11-17",
-      "dosyalama": "2026-11-19T23:54:12Z",
-      "ticker": "HTFL",
-      "sirket": "Heartflow, Inc.",
-      "kisi": "Rogers Campbell",
-      "unvan": "Chief Medical Officer",
-      "tur": "satim",
-      "adet": 111412,
-      "fiyat": 37.8554,
-      "toplam_usd": 4217540.78,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1585724/000146452126000175/0001464521-26-000175-index.htm"
     }
   ]
 }
