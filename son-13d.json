@@ -1,6 +1,127 @@
 {
-  "guncellendi": "2026-11-23T17:49:06.172Z",
+  "guncellendi": "2026-11-23T22:39:06.259Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-16",
+      "dosyalama": "2026-11-23T21:34:55Z",
+      "ticker": "WWB",
+      "sirket": "Windward Bio Group AG",
+      "bildiren": "Novo Holdings A/S",
+      "pay_yuzde": 11.4,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2145089/000138832526000055/0001388325-26-000055-index.htm"
+    },
+    {
+      "tarih": "2026-11-16",
+      "dosyalama": "2026-11-23T21:23:28Z",
+      "ticker": "WWB",
+      "sirket": "Windward Bio Group AG",
+      "bildiren": "RA Capital Management, L.P. ve diğerleri",
+      "pay_yuzde": 8.1,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2145089/000134682426000303/0001346824-26-000303-index.htm"
+    },
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-23T21:15:27Z",
+      "ticker": "IMDX",
+      "sirket": "Insight Molecular Diagnostics Inc.",
+      "bildiren": "Patrick W. Smith ve diğerleri",
+      "pay_yuzde": 10.7,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1642380/000149315226053762/0001493152-26-053762-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-23T21:09:15Z",
+      "ticker": "BRRK",
+      "sirket": "Bluerock Acquisition Corp. II",
+      "bildiren": "TD SECURITIES (USA) LLC ve diğerleri",
+      "pay_yuzde": 0,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2098410/000080301226000066/0000803012-26-000066-index.htm"
+    },
+    {
+      "tarih": "2026-11-16",
+      "dosyalama": "2026-11-23T21:05:26Z",
+      "ticker": "SPCB",
+      "sirket": "SuperCom Ltd",
+      "bildiren": "Joshua C. Adam ve diğerleri",
+      "pay_yuzde": 6,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1291855/000116169726000263/0001161697-26-000263-index.htm"
+    },
+    {
+      "tarih": "2026-11-16",
+      "dosyalama": "2026-11-23T21:02:45Z",
+      "ticker": "MP",
+      "sirket": "MP Materials Corp.",
+      "bildiren": "D. E. Shaw & Co., L.P. ve diğerleri",
+      "pay_yuzde": 5,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1801368/000110465926131054/0001104659-26-131054-index.htm"
+    },
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-23T19:05:54Z",
+      "ticker": "SSTI",
+      "sirket": "SOUNDTHINKING, INC.",
+      "bildiren": "Veradace Capital Management LLC ve diğerleri",
+      "pay_yuzde": 0,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1351636/000177235126000014/0001772351-26-000014-index.htm"
+    },
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-23T17:52:53Z",
+      "ticker": "XGN",
+      "sirket": "EXAGEN INC",
+      "bildiren": "Laurence W. Lytton",
+      "pay_yuzde": 5.3,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1274737/000093583626000656/0000935836-26-000656-index.htm"
+    },
+    {
+      "tarih": "2026-11-01",
+      "dosyalama": "2026-11-23T17:51:14Z",
+      "ticker": "KLNG",
+      "sirket": "Koil Energy Solutions, Inc.",
+      "bildiren": "Laurence W. Lytton",
+      "pay_yuzde": 5,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1110607/000093583626000654/0000935836-26-000654-index.htm"
+    },
+    {
+      "tarih": "2026-11-16",
+      "dosyalama": "2026-11-23T17:49:24Z",
+      "ticker": "RNTX",
+      "sirket": "REIN THERAPEUTICS, INC.",
+      "bildiren": "Laurence W. Lytton",
+      "pay_yuzde": 5.4,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1420565/000093583626000652/0000935836-26-000652-index.htm"
+    },
+    {
+      "tarih": "2026-10-08",
+      "dosyalama": "2026-11-23T17:48:48Z",
+      "ticker": "YMAT",
+      "sirket": "J-Star Holding Co., Ltd.",
+      "bildiren": "CLEARTHINK CAPITAL PARTNERS, LLC",
+      "pay_yuzde": 9.99,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1875016/000121390026123061/0001213900-26-123061-index.htm"
+    },
     {
       "tarih": "2026-11-18",
       "dosyalama": "2026-11-23T17:47:39Z",
@@ -959,17 +1080,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1085913/000118473026000001/0001184730-26-000001-index.htm"
     },
     {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-19T01:06:37Z",
-      "ticker": "GRND",
-      "sirket": "Grindr Inc.",
-      "bildiren": "Tiga Investments Eighty-Eight Pte Ltd ve diğerleri",
-      "pay_yuzde": 52.6,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1820144/000114036126044780/0001140361-26-044780-index.htm"
-    },
-    {
       "tarih": "2026-11-17",
       "dosyalama": "2026-11-19T00:46:02Z",
       "ticker": "TPET",
@@ -990,116 +1100,6 @@
       "tur": "13G",
       "degisiklik": false,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/700841/000143774926037606/0001437749-26-037606-index.htm"
-    },
-    {
-      "tarih": "2026-06-30",
-      "dosyalama": "2026-11-19T00:07:52Z",
-      "ticker": "ODD",
-      "sirket": "ODDITY Tech Ltd.",
-      "bildiren": "MSD Partners, L.P. ve diğerleri",
-      "pay_yuzde": 5.15,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1907085/000119312526467407/0001193125-26-467407-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-18T22:44:08Z",
-      "ticker": "ARCT",
-      "sirket": "Arcturus Therapeutics Holdings Inc.",
-      "bildiren": "Meiji Seika Pharma Co., Ltd.",
-      "pay_yuzde": 7.88,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1768224/000119312526467309/0001193125-26-467309-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-18T22:22:50Z",
-      "ticker": "XBIT",
-      "sirket": "XBIOTECH INC.",
-      "bildiren": "W. Thorpe McKenzie",
-      "pay_yuzde": 8.4,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1626878/000117184326007567/0001171843-26-007567-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-18T21:32:47Z",
-      "ticker": "AZUL",
-      "sirket": "AZUL SA",
-      "bildiren": "BlackBarn Capital Partners LP ve diğerleri",
-      "pay_yuzde": 10.1,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1432364/000201020426000010/0002010204-26-000010-index.htm"
-    },
-    {
-      "tarih": "2026-11-12",
-      "dosyalama": "2026-11-18T21:32:15Z",
-      "ticker": "OPTT",
-      "sirket": "Ocean Power Technologies, Inc.",
-      "bildiren": "Mitchell P. Kopin ve diğerleri",
-      "pay_yuzde": 4.99,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1378140/000121390026121842/0001213900-26-121842-index.htm"
-    },
-    {
-      "tarih": "2026-11-12",
-      "dosyalama": "2026-11-18T21:04:33Z",
-      "ticker": "IREN",
-      "sirket": "IREN Ltd",
-      "bildiren": "JANE STREET GROUP, LLC ve diğerleri",
-      "pay_yuzde": 6.5,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1878848/000159588826000170/0001595888-26-000170-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-18T19:09:11Z",
-      "ticker": "BRNX",
-      "sirket": "BRENX LTD.",
-      "bildiren": "HRT FINANCIAL LP",
-      "pay_yuzde": 5.1,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1901215/000147559726000252/0001475597-26-000252-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-18T18:58:54Z",
-      "ticker": "OLOX",
-      "sirket": "OLENOX INDUSTRIES INC.",
-      "bildiren": "HRT FINANCIAL LP",
-      "pay_yuzde": 6.6,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1023994/000147559726000251/0001475597-26-000251-index.htm"
-    },
-    {
-      "tarih": "2026-06-30",
-      "dosyalama": "2026-11-18T18:48:37Z",
-      "ticker": "CODI",
-      "sirket": "Compass Diversified Holdings",
-      "bildiren": "HRT FINANCIAL LP",
-      "pay_yuzde": 6.5,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1345126/000147559726000250/0001475597-26-000250-index.htm"
-    },
-    {
-      "tarih": "2026-11-10",
-      "dosyalama": "2026-11-18T16:00:02Z",
-      "ticker": "FVR",
-      "sirket": "FrontView REIT, Inc.",
-      "bildiren": "Petrus Trust Company, LTA ve diğerleri",
-      "pay_yuzde": 5.2,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1988494/000119312526466553/0001193125-26-466553-index.htm"
     }
   ]
 }
