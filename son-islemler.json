@@ -1,6 +1,32 @@
 {
-  "guncellendi": "2026-11-24T17:20:49.838Z",
+  "guncellendi": "2026-11-24T18:07:41.393Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-24T17:38:40Z",
+      "ticker": "EBAY",
+      "sirket": "EBAY INC",
+      "kisi": "Rawashdeh Mazen",
+      "unvan": "SVP, Chief Technology Officer",
+      "tur": "satim",
+      "adet": 40710,
+      "fiyat": 117.8205,
+      "toplam_usd": 4796471.27,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1754322/000106508826000235/0001065088-26-000235-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-24T17:32:21Z",
+      "ticker": "EBAY",
+      "sirket": "EBAY INC",
+      "kisi": "Sweetnam Jordan Douglas Bradley",
+      "unvan": "SVP, Chief Commercial Officer",
+      "tur": "satim",
+      "adet": 71924,
+      "fiyat": 117.9162,
+      "toplam_usd": 8481005.72,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2067199/000106508826000233/0001065088-26-000233-index.htm"
+    },
     {
       "tarih": "2026-11-23",
       "dosyalama": "2026-11-24T13:30:03Z",
@@ -624,32 +650,6 @@
       "fiyat": 3.3835,
       "toplam_usd": 30451500,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026075382/0001628280-26-075382-index.htm"
-    },
-    {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-23T13:00:10Z",
-      "ticker": "AFL",
-      "sirket": "AFLAC INC",
-      "kisi": "Japan Post Holdings Co., Ltd.",
-      "unvan": "10% Owner",
-      "tur": "satim",
-      "adet": 15600,
-      "fiyat": 124.7355,
-      "toplam_usd": 1945873.72,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926130860/0001104659-26-130860-index.htm"
-    },
-    {
-      "tarih": "2026-11-20",
-      "dosyalama": "2026-11-23T12:05:05Z",
-      "ticker": "HOS",
-      "sirket": "HORNBECK OFFSHORE SERVICES, INC.",
-      "kisi": "HORNBECK TODD M",
-      "unvan": "PRESIDENT & CEO",
-      "tur": "alim",
-      "adet": 202300,
-      "fiyat": 5.024,
-      "toplam_usd": 1016355.2,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1284591/000128459126000004/0001284591-26-000004-index.htm"
     }
   ]
 }

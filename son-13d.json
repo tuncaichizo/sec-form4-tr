@@ -1,6 +1,17 @@
 {
-  "guncellendi": "2026-11-24T17:21:39.733Z",
+  "guncellendi": "2026-11-24T18:07:45.726Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-24T17:50:41Z",
+      "ticker": "NCEL",
+      "sirket": "NewcelX Ltd",
+      "bildiren": "League Jinn Sarl ve diğerleri",
+      "pay_yuzde": 23.2,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1783036/000121390026123516/0001213900-26-123516-index.htm"
+    },
     {
       "tarih": "2026-11-20",
       "dosyalama": "2026-11-24T16:30:02Z",
@@ -946,17 +957,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/2042694/000149315226053510/0001493152-26-053510-index.htm"
-    },
-    {
-      "tarih": "2026-11-18",
-      "dosyalama": "2026-11-20T21:30:02Z",
-      "ticker": "ENVX",
-      "sirket": "ENOVIX CORPORATION",
-      "bildiren": "Thurman J. Rodgers ve diğerleri",
-      "pay_yuzde": 12.7,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1828318/000119312526470345/0001193125-26-470345-index.htm"
     },
     {
       "tarih": "2026-11-16",
