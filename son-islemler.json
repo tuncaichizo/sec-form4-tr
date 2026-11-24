@@ -1,6 +1,45 @@
 {
-  "guncellendi": "2026-11-24T06:23:53.603Z",
+  "guncellendi": "2026-11-24T17:20:49.838Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-24T13:30:03Z",
+      "ticker": "ELMT",
+      "sirket": "Elmet Group Co.",
+      "kisi": "Knoll Scott W.",
+      "unvan": "Executive Vice President",
+      "tur": "satim",
+      "adet": 58537,
+      "fiyat": 18.7989,
+      "toplam_usd": 1100433.78,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2129435/000121390026123398/0001213900-26-123398-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-24T12:04:30Z",
+      "ticker": "VANI",
+      "sirket": "Vivani Medical, Inc.",
+      "kisi": "Williams Gregg",
+      "unvan": "Director",
+      "tur": "alim",
+      "adet": 5208902,
+      "fiyat": 1.0166,
+      "toplam_usd": 5295330.93,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1624919/000175392626002241/0001753926-26-002241-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-24T12:01:13Z",
+      "ticker": "SLDE",
+      "sirket": "Slide Insurance Holdings, Inc.",
+      "kisi": "Lucas Bruce",
+      "unvan": "Chief Executive Officer",
+      "tur": "satim",
+      "adet": 6580000,
+      "fiyat": 24.35,
+      "toplam_usd": 160223000,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1886428/000119312526473141/0001193125-26-473141-index.htm"
+    },
     {
       "tarih": "2026-11-19",
       "dosyalama": "2026-11-24T02:51:29Z",
@@ -341,6 +380,19 @@
     },
     {
       "tarih": "2026-11-19",
+      "dosyalama": "2026-11-23T21:55:39Z",
+      "ticker": "ARM",
+      "sirket": "ARM HOLDINGS PLC /UK",
+      "kisi": "Child Jason",
+      "unvan": "Chief Financial Officer",
+      "tur": "satim",
+      "adet": 10400,
+      "fiyat": 189.73,
+      "toplam_usd": 1973192,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1973239/000197323926000157/0001973239-26-000157-index.htm"
+    },
+    {
+      "tarih": "2026-11-19",
       "dosyalama": "2026-11-23T21:54:36Z",
       "ticker": "BPRE",
       "sirket": "Bluerock Private Real Estate Fund",
@@ -351,6 +403,19 @@
       "fiyat": 11.8851,
       "toplam_usd": 1214657.22,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1551047/000139834426020522/0001398344-26-020522-index.htm"
+    },
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-23T21:54:28Z",
+      "ticker": "NVDA",
+      "sirket": "NVIDIA CORP",
+      "kisi": "Teter Timothy S.",
+      "unvan": "EVP, General Counsel and Sec",
+      "tur": "satim",
+      "adet": 30000,
+      "fiyat": 151.426,
+      "toplam_usd": 4542781.49,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1045810/000169684126000016/0001696841-26-000016-index.htm"
     },
     {
       "tarih": "2026-11-20",
@@ -431,6 +496,19 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1579299/000157929926000030/0001579299-26-000030-index.htm"
     },
     {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-23T21:15:33Z",
+      "ticker": "FOCL",
+      "sirket": "EDAP TMS SA",
+      "kisi": "Levy Guy",
+      "unvan": "10% Owner",
+      "tur": "satim",
+      "adet": 3900000,
+      "fiyat": 3.1,
+      "toplam_usd": 12090000,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1041934/000121390026123184/0001213900-26-123184-index.htm"
+    },
+    {
       "tarih": "2026-11-20",
       "dosyalama": "2026-11-23T21:14:39Z",
       "ticker": "ACGL",
@@ -483,6 +561,45 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/938543/000095014226003141/0000950142-26-003141-index.htm"
     },
     {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-23T18:31:36Z",
+      "ticker": "PAM",
+      "sirket": "Pampa Energy Inc.",
+      "kisi": "Mariani Gustavo",
+      "unvan": "Vicepresident",
+      "tur": "alim",
+      "adet": 32743,
+      "fiyat": 62.2871,
+      "toplam_usd": 2039467.73,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2028917/000202891726000006/0002028917-26-000006-index.htm"
+    },
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-23T18:18:23Z",
+      "ticker": "PAM",
+      "sirket": "Pampa Energy Inc.",
+      "kisi": "Mindlin Damian Miguel",
+      "unvan": "Vicepresident",
+      "tur": "alim",
+      "adet": 32464,
+      "fiyat": 62.2887,
+      "toplam_usd": 2022139.04,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2028916/000202891626000017/0002028916-26-000017-index.htm"
+    },
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-23T18:05:42Z",
+      "ticker": "PAM",
+      "sirket": "Pampa Energy Inc.",
+      "kisi": "Mindlin Marcos Marcelo",
+      "unvan": "Director",
+      "tur": "alim",
+      "adet": 117952,
+      "fiyat": 62.0315,
+      "toplam_usd": 7316744.15,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2022936/000202293626000020/0002022936-26-000020-index.htm"
+    },
+    {
       "tarih": "2026-11-20",
       "dosyalama": "2026-11-23T16:50:48Z",
       "ticker": "BG",
@@ -533,123 +650,6 @@
       "fiyat": 5.024,
       "toplam_usd": 1016355.2,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1284591/000128459126000004/0001284591-26-000004-index.htm"
-    },
-    {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-23T11:11:59Z",
-      "ticker": "TRON",
-      "sirket": "Tron Inc.",
-      "kisi": "SUN Weike",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 69741000,
-      "fiyat": 1.65,
-      "toplam_usd": 115072650,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2075159/000149315226053616/0001493152-26-053616-index.htm"
-    },
-    {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-21T00:24:10Z",
-      "ticker": "LIFE",
-      "sirket": "Ethos Technologies Inc.",
-      "kisi": "Wang Lingke",
-      "unvan": "President",
-      "tur": "satim",
-      "adet": 118333,
-      "fiyat": 32.189,
-      "toplam_usd": 3809025.01,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2089263/000208926326000022/0002089263-26-000022-index.htm"
-    },
-    {
-      "tarih": "2026-11-18",
-      "dosyalama": "2026-11-21T00:23:54Z",
-      "ticker": "GKOS",
-      "sirket": "GLAUKOS Corp",
-      "kisi": "Burns Thomas William",
-      "unvan": "CHAIRMAN & CEO",
-      "tur": "satim",
-      "adet": 180000,
-      "fiyat": 236.8889,
-      "toplam_usd": 42639999.89,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1644557/000119312526470661/0001193125-26-470661-index.htm"
-    },
-    {
-      "tarih": "2026-11-20",
-      "dosyalama": "2026-11-21T00:21:14Z",
-      "ticker": "LIFE",
-      "sirket": "Ethos Technologies Inc.",
-      "kisi": "Colis Peter George",
-      "unvan": "CEO and Secretary",
-      "tur": "satim",
-      "adet": 90715,
-      "fiyat": 32.2018,
-      "toplam_usd": 2921182.22,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2089362/000208936226000025/0002089362-26-000025-index.htm"
-    },
-    {
-      "tarih": "2026-11-18",
-      "dosyalama": "2026-11-21T00:09:03Z",
-      "ticker": "ANET",
-      "sirket": "Arista Networks, Inc.",
-      "kisi": "BECHTOLSHEIM ANDREAS",
-      "unvan": "10% Owner",
-      "tur": "satim",
-      "adet": 300000,
-      "fiyat": 187.035,
-      "toplam_usd": 56110513.37,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000269/0001596532-26-000269-index.htm"
-    },
-    {
-      "tarih": "2026-11-18",
-      "dosyalama": "2026-11-21T00:03:46Z",
-      "ticker": "SNOW",
-      "sirket": "Snowflake Inc.",
-      "kisi": "Dageville Benoit",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 50000,
-      "fiyat": 276.89,
-      "toplam_usd": 13844500,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1821737/000182173726000019/0001821737-26-000019-index.htm"
-    },
-    {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-21T00:03:21Z",
-      "ticker": "SNOW",
-      "sirket": "Snowflake Inc.",
-      "kisi": "Slootman Frank",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 300000,
-      "fiyat": 281.2179,
-      "toplam_usd": 84365360.07,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1640147/000140234826000021/0001402348-26-000021-index.htm"
-    },
-    {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-21T00:00:05Z",
-      "ticker": "PUBM",
-      "sirket": "PubMatic, Inc.",
-      "kisi": "Goel Rajeev K.",
-      "unvan": "CHIEF EXECUTIVE OFFICER",
-      "tur": "satim",
-      "adet": 50020,
-      "fiyat": 20.5679,
-      "toplam_usd": 1028806.54,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1833511/000183351126000043/0001833511-26-000043-index.htm"
-    },
-    {
-      "tarih": "2026-11-18",
-      "dosyalama": "2026-11-20T23:59:45Z",
-      "ticker": "CBRS",
-      "sirket": "Cerebras Systems Inc.",
-      "kisi": "Mallick Dhiraj",
-      "unvan": "Chief Operating Officer",
-      "tur": "satim",
-      "adet": 18201,
-      "fiyat": 97.3088,
-      "toplam_usd": 1771116.68,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2039572/000162828026075345/0001628280-26-075345-index.htm"
     }
   ]
 }
