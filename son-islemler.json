@@ -1,6 +1,19 @@
 {
-  "guncellendi": "2026-11-25T02:24:41.160Z",
+  "guncellendi": "2026-11-25T11:35:57.968Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-25T02:42:45Z",
+      "ticker": "AJG",
+      "sirket": "Arthur J. Gallagher & Co.",
+      "kisi": "HOWELL DOUGLAS K",
+      "unvan": "VP & Chief Financial Officer",
+      "tur": "satim",
+      "adet": 10000,
+      "fiyat": 283.1848,
+      "toplam_usd": 2831848.19,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1222374/000035419026000229/0000354190-26-000229-index.htm"
+    },
     {
       "tarih": "2026-11-20",
       "dosyalama": "2026-11-25T01:43:01Z",
@@ -637,19 +650,6 @@
       "fiyat": 81.3372,
       "toplam_usd": 5851641.55,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1717324/000171732426000017/0001717324-26-000017-index.htm"
-    },
-    {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-24T00:40:37Z",
-      "ticker": "SAFTX",
-      "sirket": "Sound Point Alternative Income Fund",
-      "kisi": "ASSURED GUARANTY LTD",
-      "unvan": "10% Owner",
-      "tur": "alim",
-      "adet": 245098.039,
-      "fiyat": 20.4,
-      "toplam_usd": 5000000,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2028174/000162828026075581/0001628280-26-075581-index.htm"
     }
   ]
 }

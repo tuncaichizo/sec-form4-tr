@@ -1,6 +1,28 @@
 {
-  "guncellendi": "2026-11-25T02:27:20.005Z",
+  "guncellendi": "2026-11-25T11:36:23.060Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-25T11:12:06Z",
+      "ticker": "RMIX",
+      "sirket": "Suncrete, Inc.",
+      "bildiren": "David Rees-Jones ve diğerleri",
+      "pay_yuzde": 5.3,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2094433/000119312526476713/0001193125-26-476713-index.htm"
+    },
+    {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-25T11:09:33Z",
+      "ticker": "ZTO",
+      "sirket": "ZTO Express (Cayman) Inc.",
+      "bildiren": "Alibaba Group Holding Limited ve diğerleri",
+      "pay_yuzde": 2.9,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1677250/000110465926131769/0001104659-26-131769-index.htm"
+    },
     {
       "tarih": "2026-11-23",
       "dosyalama": "2026-11-25T01:11:17Z",
@@ -838,17 +860,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1291855/000116169726000263/0001161697-26-000263-index.htm"
     },
     {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-23T21:05:15Z",
-      "ticker": "BIPH",
-      "sirket": "BROOKFIELD INFRASTRUCTURE PARTNERS L.P.",
-      "bildiren": "BROOKFIELD CORPORATION ve diğerleri",
-      "pay_yuzde": 100,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1406234/000110465926131059/0001104659-26-131059-index.htm"
-    },
-    {
       "tarih": "2026-11-16",
       "dosyalama": "2026-11-23T21:02:45Z",
       "ticker": "MP",
@@ -858,17 +869,6 @@
       "tur": "13G",
       "degisiklik": false,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1801368/000110465926131054/0001104659-26-131054-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-23T21:02:44Z",
-      "ticker": "WWB",
-      "sirket": "WINDWARD BIO GROUP AG",
-      "bildiren": "SR One Capital Management, LLC ve diğerleri",
-      "pay_yuzde": 8.2,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2145089/000107261326000927/0001072613-26-000927-index.htm"
     },
     {
       "tarih": "2026-11-19",
