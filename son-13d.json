@@ -1,6 +1,72 @@
 {
-  "guncellendi": "2026-11-25T17:01:48.204Z",
+  "guncellendi": "2026-11-25T20:38:56.075Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-25T19:11:44Z",
+      "ticker": "HKPD",
+      "sirket": "Cellyan Biotechnology Co., Ltd",
+      "bildiren": "ADA KAYA",
+      "pay_yuzde": 8.4,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2007702/000216710526000003/0002167105-26-000003-index.htm"
+    },
+    {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-25T18:49:10Z",
+      "ticker": "NWGL",
+      "sirket": "CL Workshop Group Ltd",
+      "bildiren": "ADA KAYA",
+      "pay_yuzde": 8.6,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1948294/000216710526000002/0002167105-26-000002-index.htm"
+    },
+    {
+      "tarih": "2026-11-25",
+      "dosyalama": "2026-11-25T18:27:08Z",
+      "ticker": "WRD",
+      "sirket": "WeRide Inc.",
+      "bildiren": "He Zhengxu",
+      "pay_yuzde": 5.4,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1867729/000133707426000007/0001337074-26-000007-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-25T18:19:02Z",
+      "ticker": "HKPD",
+      "sirket": "Cellyan Biotechnology Co., Ltd",
+      "bildiren": "ADA KAYA",
+      "pay_yuzde": 21.7,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2007702/000216710526000001/0002167105-26-000001-index.htm"
+    },
+    {
+      "tarih": "2026-11-18",
+      "dosyalama": "2026-11-25T18:12:18Z",
+      "ticker": "YARW",
+      "sirket": "Yarrow Bioscience, Inc.",
+      "bildiren": "Logos Global Management LP ve diğerleri",
+      "pay_yuzde": 9.5,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1566044/000093583626000662/0000935836-26-000662-index.htm"
+    },
+    {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-25T17:15:14Z",
+      "ticker": "GRNT",
+      "sirket": "Granite Ridge Resources, Inc.",
+      "bildiren": "GREP GP III, LLC ve diğerleri",
+      "pay_yuzde": 30.3,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1928446/000110465926131997/0001104659-26-131997-index.htm"
+    },
     {
       "tarih": "2026-11-17",
       "dosyalama": "2026-11-25T16:13:51Z",
@@ -882,17 +948,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1642380/000149315226053762/0001493152-26-053762-index.htm"
     },
     {
-      "tarih": "2026-11-20",
-      "dosyalama": "2026-11-23T21:13:39Z",
-      "ticker": "BORR",
-      "sirket": "Borr Drilling Limited",
-      "bildiren": "Drew Holdings Ltd. ve diğerleri",
-      "pay_yuzde": 15.9,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1715497/000119312526472360/0001193125-26-472360-index.htm"
-    },
-    {
       "tarih": "2026-09-30",
       "dosyalama": "2026-11-23T21:09:15Z",
       "ticker": "BRRK",
@@ -1045,61 +1100,6 @@
       "tur": "13G",
       "degisiklik": false,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1048477/000090514826005116/0000905148-26-005116-index.htm"
-    },
-    {
-      "tarih": "2026-11-13",
-      "dosyalama": "2026-11-20T22:29:40Z",
-      "ticker": "ITGR",
-      "sirket": "Integer Holdings Corp",
-      "bildiren": "Glazer Capital, LLC ve diğerleri",
-      "pay_yuzde": 5.5,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1114483/000107680926000212/0001076809-26-000212-index.htm"
-    },
-    {
-      "tarih": "2026-11-13",
-      "dosyalama": "2026-11-20T22:22:25Z",
-      "ticker": "OKUR",
-      "sirket": "OnKure Therapeutics, Inc.",
-      "bildiren": "Venrock Healthcare Capital Partners III, L.P. ve diğerleri",
-      "pay_yuzde": 5.7,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1637715/000123191926001621/0001231919-26-001621-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-20T22:18:51Z",
-      "ticker": "ELA",
-      "sirket": "Envela Corp",
-      "bildiren": "Mink Brook Partners LP ve diğerleri",
-      "pay_yuzde": 5.4,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/701719/000143774926037931/0001437749-26-037931-index.htm"
-    },
-    {
-      "tarih": "2026-11-13",
-      "dosyalama": "2026-11-20T22:06:12Z",
-      "ticker": "DV",
-      "sirket": "DoubleVerify Holdings Inc",
-      "bildiren": "Glazer Capital, LLC ve diğerleri",
-      "pay_yuzde": 5.2,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1819928/000107680926000211/0001076809-26-000211-index.htm"
-    },
-    {
-      "tarih": "2026-11-13",
-      "dosyalama": "2026-11-20T22:03:46Z",
-      "ticker": "EQPT",
-      "sirket": "EquipmentShare.com Inc",
-      "bildiren": "Lead Edge Capital Management, LLC ve diğerleri",
-      "pay_yuzde": 6.1,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1693736/000119312526470465/0001193125-26-470465-index.htm"
     }
   ]
 }

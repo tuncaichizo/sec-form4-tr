@@ -1,6 +1,58 @@
 {
-  "guncellendi": "2026-11-25T17:00:01.463Z",
+  "guncellendi": "2026-11-25T20:38:37.986Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-25T18:43:37Z",
+      "ticker": "WWD",
+      "sirket": "Woodward, Inc.",
+      "kisi": "Lacey William F.",
+      "unvan": "EVP and CFO",
+      "tur": "satim",
+      "adet": 3509,
+      "fiyat": 350,
+      "toplam_usd": 1228150,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1857038/000119312526477738/0001193125-26-477738-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-25T18:13:48Z",
+      "ticker": "LH",
+      "sirket": "LABCORP HOLDINGS INC.",
+      "kisi": "Schechter Adam H",
+      "unvan": "President & CEO",
+      "tur": "satim",
+      "adet": 6810,
+      "fiyat": 368.04,
+      "toplam_usd": 2506352.4,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1376841/000092014826000232/0000920148-26-000232-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-25T18:12:20Z",
+      "ticker": "LH",
+      "sirket": "LABCORP HOLDINGS INC.",
+      "kisi": "Summy Amy B.",
+      "unvan": "EVP, Chief Marketing Officer",
+      "tur": "satim",
+      "adet": 4221,
+      "fiyat": 373.407,
+      "toplam_usd": 1576150.95,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1805303/000092014826000231/0000920148-26-000231-index.htm"
+    },
+    {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-25T17:00:49Z",
+      "ticker": "EBAY",
+      "sirket": "EBAY INC",
+      "kisi": "IANNONE JAMIE",
+      "unvan": "President and CEO",
+      "tur": "satim",
+      "adet": 35728,
+      "fiyat": 115.8007,
+      "toplam_usd": 4137326.06,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1495849/000106508826000237/0001065088-26-000237-index.htm"
+    },
     {
       "tarih": "2026-11-24",
       "dosyalama": "2026-11-25T16:01:07Z",
@@ -598,58 +650,6 @@
       "fiyat": 157.2525,
       "toplam_usd": 3028839.52,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1792789/000184970926000024/0001849709-26-000024-index.htm"
-    },
-    {
-      "tarih": "2026-11-20",
-      "dosyalama": "2026-11-24T21:20:30Z",
-      "ticker": "DASH",
-      "sirket": "DoorDash, Inc.",
-      "kisi": "Adarkar Prabir",
-      "unvan": "PRESIDENT AND COO",
-      "tur": "satim",
-      "adet": 16913,
-      "fiyat": 157.2522,
-      "toplam_usd": 2659605.95,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1832612/000183261226000022/0001832612-26-000022-index.htm"
-    },
-    {
-      "tarih": "2026-11-24",
-      "dosyalama": "2026-11-24T21:17:43Z",
-      "ticker": "NET",
-      "sirket": "Cloudflare, Inc.",
-      "kisi": "Ledbetter Carl",
-      "unvan": "Director",
-      "tur": "satim",
-      "adet": 5000,
-      "fiyat": 287.2173,
-      "toplam_usd": 1436086.63,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1477333/000136657426000028/0001366574-26-000028-index.htm"
-    },
-    {
-      "tarih": "2026-11-23",
-      "dosyalama": "2026-11-24T21:15:16Z",
-      "ticker": "PLMR",
-      "sirket": "Palomar Holdings, Inc.",
-      "kisi": "Knutzen Jonathan",
-      "unvan": "Chief Risk Officer",
-      "tur": "satim",
-      "adet": 15000,
-      "fiyat": 164.6848,
-      "toplam_usd": 2470271.5,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1808325/000121465926014716/0001214659-26-014716-index.htm"
-    },
-    {
-      "tarih": "2026-11-23",
-      "dosyalama": "2026-11-24T21:10:17Z",
-      "ticker": "MNR",
-      "sirket": "MACH NATURAL RESOURCES LP",
-      "kisi": "WARD TOM L.",
-      "unvan": "See Remarks",
-      "tur": "alim",
-      "adet": 247000,
-      "fiyat": 7.9792,
-      "toplam_usd": 1970866.12,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1980088/000121390026123676/0001213900-26-123676-index.htm"
     }
   ]
 }
