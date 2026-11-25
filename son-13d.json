@@ -1,6 +1,105 @@
 {
-  "guncellendi": "2026-11-25T11:36:23.060Z",
+  "guncellendi": "2026-11-25T17:01:48.204Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-17",
+      "dosyalama": "2026-11-25T16:13:51Z",
+      "ticker": "CLRO",
+      "sirket": "CLEARONE INC",
+      "bildiren": "Getz Linda Mary",
+      "pay_yuzde": 8.8,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/840715/000216609626000002/0002166096-26-000002-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-25T16:02:01Z",
+      "ticker": "GOLD",
+      "sirket": "Gold.com, Inc.",
+      "bildiren": "Tether Global Investments Fund, S.I.C.A.F., S.A. ve diğerleri",
+      "pay_yuzde": 13.8,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1591588/000110465926131977/0001104659-26-131977-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-25T15:58:57Z",
+      "ticker": "EMPD",
+      "sirket": "Empery Digital Inc.",
+      "bildiren": "ATG Capital Opportunities Fund LP ve diğerleri",
+      "pay_yuzde": 17.1,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1829794/000092189526003258/0000921895-26-003258-index.htm"
+    },
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-25T15:57:45Z",
+      "ticker": "CAMT",
+      "sirket": "CAMTEK LTD",
+      "bildiren": "Priortech Ltd. ve diğerleri",
+      "pay_yuzde": 21.02,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1109138/000117891326005355/0001178913-26-005355-index.htm"
+    },
+    {
+      "tarih": "2026-10-31",
+      "dosyalama": "2026-11-25T15:42:45Z",
+      "ticker": "SPPP",
+      "sirket": "SPROTT PHYSICAL PLATINUM & PALLADIUM TRUST",
+      "bildiren": "Kopernik Global Investors, LLC ve diğerleri",
+      "pay_yuzde": 10.5,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1539190/000093041326003579/0000930413-26-003579-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-25T15:26:51Z",
+      "ticker": "BBGI",
+      "sirket": "BEASLEY BROADCAST GROUP INC",
+      "bildiren": "Kingdom Capital Advisors LLC ve diğerleri",
+      "pay_yuzde": 8.2,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1099160/000213944826000002/0002139448-26-000002-index.htm"
+    },
+    {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-25T15:06:26Z",
+      "ticker": "BGLC",
+      "sirket": "BioNexus Gene Lab Corp",
+      "bildiren": "Ruanyun Edai Technology Inc. ve diğerleri",
+      "pay_yuzde": 16.03,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1737523/000152013826000526/0001520138-26-000526-index.htm"
+    },
+    {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-25T14:46:09Z",
+      "ticker": "MTEK",
+      "sirket": "Maris Tech Ltd.",
+      "bildiren": "Leviticus Partners LP",
+      "pay_yuzde": 7.4,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1872964/000101943226000017/0001019432-26-000017-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-25T13:20:27Z",
+      "ticker": "VIVO",
+      "sirket": "VivoPower PLC",
+      "bildiren": "Kevin Chin",
+      "pay_yuzde": 17.4,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1681348/000149315226054125/0001493152-26-054125-index.htm"
+    },
     {
       "tarih": "2026-11-17",
       "dosyalama": "2026-11-25T11:12:06Z",
@@ -794,17 +893,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1715497/000119312526472360/0001193125-26-472360-index.htm"
     },
     {
-      "tarih": "2026-06-30",
-      "dosyalama": "2026-11-23T21:10:34Z",
-      "ticker": "HODO",
-      "sirket": "House of Doge Inc.",
-      "bildiren": "Wall Douglas Scott ve diğerleri",
-      "pay_yuzde": 16.6,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1903595/000214135926000002/0002141359-26-000002-index.htm"
-    },
-    {
       "tarih": "2026-09-30",
       "dosyalama": "2026-11-23T21:09:15Z",
       "ticker": "BRRK",
@@ -814,39 +902,6 @@
       "tur": "13G",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/2098410/000080301226000066/0000803012-26-000066-index.htm"
-    },
-    {
-      "tarih": "2026-11-09",
-      "dosyalama": "2026-11-23T21:06:23Z",
-      "ticker": "VREOF",
-      "sirket": "Vireo Growth Inc.",
-      "bildiren": "Chicago Atlantic Advisers, LLC ve diğerleri",
-      "pay_yuzde": 15.3,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1771706/000121390026123176/0001213900-26-123176-index.htm"
-    },
-    {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-23T21:05:40Z",
-      "ticker": "BIP",
-      "sirket": "Brookfield Infrastructure Partners Inc.",
-      "bildiren": "BROOKFIELD CORPORATION ve diğerleri",
-      "pay_yuzde": 26.4,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2155396/000110465926131062/0001104659-26-131062-index.htm"
-    },
-    {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-23T21:05:28Z",
-      "ticker": "BIPC",
-      "sirket": "BROOKFIELD INFRASTRUCTURE CORPORATION",
-      "bildiren": "BROOKFIELD CORPORATION ve diğerleri",
-      "pay_yuzde": 100,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1788348/000110465926131061/0001104659-26-131061-index.htm"
     },
     {
       "tarih": "2026-11-16",
@@ -1045,61 +1100,6 @@
       "tur": "13G",
       "degisiklik": false,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1693736/000119312526470465/0001193125-26-470465-index.htm"
-    },
-    {
-      "tarih": "2026-09-30",
-      "dosyalama": "2026-11-20T22:00:23Z",
-      "ticker": "HTOO",
-      "sirket": "Fusion Fuel Green PLC",
-      "bildiren": "Anthony Milewski",
-      "pay_yuzde": 6.43,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1819794/000149315226053533/0001493152-26-053533-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-20T21:49:17Z",
-      "ticker": "SRZN",
-      "sirket": "Surrozen, Inc.",
-      "bildiren": "AI Biotechnology LLC ve diğerleri",
-      "pay_yuzde": 9.9,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1824893/000119312526470421/0001193125-26-470421-index.htm"
-    },
-    {
-      "tarih": "2026-11-18",
-      "dosyalama": "2026-11-20T21:45:58Z",
-      "ticker": "SSTI",
-      "sirket": "SOUNDTHINKING, INC.",
-      "bildiren": "Kopion Asset Management, LLC ve diğerleri",
-      "pay_yuzde": 0,
-      "tur": "13G",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1351636/000172868926000009/0001728689-26-000009-index.htm"
-    },
-    {
-      "tarih": "2026-02-20",
-      "dosyalama": "2026-11-20T21:45:14Z",
-      "ticker": "HTOO",
-      "sirket": "Fusion Fuel Green PLC",
-      "bildiren": "Anthony Milewski",
-      "pay_yuzde": 5.4,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1819794/000149315226053524/0001493152-26-053524-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-20T21:05:03Z",
-      "ticker": "OKYO",
-      "sirket": "OKYO Pharma Ltd",
-      "bildiren": "Opaleye Management Inc. ve diğerleri",
-      "pay_yuzde": 9.53,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1849296/000149315226053482/0001493152-26-053482-index.htm"
     }
   ]
 }
