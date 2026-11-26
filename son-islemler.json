@@ -1,5 +1,5 @@
 {
-  "guncellendi": "2026-11-26T03:08:08.336Z",
+  "guncellendi": "2026-11-26T16:40:45.157Z",
   "kayitlar": [
     {
       "tarih": "2026-11-24",
@@ -587,69 +587,69 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1773914/000150629326000160/0001506293-26-000160-index.htm"
     },
     {
-      "tarih": "2026-11-23",
-      "dosyalama": "2026-11-25T18:43:37Z",
-      "ticker": "WWD",
-      "sirket": "Woodward, Inc.",
-      "kisi": "Lacey William F.",
-      "unvan": "EVP and CFO",
-      "tur": "satim",
-      "adet": 3509,
-      "fiyat": 350,
-      "toplam_usd": 1228150,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1857038/000119312526477738/0001193125-26-477738-index.htm"
-    },
-    {
-      "tarih": "2026-11-23",
-      "dosyalama": "2026-11-25T18:13:48Z",
-      "ticker": "LH",
-      "sirket": "LABCORP HOLDINGS INC.",
-      "kisi": "Schechter Adam H",
-      "unvan": "President & CEO",
-      "tur": "satim",
-      "adet": 6810,
-      "fiyat": 368.04,
-      "toplam_usd": 2506352.4,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1376841/000092014826000232/0000920148-26-000232-index.htm"
-    },
-    {
-      "tarih": "2026-11-23",
-      "dosyalama": "2026-11-25T18:12:20Z",
-      "ticker": "LH",
-      "sirket": "LABCORP HOLDINGS INC.",
-      "kisi": "Summy Amy B.",
-      "unvan": "EVP, Chief Marketing Officer",
-      "tur": "satim",
-      "adet": 4221,
-      "fiyat": 373.407,
-      "toplam_usd": 1576150.95,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1805303/000092014826000231/0000920148-26-000231-index.htm"
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-25T21:05:22Z",
+      "ticker": "TEAM",
+      "sirket": "Atlassian Corp",
+      "kisi": "Cannon-Brookes Michael",
+      "unvan": "CEO, Co-Founder",
+      "tur": "alim",
+      "adet": 13400,
+      "fiyat": 142.3775,
+      "toplam_usd": 1907858.06,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1650372/000166612026000042/0001666120-26-000042-index.htm"
     },
     {
       "tarih": "2026-11-24",
-      "dosyalama": "2026-11-25T17:00:49Z",
-      "ticker": "EBAY",
-      "sirket": "EBAY INC",
-      "kisi": "IANNONE JAMIE",
-      "unvan": "President and CEO",
+      "dosyalama": "2026-11-25T21:05:10Z",
+      "ticker": "CLDX",
+      "sirket": "Celldex Therapeutics, Inc.",
+      "kisi": "Martin Samuel Bates",
+      "unvan": "SVP AND CFO",
       "tur": "satim",
-      "adet": 35728,
-      "fiyat": 115.8007,
-      "toplam_usd": 4137326.06,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1495849/000106508826000237/0001065088-26-000237-index.htm"
+      "adet": 62061,
+      "fiyat": 30.6523,
+      "toplam_usd": 1902310.78,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/744218/000110465926132062/0001104659-26-132062-index.htm"
     },
     {
       "tarih": "2026-11-24",
-      "dosyalama": "2026-11-25T16:01:07Z",
-      "ticker": "ZIM",
-      "sirket": "ZIM Integrated Shipping Services Ltd.",
-      "kisi": "Dotan Saar",
-      "unvan": "EVP Countries & BD",
+      "dosyalama": "2026-11-25T21:05:07Z",
+      "ticker": "MSGE",
+      "sirket": "Madison Square Garden Entertainment Corp.",
+      "kisi": "D'Ambrosio Philip Gerard",
+      "unvan": "EVP and Treasurer",
       "tur": "satim",
-      "adet": 67200,
-      "fiyat": 30.1489,
-      "toplam_usd": 2026006.08,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1966890/000197640826000976/0001976408-26-000976-index.htm"
+      "adet": 19178,
+      "fiyat": 82.826,
+      "toplam_usd": 1588437.4,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1754973/000119312526478471/0001193125-26-478471-index.htm"
+    },
+    {
+      "tarih": "2026-11-23",
+      "dosyalama": "2026-11-25T21:02:29Z",
+      "ticker": "CART",
+      "sirket": "Maplebear Inc.",
+      "kisi": "Fong Morgan",
+      "unvan": "Chief Legal Officer",
+      "tur": "satim",
+      "adet": 18390,
+      "fiyat": 57.4808,
+      "toplam_usd": 1057071.91,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1990106/000199010626000030/0001990106-26-000030-index.htm"
+    },
+    {
+      "tarih": "2026-11-25",
+      "dosyalama": "2026-11-25T21:02:08Z",
+      "ticker": "EQH",
+      "sirket": "Equitable Holdings, Inc.",
+      "kisi": "Raju Robin M",
+      "unvan": "Chief Financial Officer",
+      "tur": "satim",
+      "adet": 20000,
+      "fiyat": 52.2546,
+      "toplam_usd": 1045092,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1333986/000162828026075950/0001628280-26-075950-index.htm"
     }
   ]
 }
