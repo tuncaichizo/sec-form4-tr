@@ -1,6 +1,19 @@
 {
-  "guncellendi": "2026-11-27T13:41:45.593Z",
+  "guncellendi": "2026-11-27T16:26:58.124Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-25",
+      "dosyalama": "2026-11-27T14:21:46Z",
+      "ticker": "JHX",
+      "sirket": "James Hardie Industries plc",
+      "kisi": "Singh Jesse G",
+      "unvan": "Director",
+      "tur": "satim",
+      "adet": 96469,
+      "fiyat": 28.6765,
+      "toplam_usd": 2766389.14,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1594032/000162828026076051/0001628280-26-076051-index.htm"
+    },
     {
       "tarih": "2026-11-24",
       "dosyalama": "2026-11-26T01:59:50Z",
@@ -637,19 +650,6 @@
       "fiyat": 57.4808,
       "toplam_usd": 1057071.91,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1990106/000199010626000030/0001990106-26-000030-index.htm"
-    },
-    {
-      "tarih": "2026-11-25",
-      "dosyalama": "2026-11-25T21:02:08Z",
-      "ticker": "EQH",
-      "sirket": "Equitable Holdings, Inc.",
-      "kisi": "Raju Robin M",
-      "unvan": "Chief Financial Officer",
-      "tur": "satim",
-      "adet": 20000,
-      "fiyat": 52.2546,
-      "toplam_usd": 1045092,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1333986/000162828026075950/0001628280-26-075950-index.htm"
     }
   ]
 }

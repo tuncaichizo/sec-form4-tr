@@ -1,6 +1,17 @@
 {
-  "guncellendi": "2026-11-27T13:41:59.170Z",
+  "guncellendi": "2026-11-27T16:27:19.756Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-27T15:12:17Z",
+      "ticker": "TDIC",
+      "sirket": "Dreamland Ltd",
+      "bildiren": "Seto Wai Yue ve diğerleri",
+      "pay_yuzde": 53.15,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2041338/000149315226054446/0001493152-26-054446-index.htm"
+    },
     {
       "tarih": "2026-11-12",
       "dosyalama": "2026-11-27T11:12:06Z",
@@ -825,17 +836,6 @@
       "tur": "13D",
       "degisiklik": true,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1759824/000119312526475637/0001193125-26-475637-index.htm"
-    },
-    {
-      "tarih": "2026-11-23",
-      "dosyalama": "2026-11-24T21:00:49Z",
-      "ticker": "NSLR",
-      "sirket": "Neostellar Capital Corp.",
-      "bildiren": "GAMCO INVESTORS, INC. ET AL ve diğerleri",
-      "pay_yuzde": 7,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1509470/000080724926000096/0000807249-26-000096-index.htm"
     },
     {
       "tarih": "2026-11-20",
