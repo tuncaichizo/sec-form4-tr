@@ -1,6 +1,39 @@
 {
-  "guncellendi": "2026-11-26T03:10:41.957Z",
+  "guncellendi": "2026-11-27T13:41:59.170Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-12",
+      "dosyalama": "2026-11-27T11:12:06Z",
+      "ticker": "AORT",
+      "sirket": "ARTIVION, INC.",
+      "bildiren": "Ophir Asset Management Pty Ltd",
+      "pay_yuzde": 5.1,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/784199/000184464026000010/0001844640-26-000010-index.htm"
+    },
+    {
+      "tarih": "2026-11-25",
+      "dosyalama": "2026-11-27T11:04:27Z",
+      "ticker": "BTDR",
+      "sirket": "BITDEER TECHNOLOGIES GROUP",
+      "bildiren": "Tether Global Investments Fund, S.I.C.A.F., S.A. ve diğerleri",
+      "pay_yuzde": 17.9,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1899123/000110465926132244/0001104659-26-132244-index.htm"
+    },
+    {
+      "tarih": "2026-11-25",
+      "dosyalama": "2026-11-27T11:04:06Z",
+      "ticker": "VMET",
+      "sirket": "VERSAMET ROYALTIES CORPORATION",
+      "bildiren": "Tether Global Investments Fund, S.I.C.A.F., S.A. ve diğerleri",
+      "pay_yuzde": 13.7,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2080073/000110465926132241/0001104659-26-132241-index.htm"
+    },
     {
       "tarih": "2026-10-14",
       "dosyalama": "2026-11-26T02:56:24Z",
@@ -805,28 +838,6 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1509470/000080724926000096/0000807249-26-000096-index.htm"
     },
     {
-      "tarih": "2026-11-24",
-      "dosyalama": "2026-11-24T21:00:25Z",
-      "ticker": "CNDT",
-      "sirket": "Conduent Incorporated",
-      "bildiren": "DD REVOCABLE TRUST ve diğerleri",
-      "pay_yuzde": 7.65,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1677703/000110465926131555/0001104659-26-131555-index.htm"
-    },
-    {
-      "tarih": "2025-10-10",
-      "dosyalama": "2026-11-24T21:00:08Z",
-      "ticker": "IOTR",
-      "sirket": "iOThree Limited",
-      "bildiren": "Eng Chye Koh ve diğerleri",
-      "pay_yuzde": 39.5,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1997637/000121390026123652/0001213900-26-123652-index.htm"
-    },
-    {
       "tarih": "2026-11-20",
       "dosyalama": "2026-11-24T20:05:20Z",
       "ticker": "OFRM",
@@ -1089,17 +1100,6 @@
       "tur": "13G",
       "degisiklik": false,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1420565/000093583626000652/0000935836-26-000652-index.htm"
-    },
-    {
-      "tarih": "2026-10-08",
-      "dosyalama": "2026-11-23T17:48:48Z",
-      "ticker": "YMAT",
-      "sirket": "J-Star Holding Co., Ltd.",
-      "bildiren": "CLEARTHINK CAPITAL PARTNERS, LLC",
-      "pay_yuzde": 9.99,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1875016/000121390026123061/0001213900-26-123061-index.htm"
     }
   ]
 }
