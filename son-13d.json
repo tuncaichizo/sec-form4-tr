@@ -1,6 +1,83 @@
 {
-  "guncellendi": "2026-11-27T16:27:19.756Z",
+  "guncellendi": "2026-11-27T22:24:26.431Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-27T21:41:33Z",
+      "ticker": "TRIP",
+      "sirket": "TripAdvisor, Inc.",
+      "bildiren": "Pale Fire Capital SICAV a.s. ve diğerleri",
+      "pay_yuzde": 8.7,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1526520/000119380526001529/0001193805-26-001529-index.htm"
+    },
+    {
+      "tarih": "2026-11-19",
+      "dosyalama": "2026-11-27T21:29:59Z",
+      "ticker": "NIVF",
+      "sirket": "NewGenIvf Group Limited",
+      "bildiren": "Orca Capital AG",
+      "pay_yuzde": 9.9,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1981662/000149315226054500/0001493152-26-054500-index.htm"
+    },
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-27T21:09:56Z",
+      "ticker": "XGPU",
+      "sirket": "Reliance Global Group, Inc.",
+      "bildiren": "Ezra Beyman ve diğerleri",
+      "pay_yuzde": 17.9,
+      "tur": "13D",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226054496/0001493152-26-054496-index.htm"
+    },
+    {
+      "tarih": "2026-11-25",
+      "dosyalama": "2026-11-27T20:42:55Z",
+      "ticker": "AIOK",
+      "sirket": "AI OKTO CORP.",
+      "bildiren": "Pani Corp. ve diğerleri",
+      "pay_yuzde": 84.8,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/2095591/000095015726001296/0000950157-26-001296-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-27T19:14:39Z",
+      "ticker": "APMD",
+      "sirket": "Apnimed, Inc.",
+      "bildiren": "Alpha Wave Global, LP ve diğerleri",
+      "pay_yuzde": 16.9,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1745648/000091957426008281/0000919574-26-008281-index.htm"
+    },
+    {
+      "tarih": "2026-11-20",
+      "dosyalama": "2026-11-27T18:53:54Z",
+      "ticker": "WULF",
+      "sirket": "TERAWULF INC.",
+      "bildiren": "JANE STREET GROUP, LLC ve diğerleri",
+      "pay_yuzde": 5.9,
+      "tur": "13G",
+      "degisiklik": false,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1083301/000159588826000172/0001595888-26-000172-index.htm"
+    },
+    {
+      "tarih": "2026-09-30",
+      "dosyalama": "2026-11-27T18:38:02Z",
+      "ticker": "DDL",
+      "sirket": "Dingdong (Cayman) Limited",
+      "bildiren": "DDL Group Limited ve diğerleri",
+      "pay_yuzde": 24.8,
+      "tur": "13G",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1854545/000119312526479927/0001193125-26-479927-index.htm"
+    },
     {
       "tarih": "2026-11-19",
       "dosyalama": "2026-11-27T15:12:17Z",
@@ -806,39 +883,6 @@
     },
     {
       "tarih": "2026-11-20",
-      "dosyalama": "2026-11-24T21:09:52Z",
-      "ticker": "CLYD",
-      "sirket": "Clywedog Therapeutics Holdings, Inc.",
-      "bildiren": "TPAV, LLC ve diğerleri",
-      "pay_yuzde": 32.8,
-      "tur": "13D",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/2094256/000110465926131592/0001104659-26-131592-index.htm"
-    },
-    {
-      "tarih": "2026-11-23",
-      "dosyalama": "2026-11-24T21:07:43Z",
-      "ticker": "NEXN",
-      "sirket": "Nexxen International Ltd.",
-      "bildiren": "Mithaq Capital SPC ve diğerleri",
-      "pay_yuzde": 25.6,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1849396/000183460026000047/0001834600-26-000047-index.htm"
-    },
-    {
-      "tarih": "2026-11-23",
-      "dosyalama": "2026-11-24T21:05:03Z",
-      "ticker": "ALTG",
-      "sirket": "Alta Equipment Group Inc.",
-      "bildiren": "Mill Road Capital III, L.P. ve diğerleri",
-      "pay_yuzde": 13.3,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1759824/000119312526475637/0001193125-26-475637-index.htm"
-    },
-    {
-      "tarih": "2026-11-20",
       "dosyalama": "2026-11-24T20:05:20Z",
       "ticker": "OFRM",
       "sirket": "Once Upon a Farm, PBC",
@@ -1056,50 +1100,6 @@
       "tur": "13G",
       "degisiklik": false,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1291855/000116169726000263/0001161697-26-000263-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-23T21:02:45Z",
-      "ticker": "MP",
-      "sirket": "MP Materials Corp.",
-      "bildiren": "D. E. Shaw & Co., L.P. ve diğerleri",
-      "pay_yuzde": 5,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1801368/000110465926131054/0001104659-26-131054-index.htm"
-    },
-    {
-      "tarih": "2026-11-19",
-      "dosyalama": "2026-11-23T17:52:53Z",
-      "ticker": "XGN",
-      "sirket": "EXAGEN INC",
-      "bildiren": "Laurence W. Lytton",
-      "pay_yuzde": 5.3,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1274737/000093583626000656/0000935836-26-000656-index.htm"
-    },
-    {
-      "tarih": "2026-11-01",
-      "dosyalama": "2026-11-23T17:51:14Z",
-      "ticker": "KLNG",
-      "sirket": "Koil Energy Solutions, Inc.",
-      "bildiren": "Laurence W. Lytton",
-      "pay_yuzde": 5,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1110607/000093583626000654/0000935836-26-000654-index.htm"
-    },
-    {
-      "tarih": "2026-11-16",
-      "dosyalama": "2026-11-23T17:49:24Z",
-      "ticker": "RNTX",
-      "sirket": "REIN THERAPEUTICS, INC.",
-      "bildiren": "Laurence W. Lytton",
-      "pay_yuzde": 5.4,
-      "tur": "13G",
-      "degisiklik": false,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1420565/000093583626000652/0000935836-26-000652-index.htm"
     }
   ]
 }
