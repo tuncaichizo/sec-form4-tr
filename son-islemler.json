@@ -1,5 +1,5 @@
 {
-  "guncellendi": "2026-11-28T04:06:19.177Z",
+  "guncellendi": "2026-11-28T15:19:25.061Z",
   "kayitlar": [
     {
       "tarih": "2026-11-25",
@@ -314,6 +314,45 @@
       "sec_link": "https://www.sec.gov/Archives/edgar/data/2028332/000202833226000004/0002028332-26-000004-index.htm"
     },
     {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-27T18:06:01Z",
+      "ticker": "VCEL",
+      "sirket": "Vericel Corp",
+      "kisi": "Mara Joseph Anthony Jr",
+      "unvan": "Chief Financial Officer",
+      "tur": "satim",
+      "adet": 24992,
+      "fiyat": 60.5,
+      "toplam_usd": 1512016,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1841148/000114036126045857/0001140361-26-045857-index.htm"
+    },
+    {
+      "tarih": "2026-11-25",
+      "dosyalama": "2026-11-27T18:03:52Z",
+      "ticker": "ARDT",
+      "sirket": "Ardent Health, Inc.",
+      "kisi": "CHAI TRUST CO LLC",
+      "unvan": "10% Owner",
+      "tur": "satim",
+      "adet": 1070508,
+      "fiyat": 13.7025,
+      "toplam_usd": 14668635.87,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1756655/000090514826005186/0000905148-26-005186-index.htm"
+    },
+    {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-27T17:07:47Z",
+      "ticker": "KMB",
+      "sirket": "KIMBERLY CLARK CORP",
+      "kisi": "Perry Kirk",
+      "unvan": "Director",
+      "tur": "satim",
+      "adet": 48551,
+      "fiyat": 107.935,
+      "toplam_usd": 5240352.19,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/55785/000122520826009172/0001225208-26-009172-index.htm"
+    },
+    {
       "tarih": "2026-11-25",
       "dosyalama": "2026-11-27T14:21:46Z",
       "ticker": "JHX",
@@ -611,45 +650,6 @@
       "fiyat": 27.93,
       "toplam_usd": 2234400,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1632790/000163279026000117/0001632790-26-000117-index.htm"
-    },
-    {
-      "tarih": "2026-11-23",
-      "dosyalama": "2026-11-25T21:46:50Z",
-      "ticker": "AFL",
-      "sirket": "AFLAC INC",
-      "kisi": "Japan Post Holdings Co., Ltd.",
-      "unvan": "10% Owner",
-      "tur": "satim",
-      "adet": 15700,
-      "fiyat": 125.0149,
-      "toplam_usd": 1962734.4,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926132138/0001104659-26-132138-index.htm"
-    },
-    {
-      "tarih": "2026-11-24",
-      "dosyalama": "2026-11-25T21:44:57Z",
-      "ticker": "COHR",
-      "sirket": "COHERENT CORP.",
-      "kisi": "PAGLIUCA STEPHEN G",
-      "unvan": "Director",
-      "tur": "alim",
-      "adet": 169910,
-      "fiyat": 203.9485,
-      "toplam_usd": 34652890.21,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1240386/000089914026001413/0000899140-26-001413-index.htm"
-    },
-    {
-      "tarih": "2026-11-23",
-      "dosyalama": "2026-11-25T21:36:20Z",
-      "ticker": "TXG",
-      "sirket": "10x Genomics, Inc.",
-      "kisi": "Saxonov Serge",
-      "unvan": "Chief Executive Officer",
-      "tur": "satim",
-      "adet": 30674,
-      "fiyat": 57.2976,
-      "toplam_usd": 1757546.58,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1786720/000161071726000472/0001610717-26-000472-index.htm"
     }
   ]
 }
