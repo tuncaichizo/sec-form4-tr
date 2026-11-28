@@ -1,6 +1,28 @@
 {
-  "guncellendi": "2026-11-27T22:24:26.431Z",
+  "guncellendi": "2026-11-28T04:06:42.811Z",
   "kayitlar": [
+    {
+      "tarih": "2026-11-27",
+      "dosyalama": "2026-11-28T02:58:24Z",
+      "ticker": "CMP",
+      "sirket": "Compass Minerals International, Inc.",
+      "bildiren": "KM&T Investment Holdings, LLC ve diğerleri",
+      "pay_yuzde": 16.6,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1227654/000119312526480531/0001193125-26-480531-index.htm"
+    },
+    {
+      "tarih": "2026-11-24",
+      "dosyalama": "2026-11-28T01:59:56Z",
+      "ticker": "XRX",
+      "sirket": "Xerox Holdings Corp",
+      "bildiren": "STARTEEPO SICAV a.s. ve diğerleri",
+      "pay_yuzde": 1.27,
+      "tur": "13D",
+      "degisiklik": true,
+      "sec_link": "https://www.sec.gov/Archives/edgar/data/1770450/000149315226054525/0001493152-26-054525-index.htm"
+    },
     {
       "tarih": "2026-11-24",
       "dosyalama": "2026-11-27T21:41:33Z",
@@ -836,28 +858,6 @@
       "tur": "13D",
       "degisiklik": false,
       "sec_link": "https://www.sec.gov/Archives/edgar/data/1347178/000119312526475804/0001193125-26-475804-index.htm"
-    },
-    {
-      "tarih": "2026-11-20",
-      "dosyalama": "2026-11-24T21:15:31Z",
-      "ticker": "DAC",
-      "sirket": "DANAOS CORPORATION",
-      "bildiren": "Danaos Investment Limited as Trustee of the 883 Trust ve diğerleri",
-      "pay_yuzde": 52.8,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/1369241/000110465926131606/0001104659-26-131606-index.htm"
-    },
-    {
-      "tarih": "2026-11-04",
-      "dosyalama": "2026-11-24T21:15:17Z",
-      "ticker": "NRC",
-      "sirket": "NRC Health",
-      "bildiren": "Common Property Trust ve diğerleri",
-      "pay_yuzde": 47.2,
-      "tur": "13D",
-      "degisiklik": true,
-      "sec_link": "https://www.sec.gov/Archives/edgar/data/70487/000100888626000254/0001008886-26-000254-index.htm"
     },
     {
       "tarih": "2026-11-24",
